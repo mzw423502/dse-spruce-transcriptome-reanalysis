@@ -1,0 +1,21 @@
+{
+  "audit_type": "read_only_final_remote_status",
+  "status": "NO_RESIDUAL_CANDIDATE_DOMAIN_COMPUTATION",
+  "beijing_time": "2026-11-10T22:51:41+08:00",
+  "audit_exit_code": 0,
+  "process_check": {
+    "patterns": ["candidate_domain", "pyhmmer_scan", "rerun_from_frozen"],
+    "matching_processes": []
+  },
+  "resource_summary": {
+    "online_cpu": 8,
+    "memory_mib": {"total": 15418, "used": 3819, "available": 11598},
+    "disk": {"filesystem": "/dev/sda1", "mounted_on": "/home", "size": "1.8T", "used": "414G", "available": "1.3T", "use_percent": "24%"}
+  },
+  "authoritative_completed_receipt": "receipts/complete_targeted_scan_receipt.json",
+  "verified_artifacts": [
+    "results/domain_hit_summary_with_ga.tsv",
+    "rerun_qa/rerun_domain_hits.tsv"
+  ],
+  "note": "This receipt was produced by read-only process/resource/artifact checks; no scientific calculation was started, stopped, or modified."
+}

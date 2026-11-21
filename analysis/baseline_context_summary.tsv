@@ -1,0 +1,7 @@
+set	P0_P1_direction_stratum	n	q_pair_finite	q_pair_nonfinite	D0_q_lt_0_05	D1_q_lt_0_05	both_D0_D1_q_lt_0_05	D0_only_q_lt_0_05	D1_only_q_lt_0_05	neither_D0_D1_q_lt_0_05
+original_DESeq2_391	all	391	391	0	387	68	64	323	4	0
+original_DESeq2_391	P0_positive_P1_negative	348	348	0	345	58	55	290	3	0
+original_DESeq2_391	P0_negative_P1_positive	43	43	0	42	10	9	33	1	0
+three_route_supported_127	all	127	127	0	127	27	27	100	0	0
+three_route_supported_127	P0_positive_P1_negative	106	106	0	106	22	22	84	0	0
+three_route_supported_127	P0_negative_P1_positive	21	21	0	21	5	5	16	0	0

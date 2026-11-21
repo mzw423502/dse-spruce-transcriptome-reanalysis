@@ -1,0 +1,58 @@
+{
+  "created_bjt": "2026-11-11T00:07:33.106690+08:00",
+  "scope": "Input extraction only; no enrichment outcomes computed",
+  "input_sha256": {
+    "11_progress/heartbeat_20261028_0859/statistics_import_fix_v1/results/primary/test_universe.tsv": "60023ffd38ddc673b40a3c486e57b0eb3fc0e7767b82158abd1d0941da68dbdc",
+    "03_reference/host_fungal_31mer_risk.tsv": "20557f53b92eac8c942a987344c0336e6eb02b6da3a4720b4e1eecbf04f5ebd3",
+    "03_reference/sequence_equivalence_annotation.tsv": "7571dcb7575ef51e4df7564c732be7f4ff36e44b1ebbb4b6560b943341fa2d5a",
+    "11_progress/heartbeat_20261028_0859/statistics_import_fix_v1/results/primary/DESeq2_feature_diagnostics.tsv": "16fb9685ebc8b88e45c75363c647a73149819a4e1916db7aeca1eb5893d8069c",
+    "08_reports/manuscript_revision_20261101/primary391_five_contrasts.tsv": "2d9e8df4178660e78ccad0ecc16c3b7ba1054ecb09cf22065d9a542391ecd1b8",
+    "08_reports/manuscript_revision_20261101/primary391_allN_classification.tsv": "cf8cfb1dccd4f32ce8647d6ac2733f7d95dd9179742827ebf142f711160fd749",
+    "08_reports/manuscript_revision_20261101/primary391_competition_classification.tsv": "df96492461ac7cb8f00929b337e8dbb4916e6cbdbb4b3e194baa922e0060857d",
+    "08_reports/manuscript_revision_20261101/primary391_edgeR_QL_classification.tsv": "979d5634a2863d7906ef992f62fdd74b4307ee8c413e82c1a7f792276631891e",
+    "11_progress/heartbeat_20261028_0859/statistics_import_fix_v1/results/primary/pathogen_response_plane.tsv": "8615f7b1dc0eaaaa050b911197006910ab22d5e045f143494208566659d59f88",
+    "03_reference/annotation_extension/hourly_20261017_0745/go_version_audit/go-basic.obo": "b08d45b268b8c24ccb2513dbbbc7d4df9f6521c099b413f79eb31e06e0fa3bcc",
+    "06_statistics/enrichment_extension_20261110/annotation_audit/term_semantic_exclusions.tsv": "2c584dc8c5cf62a607f20eced34be3709dff78c000241b45127c5ca0bf728cd9",
+    "03_reference/unit_term_membership.tsv": "0af522e5c939052e0bdc2ec6af5d8cc0ff14d75e285ae658ccf90b1da7a9238a"
+  },
+  "counts": {
+    "background": {
+      "total": 41139,
+      "BP_annotated": 25482
+    },
+    "opposite391": {
+      "total": 391,
+      "BP_annotated": 213
+    },
+    "P0up_P1down348": {
+      "total": 348,
+      "BP_annotated": 184
+    },
+    "P0down_P1up43": {
+      "total": 43,
+      "BP_annotated": 29
+    },
+    "strict127": {
+      "total": 127,
+      "BP_annotated": 79
+    },
+    "strict106": {
+      "total": 106,
+      "BP_annotated": 67
+    },
+    "strict21": {
+      "total": 21,
+      "BP_annotated": 12
+    }
+  },
+  "BP_terms_valid": 100,
+  "excluded_memberships": 17401,
+  "output_sha256": {
+    "universe.tsv": "ed695c5c0df110860922ae16b3a7e2291d691f5efcf8ea4bc69cf6ef98502f69",
+    "selected_five_contrasts.tsv": "e21a9ed75c637f6d399f649c0ddf6d25582faf4774b823516d62ebef9997961a",
+    "selected_identity.tsv": "b910c361f2c2d9a9efeddef330b56236750390cca6346671f5944ae2442ce424",
+    "terms.tsv": "e492872cc9526b51bec8853dac0e34fa9109a37d411baf597a829a1da4cc3b87",
+    "memberships.tsv": "676281945812198e46bfcbcb5acb0c339b18f4d200787aec853100375ef3517d",
+    "excluded_memberships.tsv": "1a0d5fdec40e34feb79c661bc26a48938c078557a0f0cccc0e958faf38c8201e"
+  }
+}

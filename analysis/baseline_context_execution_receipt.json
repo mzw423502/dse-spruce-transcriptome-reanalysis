@@ -1,0 +1,27 @@
+{
+  "finished_utc": "2026-10-31T16:57:23.288601+00:00",
+  "returncode": 0,
+  "inputs": [
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/08_reports/manuscript_revision_20261101/primary391_five_contrasts.tsv",
+      "sha256": "2d9e8df4178660e78ccad0ecc16c3b7ba1054ecb09cf22065d9a542391ecd1b8"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/08_reports/manuscript_revision_20261101/primary391_allN_classification.tsv",
+      "sha256": "cf8cfb1dccd4f32ce8647d6ac2733f7d95dd9179742827ebf142f711160fd749"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/08_reports/manuscript_revision_20261101/primary391_competition_classification.tsv",
+      "sha256": "df96492461ac7cb8f00929b337e8dbb4916e6cbdbb4b3e194baa922e0060857d"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/08_reports/manuscript_revision_20261101/primary391_edgeR_QL_classification.tsv",
+      "sha256": "979d5634a2863d7906ef992f62fdd74b4307ee8c413e82c1a7f792276631891e"
+    }
+  ],
+  "script": {
+    "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/08_reports/manuscript_revision_20261101/baseline_context_summary.py",
+    "sha256": "45de752142b4de01dadab6a34938ad8503d965df0576b6c84946e58740d954d2"
+  },
+  "scope": "read-only descriptive summary; no model refit"
+}

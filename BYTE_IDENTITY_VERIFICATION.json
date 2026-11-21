@@ -1,0 +1,7 @@
+{
+  "source06_members_checked": 118,
+  "source05_members_checked": 3,
+  "byte_identity_passed": true,
+  "mismatches": [],
+  "note": "The two S5 TSV files occur in both source archives and were compared to each source. The original S5 README was added as a separate repository file."
+}

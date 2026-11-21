@@ -1,0 +1,392 @@
+unit_id	representative_gene	member_gene_ids	annotation_description
+PaEq_00643aa7afabfc58	MA_10426697g0020	MA_10426697g0020	XP_020677531.1 probable protein phosphatase 2C 25 [Dendrobium catenatum]
+PaEq_016fb93e4310d26d	MA_3640883g0010	MA_3640883g0010	
+PaEq_019525d2de66bad6	MA_10042865g0010	MA_10042865g0010	
+PaEq_01fc477290d3269d	MA_552950g0010	MA_552950g0010	
+PaEq_028e649535709ac0	MA_3619173g0010	MA_3619173g0010	
+PaEq_02db5d4e75360954	MA_276143g0010	MA_276143g0010	XP_024403862.1 mitogen-activated protein kinase kinase kinase YODA-like [Physcomitrella patens]
+PaEq_05a05a75307e0d9a	MA_265852g0010	MA_265852g0010	
+PaEq_0622634da30caab5	MA_10426946g0030	MA_10426946g0030	XP_031485053.1 COBRA-like protein 10 [Nymphaea colorata]
+PaEq_0699f2d2c3266fef	MA_24094g0010	MA_24094g0010	XP_030940791.1 uncharacterized protein LOC115965655 [Quercus lobata]
+PaEq_06b7d9ba85faaecd	MA_11280g0010	MA_11280g0010	
+PaEq_07abb2323c60ded5	MA_10434734g0010	MA_10434734g0010	
+PaEq_0808aeceed672ef0	MA_1599325g0010	MA_1599325g0010	
+PaEq_08520baa32e624b8	MA_83739g0020	MA_83739g0020	XP_031271628.1 U-box domain-containing protein 26-like isoform X1 [Pistacia vera]
+PaEq_08ab00eca200fc94	MA_110169g0010	MA_110169g0010	XP_006382423.1 dnaJ homolog subfamily B member 3 [Populus trichocarpa]
+PaEq_08b4d5798680cb08	MA_10048467g0010	MA_10048467g0010	XP_030928003.1 transcription repressor MYB5-like [Quercus lobata]
+PaEq_09da252750503f06	MA_10430220g0010	MA_10430220g0010	XP_031251569.1 transcription factor MYB4 [Pistacia vera]
+PaEq_0a137786d4f1e077	MA_134886g0010	MA_134886g0010	XP_021675669.1 MACPF domain-containing protein At1g14780-like [Hevea brasiliensis]
+PaEq_0ae4234af705c08f	MA_118702g0010	MA_118702g0010	XP_023512863.1 trans-cinnamate 4-monooxygenase-like [Cucurbita pepo subsp. pepo]
+PaEq_0cefae8dda7dc39e	MA_10433310g0010	MA_10433310g0010	XP_006358390.1 PREDICTED: ethylene-responsive transcription factor ERF027-like [Solanum tuberosum]
+PaEq_0df9335728cb7177	MA_23704g0020	MA_23704g0020	
+PaEq_0e84327fa04cc521	MA_6356698g0010	MA_6356698g0010	
+PaEq_0f5517217b766e08	MA_566408g0010	MA_566408g0010	XP_031498583.1 12-oxophytodienoate reductase 3 [Nymphaea colorata]
+PaEq_0fa61c6a63df7366	MA_525082g0010	MA_525082g0010	
+PaEq_1086b8fb04babff3	MA_36867g0010	MA_36867g0010	XP_031484128.1 UDP-glycosyltransferase 91C1 [Nymphaea colorata]
+PaEq_10ca970bb768ced4	MA_10319736g0010	MA_10319736g0010;MA_10321051g0010	
+PaEq_1149801b51972b1b	MA_10433230g0010	MA_10433230g0010	XP_009393994.1 PREDICTED: arogenate dehydratase/prephenate dehydratase 2, chloroplastic-like [Musa acuminata subsp. malaccensis]
+PaEq_11f829c59bcc3bd9	MA_2905927g0010	MA_2905927g0010	
+PaEq_124791c885b0745f	MA_52380g0010	MA_52380g0010	XP_023540826.1 UDP-glucuronate 4-epimerase 3 [Cucurbita pepo subsp. pepo]
+PaEq_13c24dc8af35e3d2	MA_10435565g0010	MA_10435565g0010	XP_009606160.1 protein EXORDIUM-like 2 [Nicotiana tomentosiformis]
+PaEq_13d8fa200db55344	MA_31046g0010	MA_31046g0010	XP_027358743.1 uncharacterized protein LOC113867552 [Abrus precatorius]
+PaEq_1450a5d535c4faee	MA_524889g0010	MA_524889g0010	
+PaEq_15d555a9eb2a6f04	MA_948744g0010	MA_948744g0010	
+PaEq_15eed55d1e12e5d4	MA_913483g0010	MA_913483g0010	
+PaEq_1637735ad67ebeeb	MA_7329264g0010	MA_7329264g0010	
+PaEq_16544b7b94581b98	MA_6242441g0010	MA_6242441g0010	
+PaEq_16f5772ab6e94e0f	MA_748060g0010	MA_748060g0010	
+PaEq_1722b0656c16d1f3	MA_402811g0010	MA_402811g0010	XP_024359674.1 uncharacterized protein LOC112274419 [Physcomitrella patens]
+PaEq_192fac1c28eaf582	MA_7592456g0010	MA_7592456g0010	
+PaEq_197657838ab26b69	MA_78702g0010	MA_78702g0010	XP_012091056.1 RING-H2 finger protein ATL74 [Jatropha curcas]
+PaEq_19f2d22db6e1b95d	MA_3387414g0010	MA_3387414g0010	
+PaEq_1a89c5496502474f	MA_8177242g0010	MA_8177242g0010	XP_020258860.1 putative UDP-rhamnose:rhamnosyltransferase 1 [Asparagus officinalis]
+PaEq_1aaaa8c9bba2a754	MA_959784g0010	MA_959784g0010	NP_001238500.1 dehydration-responsive element binding protein 3 [Glycine max]
+PaEq_1b15eda3d8e76d8e	MA_10426094g0010	MA_10426094g0010	XP_031126808.1 GDP-L-galactose phosphorylase 1-like [Ipomoea triloba]
+PaEq_1c0d5299ab724f64	MA_8673616g0010	MA_8673616g0010	
+PaEq_1c27fb1a35e816b3	MA_177086g0010	MA_177086g0010	XP_028091657.1 probable protein phosphatase 2C 25 [Camellia sinensis]
+PaEq_1d8e258cd2437b34	MA_10427544g0020	MA_10427544g0020	XP_003546064.1 uncharacterized protein LOC100795398 isoform X1 [Glycine max]
+PaEq_1e16dd162f580396	MA_92070g0010	MA_92070g0010	
+PaEq_1e2f03eb4f073d67	MA_4032g0010	MA_4032g0010	
+PaEq_1f23c10fc1455dae	MA_6887994g0010	MA_6887994g0010	XP_021887147.1 L-ascorbate oxidase homolog [Carica papaya]
+PaEq_1f6009cde23799b9	MA_9805710g0010	MA_9805710g0010	XP_020217884.1 L-ascorbate oxidase homolog [Cajanus cajan]
+PaEq_1f7288877df9aa82	MA_10431324g0020	MA_10431324g0020	XP_016554937.1 PREDICTED: probable calcium-binding protein CML44 isoform X1 [Capsicum annuum]
+PaEq_1f876bfe7cb24ac9	MA_103914g0010	MA_103914g0010	
+PaEq_20978ffac26733c4	MA_10433187g0010	MA_10433187g0010	XP_022146227.1 subtilisin-like protease SBT1.6 [Momordica charantia]
+PaEq_21e6736761ca0abd	MA_10429336g0010	MA_10429336g0010	XP_020880310.1 calmodulin-7 [Arabidopsis lyrata subsp. lyrata]
+PaEq_23372bbff09fac8b	MA_214532g0010	MA_214532g0010	XP_006843906.1 ethylene-responsive transcription factor ERF017 [Amborella trichopoda]
+PaEq_23e93337d517a327	MA_9501502g0010	MA_9501502g0010	
+PaEq_241446a3c4b26088	MA_195760g0010	MA_195760g0010	NP_001170448.2 uncharacterized protein LOC100384440 [Zea mays]
+PaEq_256c6fd03072190c	MA_10106144g0010	MA_10106144g0010	XP_006828605.1 RING-H2 finger protein ATL2 [Amborella trichopoda]
+PaEq_2599bb51588d540e	MA_638271g0010	MA_638271g0010	
+PaEq_278cb1ef0086e785	MA_69557g0010	MA_69557g0010	XP_030545530.1 TMV resistance protein N-like [Rhodamnia argentea]
+PaEq_27d0e676e78d8fbc	MA_80084g0010	MA_80084g0010	XP_022850597.1 serine/threonine-protein kinase-like protein CCR4 [Olea europaea var. sylvestris]
+PaEq_283540c8dc09f30b	MA_10435931g0010	MA_10435931g0010	XP_024953302.1 proline-rich receptor-like protein kinase PERK1 [Citrus sinensis]
+PaEq_296454d963944b35	MA_108915g0010	MA_108915g0010	XP_024366294.1 F-box/kelch-repeat protein At5g15710-like [Physcomitrella patens]
+PaEq_29fa078cdd59040a	MA_17466g0010	MA_17466g0010	XP_027080204.1 transcription factor KUA1 [Coffea arabica]
+PaEq_2b231a50233bc07e	MA_10437104g0020	MA_10437104g0020	
+PaEq_2b36d2cc3fafcff0	MA_10426697g0010	MA_10426697g0010	XP_022556295.1 probable protein phosphatase 2C 25 [Brassica napus]
+PaEq_2ba6044e5911309e	MA_11043g0030	MA_11043g0030	XP_023925310.1 linoleate 9S-lipoxygenase 5-like, partial [Quercus suber]
+PaEq_2bf946817ae07d67	MA_108992g0010	MA_108992g0010	XP_006843906.1 ethylene-responsive transcription factor ERF017 [Amborella trichopoda]
+PaEq_2c8ec55096583661	MA_6382703g0010	MA_6382703g0010	
+PaEq_2d3523dd9b008388	MA_10436499g0020	MA_10436499g0020	
+PaEq_2d9444b0fa530c01	MA_1929041g0010	MA_1929041g0010	
+PaEq_2ea628264c215088	MA_264882g0010	MA_264882g0010	
+PaEq_2ede1fa0c41e1fc3	MA_7668424g0010	MA_7668424g0010	
+PaEq_2f6cf301a2aec75f	MA_1315g0010	MA_1315g0010	
+PaEq_304abd43e3da363f	MA_16984g0010	MA_16984g0010	XP_008218194.1 PREDICTED: probable serine/threonine-protein kinase WNK9 isoform X1 [Prunus mume]
+PaEq_30c1b9039eef1d97	MA_7180573g0010	MA_7180573g0010	
+PaEq_30e1e1cce690ad0d	MA_169487g0010	MA_169487g0010	
+PaEq_313b0fe779c64758	MA_9669741g0010	MA_9669741g0010	
+PaEq_3189eb1b7b3317f8	MA_375685g0010	MA_375685g0010	
+PaEq_32294a90cd220eee	MA_49848g0010	MA_49848g0010	
+PaEq_324407be46a51b2c	MA_897390g0010	MA_897390g0010	XP_016203936.1 uncharacterized protein LOC107644563 [Arachis ipaensis]
+PaEq_32c4d411868afab2	MA_10433706g0010	MA_10433706g0010	XP_008793226.1 NDR1/HIN1-like protein 13 [Phoenix dactylifera]
+PaEq_33bc019d6b8abab8	MA_116719g0010	MA_116719g0010	XP_011012070.1 PREDICTED: L-type lectin-domain containing receptor kinase IX.1-like, partial [Populus euphratica]
+PaEq_341b652852b29099	MA_10261788g0010	MA_10261788g0010	
+PaEq_34816b3783adfac2	MA_10297309g0010	MA_10297309g0010	
+PaEq_368abda3c36363ab	MA_10168324g0010	MA_10168324g0010	XP_031498086.1 calcium-binding protein KIC-like [Nymphaea colorata]
+PaEq_36f554bbdaf9967e	MA_90879g0010	MA_90879g0010	XP_006828158.1 uncharacterized protein LOC18423494 [Amborella trichopoda]
+PaEq_378e469ba5e5bf15	MA_10021946g0010	MA_10021946g0010	
+PaEq_38346a7a5168274d	MA_49467g0010	MA_49467g0010	XP_010910389.1 uncharacterized protein LOC105036318 [Elaeis guineensis]
+PaEq_3862beeaef6b681a	MA_7913828g0010	MA_7913828g0010	
+PaEq_39bfaa894f9206ab	MA_6286334g0010	MA_6286334g0010	
+PaEq_39c0ab3170887580	MA_10429904g0010	MA_10429904g0010	
+PaEq_39edb385cf5c5805	MA_7274893g0010	MA_7274893g0010	XP_021851035.1 putative pectinesterase 11 [Spinacia oleracea]
+PaEq_3ac93280fe1b5e00	MA_215362g0010	MA_215362g0010	
+PaEq_3aeb5668172827b7	MA_10432403g0010	MA_10432403g0010	XP_021609530.1 probable galacturonosyltransferase-like 7 [Manihot esculenta]
+PaEq_3b41f4e549313d54	MA_69735g0010	MA_69735g0010	
+PaEq_3bf11dd2bf14614f	MA_9273744g0010	MA_9273744g0010	
+PaEq_3c84ead59084d029	MA_414577g0010	MA_414577g0010	XP_018834453.1 PREDICTED: uncharacterized protein LOC109001558 [Juglans regia]
+PaEq_3c9985b31789478f	MA_70029g0010	MA_70029g0010	XP_021611445.1 B3 domain-containing transcription factor NGA1-like isoform X1 [Manihot esculenta]
+PaEq_3f3e81d068b4823d	MA_4246800g0010	MA_4246800g0010	
+PaEq_3f64269aa0242c9e	MA_10362365g0010	MA_10362365g0010	
+PaEq_3fc153ae06abc249	MA_721447g0010	MA_721447g0010	XP_009387209.1 PREDICTED: putative leucine-rich repeat receptor-like serine/threonine-protein kinase At2g19230, partial [Musa acuminata subsp. malaccensis]
+PaEq_3fed6f014cc2f7b3	MA_95364g0010	MA_95364g0010	XP_015867681.1 auxin-responsive protein SAUR65-like [Ziziphus jujuba]
+PaEq_3ffae5d0db2cbb8f	MA_10428902g0010	MA_10428902g0010	XP_006840483.1 late embryogenesis abundant protein Lea5 [Amborella trichopoda]
+PaEq_40af9c888e569e5f	MA_55379g0010	MA_55379g0010	XP_020166563.1 ammonium transporter 3 member 1-like [Aegilops tauschii subsp. tauschii]
+PaEq_40f7d95cc588ceac	MA_10427037g0020	MA_10427037g0020	
+PaEq_41e95eb163cd374b	MA_569551g0010	MA_569551g0010	
+PaEq_4226e77c3e6086c7	MA_3296790g0010	MA_3296790g0010	
+PaEq_424c4c63fbdebb18	MA_100374g0010	MA_100374g0010	XP_023553605.1 xyloglucan galactosyltransferase MUR3-like [Cucurbita pepo subsp. pepo]
+PaEq_4287b426d08cd22c	MA_10427211g0020	MA_10427211g0020	XP_014512882.1 uncharacterized protein LOC106771422 [Vigna radiata var. radiata]
+PaEq_432d9b6c379f972e	MA_10433358g0010	MA_10433358g0010	
+PaEq_454f459a2a244ef5	MA_1999194g0010	MA_1999194g0010	XP_028057949.1 calcium-binding protein PBP1-like [Camellia sinensis]
+PaEq_46fbd9ea6f9fd1ff	MA_251785g0010	MA_251785g0010	
+PaEq_479c411fef4ea3e4	MA_7850640g0010	MA_7850640g0010	
+PaEq_47af91605e86f50d	MA_12363g0010	MA_12363g0010	XP_006828605.1 RING-H2 finger protein ATL2 [Amborella trichopoda]
+PaEq_48493e6c66ca4c90	MA_4460g0010	MA_4460g0010	XP_021291127.1 phospholipid-transporting ATPase 1-like [Herrania umbratica]
+PaEq_48c09e518bfcdb7a	MA_10236470g0010	MA_10236470g0010	
+PaEq_49e3db3ac806853a	MA_1315g0020	MA_1315g0020	
+PaEq_4a396275891b845b	MA_8552524g0010	MA_8552524g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+PaEq_4ad9ee4f4ef7693b	MA_63611g0010	MA_63611g0010	XP_008775443.1 receptor-like protein kinase THESEUS 1 [Phoenix dactylifera]
+PaEq_4b1727a69a71dd06	MA_10434996g0010	MA_10434996g0010	XP_020887368.1 adenine/guanine permease AZG1 [Arabidopsis lyrata subsp. lyrata]
+PaEq_4b1c13c0fe8780f8	MA_3235235g0010	MA_3235235g0010	
+PaEq_4c0a16832e41a9d3	MA_89683g0010	MA_89683g0010	
+PaEq_4c81b39ca8daef28	MA_10429333g0010	MA_10429333g0010	XP_023903696.1 probable protein phosphatase 2C 25 isoform X1 [Quercus suber]
+PaEq_4f33dc180f80f21e	MA_10430971g0010	MA_10430971g0010	
+PaEq_520f0093b3592dd1	MA_10283g0010	MA_10283g0010	XP_028548766.1 uncharacterized protein LOC110100351 [Dendrobium catenatum]
+PaEq_5218bcbd61a0566e	MA_8663622g0010	MA_8663622g0010	
+PaEq_52b0c03f2483cabe	MA_9381137g0010	MA_9381137g0010	XP_031485282.1 probable xyloglucan glycosyltransferase 2 [Nymphaea colorata]
+PaEq_534c154a3834c4d4	MA_595526g0010	MA_595526g0010	XP_022718576.1 cellulose synthase-like protein D3 [Durio zibethinus]
+PaEq_53c5f26cb706ea6d	MA_83g0010	MA_83g0010	XP_020592690.1 probable disease resistance protein At4g33300 isoform X1 [Phalaenopsis equestris]
+PaEq_53eb988e2dc8018f	MA_69227g0010	MA_69227g0010	XP_002534483.1 AAA-ATPase At5g57480 [Ricinus communis]
+PaEq_5645511f25f7391f	MA_45733g0020	MA_45733g0020	XP_022730929.1 ethylene-responsive transcription factor ERF017-like [Durio zibethinus]
+PaEq_56e2a01df00a0fca	MA_711804g0010	MA_711804g0010	XP_006829206.2 E3 ubiquitin-protein ligase RHA1B [Amborella trichopoda]
+PaEq_56f9141c2610052a	MA_92224g0010	MA_92224g0010	XP_031274917.1 transmembrane protein 53 [Pistacia vera]
+PaEq_5709e841f359b9b1	MA_9973360g0010	MA_9973360g0010	
+PaEq_5768e7c227927981	MA_3405g0010	MA_3405g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+PaEq_576cb373bc14df35	MA_485881g0010	MA_485881g0010	
+PaEq_580ac2786bc8baca	MA_462270g0010	MA_462270g0010	XP_006840509.1 protein RALF-like 33 [Amborella trichopoda]
+PaEq_583bce3945378f10	MA_6305g0010	MA_6305g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+PaEq_584e254c00de9acf	MA_15415g0010	MA_15415g0010	
+PaEq_586e7ef3fcb1eed5	MA_206330g0010	MA_206330g0010	
+PaEq_58d5abe1381be35b	MA_10692g0010	MA_10692g0010	XP_016505970.1 PREDICTED: uncharacterized protein LOC107823775 isoform X2 [Nicotiana tabacum]
+PaEq_58df31cb8931b44e	MA_109421g0010	MA_109421g0010	
+PaEq_5a04689e8926440e	MA_142012g0010	MA_142012g0010	XP_022861430.1 protein JINGUBANG-like [Olea europaea var. sylvestris]
+PaEq_5a65a1def05cec52	MA_10429454g0010	MA_10429454g0010	XP_024376106.1 nematode resistance protein-like HSPRO2 [Physcomitrella patens]
+PaEq_5b2281571ea410af	MA_33190g0010	MA_33190g0010	XP_002323382.1 E3 ubiquitin-protein ligase PUB22 [Populus trichocarpa]
+PaEq_5b7c26a5ee4c0f2d	MA_465041g0010	MA_465041g0010	
+PaEq_5c802628a2facad4	MA_10432600g0010	MA_10432600g0010	XP_031284875.1 protein EXORDIUM-like [Pistacia vera]
+PaEq_5cac76305ed9265d	MA_10429720g0010	MA_10429720g0010	XP_006853946.1 12-oxophytodienoate reductase 7 [Amborella trichopoda]
+PaEq_5dca74028b0cb180	MA_19420g0020	MA_19420g0020	XP_031499475.1 AP2/ERF and B3 domain-containing transcription factor RAV1-like [Nymphaea colorata]
+PaEq_5e3aaf20db8942de	MA_88585g0010	MA_88585g0010	XP_021285367.1 probable disease resistance protein At4g33300 [Herrania umbratica]
+PaEq_5eb622293c3a4098	MA_618976g0010	MA_618976g0010	
+PaEq_5ebadbfdcec5371a	MA_71687g0020	MA_71687g0020	
+PaEq_5efc0a72967debc3	MA_390260g0010	MA_390260g0010	
+PaEq_6062210bc4d6c629	MA_10426796g0010	MA_10426796g0010	
+PaEq_612da4a8675e23bb	MA_6447416g0010	MA_6447416g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+PaEq_6143b1c573fe4ac0	MA_12476g0010	MA_12476g0010	XP_004302935.1 PREDICTED: uncharacterized protein LOC101302466 [Fragaria vesca subsp. vesca]
+PaEq_622617349040df35	MA_5937864g0010	MA_5937864g0010	XP_022031880.1 probable CCR4-associated factor 1 homolog 7, partial [Helianthus annuus]
+PaEq_62654562a5d24590	MA_140838g0010	MA_140838g0010	XP_006348815.1 PREDICTED: uncharacterized protein LOC102581421 [Solanum tuberosum]
+PaEq_626cbf795a39d320	MA_10435156g0020	MA_10435156g0020	XP_031278008.1 putative clathrin assembly protein At4g40080 [Pistacia vera]
+PaEq_62b070239ef854e8	MA_22397g0010	MA_22397g0010	
+PaEq_62b157a327d1e765	MA_17801g0020	MA_17801g0020	XP_006878598.1 sugar transporter ERD6-like 6 isoform X1 [Amborella trichopoda]
+PaEq_637cc110c3b5086f	MA_10430944g0010	MA_10430944g0010	XP_024381445.1 BTB/POZ domain-containing protein At2g24240-like [Physcomitrella patens]
+PaEq_63b025200270dd70	MA_26001g0020	MA_26001g0020	XP_006828605.1 RING-H2 finger protein ATL2 [Amborella trichopoda]
+PaEq_647b7c35b06f8458	MA_383300g0010	MA_383300g0010	XP_028751294.1 TMV resistance protein N-like [Prosopis alba]
+PaEq_64a065d91ec36926	MA_92019g0010	MA_92019g0010	XP_002876566.1 cyclin-U2-2 [Arabidopsis lyrata subsp. lyrata]
+PaEq_64f85caa572cab0d	MA_79051g0010	MA_79051g0010	XP_012072845.1 E3 ubiquitin-protein ligase RING1 [Jatropha curcas]
+PaEq_65d308ab63854a65	MA_10433101g0010	MA_10433101g0010	
+PaEq_661096105f9ab399	MA_79751g0010	MA_79751g0010	XP_031504208.1 CBL-interacting protein kinase 5-like [Nymphaea colorata]
+PaEq_677b669fe07c2753	MA_10431583g0020	MA_10431583g0020	XP_006853194.2 probable pectin methyltransferase QUA2 [Amborella trichopoda]
+PaEq_679ab21d31d9f63b	MA_113446g0010	MA_113446g0010	XP_012077091.1 ethylene-responsive transcription factor ERF017 [Jatropha curcas]
+PaEq_67a62c0e96fc329c	MA_10120109g0010	MA_10120109g0010	XP_008778752.1 probable glutathione S-transferase parA [Phoenix dactylifera]
+PaEq_699f84dc44851733	MA_10435694g0020	MA_10435694g0020	
+PaEq_6a314ddb8881ae35	MA_80261g0010	MA_80261g0010	XP_028216048.1 uncharacterized protein LOC114398103 [Glycine soja]
+PaEq_6a3b47a74cf1c613	MA_7767108g0010	MA_7767108g0010	
+PaEq_6a958b61b3392863	MA_10267109g0010	MA_10267109g0010	
+PaEq_6b36dc24b93f0e41	MA_4248g0010	MA_4248g0010	
+PaEq_6c314d0bda685b5e	MA_10426104g0010	MA_10426104g0010	XP_010923805.1 probable glutathione S-transferase [Elaeis guineensis]
+PaEq_6de76b422c559e17	MA_10426152g0010	MA_10426152g0010	XP_028074410.1 metalloendoproteinase 3-MMP-like [Camellia sinensis]
+PaEq_6fb39d5c1c25f82d	MA_483194g0010	MA_483194g0010	XP_011623453.1 ACT domain-containing protein ACR4 [Amborella trichopoda]
+PaEq_7016adedaa9fc2c3	MA_10432927g0010	MA_10432927g0010	
+PaEq_70373a08c5257a0c	MA_178646g0010	MA_178646g0010	XP_006843763.2 AP2/ERF and B3 domain-containing transcription repressor RAV2 [Amborella trichopoda]
+PaEq_71889db17a64fbae	MA_269415g0010	MA_269415g0010	XP_011078388.1 calmodulin-like protein 3 [Sesamum indicum]
+PaEq_718a16af75998a23	MA_6373997g0010	MA_6373997g0010	
+PaEq_71fb621e99f0d609	MA_345246g0010	MA_345246g0010	
+PaEq_73a23558f88b181d	MA_98099g0010	MA_98099g0010	
+PaEq_743311c013297c54	MA_451787g0010	MA_451787g0010;MA_9747857g0010	XP_010277246.1 PREDICTED: uncharacterized protein LOC104611744 [Nelumbo nucifera]
+PaEq_74501b22f863f9fc	MA_10427089g0010	MA_10427089g0010	
+PaEq_745a33be7c10fecf	MA_134367g0010	MA_134367g0010	
+PaEq_74d58256c80458cd	MA_394431g0010	MA_394431g0010	
+PaEq_772c64831abd9fa4	MA_10432464g0020	MA_10432464g0020	XP_021910045.1 probable protein phosphatase 2C 25 [Carica papaya]
+PaEq_772dd8c9e4ef1268	MA_241669g0010	MA_241669g0010	XP_012073785.1 chaperone protein dnaJ 11, chloroplastic [Jatropha curcas]
+PaEq_77392d2ebc09593b	MA_10436650g0010	MA_10436650g0010	XP_006828605.1 RING-H2 finger protein ATL2 [Amborella trichopoda]
+PaEq_7840768c7c345810	MA_140984g0010	MA_140984g0010	XP_006836353.2 uncharacterized protein LOC18427237 [Amborella trichopoda]
+PaEq_78499ed24b14dc01	MA_937278g0010	MA_937278g0010	XP_019435434.1 PREDICTED: ABC transporter B family member 15-like [Lupinus angustifolius]
+PaEq_78d360c7daaaa3dc	MA_10427973g0010	MA_10427973g0010	
+PaEq_7a03fd02d7f03369	MA_18054g0010	MA_18054g0010	XP_008793406.1 probable calcium-binding protein CML27 [Phoenix dactylifera]
+PaEq_7a0f6845d702c756	MA_10419207g0010	MA_10419207g0010	
+PaEq_7a2884efb7266f53	MA_10432894g0010	MA_10432894g0010	
+PaEq_7a43d064a1b7895c	MA_7366123g0010	MA_7366123g0010	
+PaEq_7a6e3e10e5e0fd31	MA_17715g0010	MA_17715g0010	XP_007224745.1 U-box domain-containing protein 21 [Prunus persica]
+PaEq_7a7538d87cf9d4e4	MA_164263g0010	MA_164263g0010	
+PaEq_7aa4e002a1520687	MA_71687g0010	MA_71687g0010	XP_014500081.1 NDR1/HIN1-like protein 13 [Vigna radiata var. radiata]
+PaEq_7af05ec43d9ddf1a	MA_24824g0010	MA_24824g0010	XP_021806551.1 probable receptor-like protein kinase At1g11050 [Prunus avium]
+PaEq_7b1bed067a74adef	MA_10425895g0020	MA_10425895g0020	XP_023553829.1 scopoletin glucosyltransferase-like [Cucurbita pepo subsp. pepo]
+PaEq_7b7638bb7efa842b	MA_75170g0010	MA_75170g0010	XP_028054535.1 uncharacterized protein LOC114258747 [Camellia sinensis]
+PaEq_7ba23c16ccf19cfe	MA_10430735g0010	MA_10430735g0010	
+PaEq_7cd6bda12d5486b6	MA_10430658g0010	MA_10430658g0010	XP_010932695.2 uncharacterized protein LOC105053287 [Elaeis guineensis]
+PaEq_7ddb5e5d914dcf62	MA_1071602g0010	MA_1071602g0010	
+PaEq_7e38f762f8fa4a04	MA_947581g0010	MA_947581g0010	XP_020673788.1 glycine-rich domain-containing protein 1-like [Dendrobium catenatum]
+PaEq_7e4716ebc9897898	MA_8284377g0010	MA_8284377g0010	
+PaEq_7f67f589e9512b16	MA_429401g0010	MA_429401g0010	XP_008812134.1 uncharacterized protein LOC103723102 [Phoenix dactylifera]
+PaEq_7f7a52aff47ad7ee	MA_3802273g0010	MA_3802273g0010	
+PaEq_7fda6af048081242	MA_33494g0010	MA_33494g0010	XP_013746384.1 F-box protein At1g61340-like [Brassica napus]
+PaEq_81087bc5c3a086af	MA_734639g0010	MA_734639g0010	XP_004142884.1 subtilisin-like protease SBT1.7 [Cucumis sativus]
+PaEq_810de31f029e6906	MA_10436609g0010	MA_10436609g0010	XP_002889758.1 germin-like protein subfamily 2 member 1 [Arabidopsis lyrata subsp. lyrata]
+PaEq_822c611367a1b11a	MA_10227389g0010	MA_10227389g0010	
+PaEq_83f8957da88db0cc	MA_10436159g0020	MA_10436159g0020	XP_007026893.2 PREDICTED: putative receptor protein kinase ZmPK1 [Theobroma cacao]
+PaEq_8407b72f5b2f5e59	MA_2375592g0010	MA_2375592g0010	
+PaEq_8492a9ad4187df58	MA_6860639g0010	MA_6860639g0010	
+PaEq_853f4ad4d440b421	MA_17746g0010	MA_17746g0010	NP_001267839.1 zinc finger CCCH domain-containing protein 30-like [Vitis vinifera]
+PaEq_85749bd71050c82b	MA_565283g0010	MA_565283g0010	XP_006416012.1 glycosyltransferase family 92 protein At1g27200 [Eutrema salsugineum]
+PaEq_86fede9ac0e73e5d	MA_45692g0010	MA_45692g0010	XP_011620772.1 protein DETOXIFICATION 41 isoform X1 [Amborella trichopoda]
+PaEq_8709e77b93dea3b7	MA_121581g0010	MA_121581g0010	XP_019177314.1 PREDICTED: ethylene-responsive transcription factor RAP2-4-like [Ipomoea nil]
+PaEq_874c7388c5ea9e50	MA_421862g0010	MA_421862g0010	
+PaEq_8758aaa40e41a598	MA_10429727g0010	MA_10429727g0010	XP_023908292.1 LRR receptor-like serine/threonine-protein kinase IOS1, partial [Quercus suber]
+PaEq_876e02a201a642ca	MA_102045g0010	MA_102045g0010	XP_010917266.1 protein trichome birefringence [Elaeis guineensis]
+PaEq_87710f7a416812ea	MA_82361g0020	MA_82361g0020	
+PaEq_8867a131d9585165	MA_13869g0010	MA_13869g0010	XP_021283580.1 transcription factor MYB61-like [Herrania umbratica]
+PaEq_88ca54da748966e1	MA_10428693g0010	MA_10428693g0010	XP_030940791.1 uncharacterized protein LOC115965655 [Quercus lobata]
+PaEq_88ef8069d1f3800a	MA_10108167g0010	MA_10108167g0010	XP_022874481.1 uncharacterized protein LOC111393265, partial [Olea europaea var. sylvestris]
+PaEq_8953ecfd47906e67	MA_52474g0010	MA_52474g0010	XP_010943974.1 dof zinc finger protein DOF1.4 [Elaeis guineensis]
+PaEq_8a0ea352657496c0	MA_69608g0010	MA_69608g0010	XP_031496477.1 uncharacterized protein LOC116261770 [Nymphaea colorata]
+PaEq_8a467b99f1b66767	MA_10265639g0010	MA_10265639g0010	
+PaEq_8a95064ef9a9dd5e	MA_70076g0010	MA_70076g0010	XP_010258926.1 PREDICTED: zinc finger protein ZAT9-like [Nelumbo nucifera]
+PaEq_8be2136cd9932d1b	MA_47071g0010	MA_47071g0010	
+PaEq_8c92ffadb02906ee	MA_132953g0010	MA_132953g0010	
+PaEq_8c934f6eb975c12d	MA_19157g0010	MA_19157g0010	
+PaEq_8ea27b5fea910683	MA_10426833g0010	MA_10426833g0010	XP_006419811.2 basic 7S globulin [Citrus clementina]
+PaEq_8ef8c76b71503252	MA_7435g0010	MA_7435g0010	XP_024385736.1 protein ANTAGONIST OF LIKE HETEROCHROMATIN PROTEIN 1-like [Physcomitrella patens]
+PaEq_8f3c612cdbbec0cd	MA_17254g0030	MA_17254g0030	
+PaEq_8f43d8227dfbd72e	MA_9966741g0010	MA_9966741g0010	
+PaEq_8f9eb76262f8eede	MA_10433606g0010	MA_10433606g0010	XP_006840483.1 late embryogenesis abundant protein Lea5 [Amborella trichopoda]
+PaEq_8fd572a9dcc750ed	MA_10308226g0010	MA_10308226g0010	XP_024439607.1 germin-like protein subfamily 1 member 16 [Populus trichocarpa]
+PaEq_9283276d79c008e5	MA_10062104g0010	MA_10062104g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+PaEq_9403eca44ad6c48e	MA_113618g0010	MA_113618g0010	XP_002516133.1 cytokinin dehydrogenase 7 [Ricinus communis]
+PaEq_9433cd0881310e28	MA_10431994g0010	MA_10431994g0010	
+PaEq_960a1016a6ff6475	MA_81979g0010	MA_81979g0010	XP_016682358.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Gossypium hirsutum]
+PaEq_9696f65819d16d14	MA_6931619g0010	MA_6931619g0010	XP_006299842.1 RING-H2 finger protein ATL78 [Capsella rubella]
+PaEq_9718c0fef30f74e1	MA_10350481g0010	MA_10350481g0010	XP_026385496.1 F-box only protein 6-like [Papaver somniferum]
+PaEq_97aba4d6787ad9fa	MA_10426917g0010	MA_10426917g0010	NP_001140801.1 uncharacterized protein LOC100272876 [Zea mays]
+PaEq_987f13320898ff54	MA_10122826g0010	MA_10122826g0010	XP_011082692.1 early nodulin-like protein 2 [Sesamum indicum]
+PaEq_998aa590f9527fc2	MA_102522g0010	MA_102522g0010	XP_024540397.1 GDSL esterase/lipase 6 [Selaginella moellendorffii]
+PaEq_99dd8cc0f5930a2c	MA_332109g0010	MA_332109g0010	XP_020592690.1 probable disease resistance protein At4g33300 isoform X1 [Phalaenopsis equestris]
+PaEq_99f92c8988f75b85	MA_9349g0010	MA_9349g0010	XP_020528243.1 uncharacterized protein LOC18442810 isoform X1 [Amborella trichopoda]
+PaEq_9a56ad8dbf534385	MA_10365511g0010	MA_10365511g0010	XP_018835605.1 PREDICTED: probable protein phosphatase 2C 25 [Juglans regia]
+PaEq_9b65197844dcaebd	MA_10427652g0010	MA_10427652g0010	XP_009361098.1 PREDICTED: mitogen-activated protein kinase kinase kinase NPK1-like [Pyrus x bretschneideri]
+PaEq_9c4a81cf409a115f	MA_1147102g0010	MA_1147102g0010	
+PaEq_9c6ff41aeb6200e8	MA_60383g0010	MA_60383g0010	XP_030951831.1 abscisic stress-ripening protein 2-like [Quercus lobata]
+PaEq_9d913a64149d0c0a	MA_90790g0010	MA_90790g0010	XP_024387131.1 dormancy-associated protein 1-like [Physcomitrella patens]
+PaEq_9db8d2d894041bd4	MA_904294g0010	MA_904294g0010	XP_006828605.1 RING-H2 finger protein ATL2 [Amborella trichopoda]
+PaEq_a1046573551156aa	MA_10430675g0010	MA_10430675g0010	
+PaEq_a155ab7655a709dd	MA_10370681g0010	MA_10370681g0010	XP_017647700.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Gossypium arboreum]
+PaEq_a21b4f28f3e79b9a	MA_9785986g0010	MA_9785986g0010	XP_024182624.1 ethylene-responsive transcription factor ERF017 [Rosa chinensis]
+PaEq_a2f5d4f6ed1600df	MA_102795g0010	MA_102795g0010	XP_021677483.1 pathogenesis-related protein PR-1-like [Hevea brasiliensis]
+PaEq_a49c8a0cd531bd46	MA_8215665g0010	MA_8215665g0010	XP_006842394.1 uncharacterized protein LOC18432222 [Amborella trichopoda]
+PaEq_a4b034607a94884a	MA_84518g0010	MA_84518g0010	XP_013687246.2 copper-transporting ATPase RAN1-like [Brassica napus]
+PaEq_a53558fdfdc28ecc	MA_940843g0010	MA_940843g0010	XP_031484128.1 UDP-glycosyltransferase 91C1 [Nymphaea colorata]
+PaEq_a53ac62f500ffb81	MA_109913g0010	MA_109913g0010	NP_001316144.1 carbohydrate binding domain-containing protein precursor [Solanum lycopersicum]
+PaEq_a6416ed07b704bbe	MA_9967906g0010	MA_9967906g0010	XP_004516867.1 heavy metal-associated isoprenylated plant protein 39-like [Cicer arietinum]
+PaEq_a6622b8bcac8bfa7	MA_10431706g0010	MA_10431706g0010	XP_006452450.1 ethylene-responsive transcription factor 3 [Citrus clementina]
+PaEq_a6a7e5f75206c4f5	MA_482507g0010	MA_482507g0010	XP_026404158.1 exocyst complex component EXO70A1-like [Papaver somniferum]
+PaEq_a6d4966aad7c544e	MA_236830g0010	MA_236830g0010	XP_008813720.1 probable LRR receptor-like serine/threonine-protein kinase At5g48740 [Phoenix dactylifera]
+PaEq_a6eb9c87e90b05dd	MA_154206g0010	MA_154206g0010	
+PaEq_a73143a066b4b266	MA_7632643g0010	MA_7632643g0010	
+PaEq_a8e181c59968397c	MA_10427270g0020	MA_10427270g0020	XP_009417281.1 PREDICTED: uncharacterized protein LOC103997701 [Musa acuminata subsp. malaccensis]
+PaEq_a94a215cdc700502	MA_341382g0010	MA_341382g0010	XP_021800467.1 uncharacterized protein At1g04910-like, partial [Prunus avium]
+PaEq_a9b3c539ff4963c2	MA_10279670g0010	MA_10279670g0010	XP_006856631.2 glycine-rich domain-containing protein 1 [Amborella trichopoda]
+PaEq_aa4f02ca1894cac2	MA_149291g0010	MA_149291g0010;MA_152412g0010	
+PaEq_aab58a6d813ce10d	MA_10430090g0010	MA_10430090g0010	
+PaEq_ab26eb5bab32b61a	MA_8732g0010	MA_8732g0010	XP_027338959.1 uncharacterized protein LOC113852787 [Abrus precatorius]
+PaEq_ab3fb6209ef1e943	MA_140243g0010	MA_140243g0010	XP_026407817.1 AP2/ERF and B3 domain-containing transcription factor RAV1-like [Papaver somniferum]
+PaEq_aba84e474c63ece4	MA_10150752g0010	MA_10150752g0010	XP_024516491.1 uncharacterized protein LOC9642892 [Selaginella moellendorffii]
+PaEq_ac470a3cc7aab421	MA_38494g0010	MA_38494g0010	XP_020887506.1 RING-H2 finger protein ATL78 [Arabidopsis lyrata subsp. lyrata]
+PaEq_ac4c1452edea66fa	MA_631234g0010	MA_631234g0010	
+PaEq_acc16ef79833376f	MA_54876g0010	MA_54876g0010	XP_006845002.1 cinnamoyl-CoA reductase-like SNL6 [Amborella trichopoda]
+PaEq_ad637b805c384a10	MA_8025229g0010	MA_8025229g0010	
+PaEq_ad7a80c7ecf508e0	MA_14515g0010	MA_14515g0010	
+PaEq_ade4aa3b9e6517ab	MA_98223g0010	MA_98223g0010	XP_006836662.1 uncharacterized protein LOC18427550 [Amborella trichopoda]
+PaEq_aebe05a520da428e	MA_10432474g0020	MA_10432474g0020	
+PaEq_af352a73acf4faca	MA_10436855g0020	MA_10436855g0020	XP_006854216.2 protein CDI [Amborella trichopoda]
+PaEq_afb454e30c7b04d4	MA_493100g0010	MA_493100g0010	XP_022880917.1 ethylene-responsive transcription factor ERF017-like [Olea europaea var. sylvestris]
+PaEq_b007c38d128b7559	MA_10436846g0020	MA_10436846g0020	XP_006370444.1 disease resistance protein At4g27190 [Populus trichocarpa]
+PaEq_b056b40f43a46bf3	MA_174731g0010	MA_174731g0010	XP_020969529.1 uncharacterized protein LOC107621844 [Arachis ipaensis]
+PaEq_b14fe4bccd78dda2	MA_10388060g0010	MA_10388060g0010	
+PaEq_b3d3cbe57d831337	MA_10435025g0010	MA_10435025g0010	XP_031478587.1 uncharacterized protein LOC116249591 [Nymphaea colorata]
+PaEq_b429f4f36fc520af	MA_10434169g0010	MA_10434169g0010	
+PaEq_b53d8ff9dc7b0b3e	MA_170670g0010	MA_170670g0010	XP_026378932.1 sugar transport protein MST6-like isoform X1 [Papaver somniferum]
+PaEq_b5de690b26f03601	MA_826663g0010	MA_826663g0010	XP_020206619.1 aspartyl protease family protein 2 [Cajanus cajan]
+PaEq_b60a1e64cf13797e	MA_51891g0010	MA_51891g0010	XP_011655449.1 probable calcium-binding protein CML25 [Cucumis sativus]
+PaEq_b6e61de0b8f9c64c	MA_10337771g0010	MA_10337771g0010	XP_006857184.1 probable CCR4-associated factor 1 homolog 7 [Amborella trichopoda]
+PaEq_b7bc7453aef7ab86	MA_789455g0010	MA_789455g0010	XP_028102120.1 cytochrome P450 CYP736A12-like isoform X2 [Camellia sinensis]
+PaEq_b7e0c48809365ee9	MA_9506764g0010	MA_9506764g0010	XP_022553525.1 uncharacterized protein At1g24485-like [Brassica napus]
+PaEq_b8d9200f994b22df	MA_5509214g0010	MA_5509214g0010	
+PaEq_b91d994dafa010c2	MA_498957g0010	MA_498957g0010	XP_027166643.1 basic 7S globulin-like [Coffea eugenioides]
+PaEq_b9501b14c7c0b2f0	MA_10197220g0010	MA_10197220g0010	XP_031487993.1 palmitoyl-acyl carrier protein thioesterase, chloroplastic [Nymphaea colorata]
+PaEq_babd88678416da14	MA_818265g0010	MA_818265g0010	
+PaEq_bb8bfe7d479caf1a	MA_20283g0010	MA_20283g0010	XP_006858900.1 pollen-specific protein SF21 isoform X2 [Amborella trichopoda]
+PaEq_bca554bf2c40d462	MA_65570g0010	MA_65570g0010	XP_031490483.1 UDP-glucose 6-dehydrogenase 4-like [Nymphaea colorata]
+PaEq_bcaa26fbd59bde31	MA_1135960g0010	MA_1135960g0010	XP_007207936.1 uncharacterized protein LOC18772007 [Prunus persica]
+PaEq_bcb39648ae1b1bbb	MA_10427750g0010	MA_10427750g0010	XP_030934282.1 probably inactive leucine-rich repeat receptor-like protein kinase At5g48380 [Quercus lobata]
+PaEq_bd1c0a0bce15b928	MA_72603g0020	MA_72603g0020	XP_031279252.1 uncharacterized protein LOC116137705 [Pistacia vera]
+PaEq_be0355e1fa5e8578	MA_90878g0010	MA_90878g0010	XP_023885570.1 germin-like protein subfamily 2 member 1 [Quercus suber]
+PaEq_c00dbf30a953a29c	MA_2756680g0010	MA_2756680g0010	
+PaEq_c045621d823d76f0	MA_5735g0010	MA_5735g0010	XP_027350008.1 chalcone synthase 4-like [Abrus precatorius]
+PaEq_c05b1cde310ce84a	MA_944861g0020	MA_944861g0020	
+PaEq_c164dabb8f3c4f64	MA_6315484g0010	MA_6315484g0010	
+PaEq_c171694f79d59dfb	MA_6713093g0010	MA_6713093g0010	XP_015386824.1 ubiquitin-like, partial [Citrus sinensis]
+PaEq_c1815fd3a5bfcfeb	MA_221676g0010	MA_221676g0010	
+PaEq_c280e4d437590ad4	MA_57211g0010	MA_57211g0010	XP_021907869.1 protein PIN-LIKES 5 [Carica papaya]
+PaEq_c5b3f66a035fec2d	MA_4985671g0010	MA_4985671g0010	XP_010253256.1 PREDICTED: uncharacterized protein LOC104594573 isoform X2 [Nelumbo nucifera]
+PaEq_c783df3b40523719	MA_9671g0010	MA_9671g0010	
+PaEq_cad04b659c5bf402	MA_451961g0010	MA_451961g0010	XP_015875990.1 probable disease resistance protein At4g27220 isoform X1 [Ziziphus jujuba]
+PaEq_cc483797ed8ee8c7	MA_6031002g0010	MA_6031002g0010	
+PaEq_cc909d22bec1a671	MA_10194606g0010	MA_10194606g0010	
+PaEq_cce51b8bbdc367f0	MA_8182812g0010	MA_8182812g0010	XP_023910623.1 probable protein phosphatase 2C 25, partial [Quercus suber]
+PaEq_cd3d9c8763e05005	MA_10370572g0010	MA_10370572g0010	
+PaEq_ce1121a127d0b419	MA_345532g0010	MA_345532g0010	
+PaEq_ce81ede054912d6e	MA_5280013g0010	MA_5280013g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+PaEq_cf8ea71fb1392094	MA_10430659g0010	MA_10430659g0010	
+PaEq_d0098607cb11159c	MA_1456119g0010	MA_1456119g0010	
+PaEq_d033c2ccb702dac1	MA_88508g0010	MA_88508g0010	XP_027942290.1 protein DOWNY MILDEW RESISTANCE 6 isoform X2 [Vigna unguiculata]
+PaEq_d3d0223547b3df39	MA_20704g0010	MA_20704g0010	XP_015886812.1 putative GEM-like protein 8 [Ziziphus jujuba]
+PaEq_d4af810160f39c41	MA_9975088g0010	MA_9975088g0010	
+PaEq_d5818ded39e62988	MA_6793g0020	MA_6793g0020	XP_024377942.1 protein CDC73 homolog [Physcomitrella patens]
+PaEq_d6211c4e64048603	MA_20197g0010	MA_20197g0010	XP_006844713.1 probable BOI-related E3 ubiquitin-protein ligase 3 [Amborella trichopoda]
+PaEq_d6d074e4d3fa1e03	MA_925334g0010	MA_925334g0010	
+PaEq_d7196893a00f8b28	MA_10434066g0020	MA_10434066g0020	
+PaEq_d74127cae862c391	MA_53821g0010	MA_53821g0010	
+PaEq_d74d50922881d21f	MA_634565g0010	MA_634565g0010	
+PaEq_d82929e600fa4734	MA_256679g0010	MA_256679g0010	
+PaEq_da2c658a6928dce8	MA_3266301g0010	MA_3266301g0010	
+PaEq_db210a8917df5cc9	MA_10425791g0020	MA_10425791g0020	XP_026425699.1 pleiotropic drug resistance protein 1-like [Papaver somniferum]
+PaEq_db4230d83354d3a3	MA_697818g0010	MA_697818g0010	
+PaEq_db540e3fac4d3dc2	MA_10038541g0010	MA_10038541g0010	XP_006841540.1 arogenate dehydratase/prephenate dehydratase 6, chloroplastic [Amborella trichopoda]
+PaEq_dc3bca18004b93ee	MA_10436594g0010	MA_10436594g0010	XP_030542720.1 protein EXORDIUM-like 2 [Rhodamnia argentea]
+PaEq_dd25e0703f6b50ed	MA_10171923g0010	MA_10171923g0010	XP_030975444.1 uncharacterized protein LOC115995143 [Quercus lobata]
+PaEq_ddf67ab34cdbfb3e	MA_540404g0010	MA_540404g0010	
+PaEq_de1ba0e820a3a720	MA_10431083g0010	MA_10431083g0010	XP_020890438.1 trifunctional UDP-glucose 4,6-dehydratase/UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase/UDP-4-keto-L-rhamnose-reductase RHM1 [Arabidopsis lyrata subsp. lyrata]
+PaEq_e1c553fedee836aa	MA_5057931g0010	MA_5057931g0010	
+PaEq_e2ad766367018572	MA_5321101g0010	MA_5321101g0010	XP_024026916.1 protein SRC2 [Morus notabilis]
+PaEq_e5a0eff31e8e7b1a	MA_72603g0010	MA_72603g0010	
+PaEq_e65c4d389901387d	MA_217755g0010	MA_217755g0010	XP_024527548.1 glucan endo-1,3-alpha-glucosidase agn1 [Selaginella moellendorffii]
+PaEq_e6927b76ebba051c	MA_214240g0010	MA_214240g0010	XP_023754747.1 transcription factor bHLH95 [Lactuca sativa]
+PaEq_e827c96e2ebc9058	MA_10425833g0010	MA_10425833g0010	XP_006857897.1 BAG family molecular chaperone regulator 1 [Amborella trichopoda]
+PaEq_e8ae2eef34371d25	MA_6968g0010	MA_6968g0010	XP_025622919.1 putative serine/threonine-protein kinase-like protein CCR3 [Arachis hypogaea]
+PaEq_e9b6ad3877766493	MA_9762162g0010	MA_9762162g0010	XP_030940791.1 uncharacterized protein LOC115965655 [Quercus lobata]
+PaEq_ea3ea0648441da8a	MA_205329g0010	MA_205329g0010	XP_002273386.1 PREDICTED: protein RALF-like 33 [Vitis vinifera]
+PaEq_ea3f04ec331c1228	MA_319582g0010	MA_319582g0010	
+PaEq_eb72e75ca3460104	MA_231706g0010	MA_231706g0010	XP_008792596.1 putative disease resistance protein At5g47280 [Phoenix dactylifera]
+PaEq_eb9f5963c89ad4b6	MA_11721g0020	MA_11721g0020	XP_019247803.1 PREDICTED: uncharacterized protein LOC109227195 [Nicotiana attenuata]
+PaEq_ed03954af4e93715	MA_99496g0010	MA_99496g0010	XP_024515047.1 TPR repeat-containing protein ZIP4 [Selaginella moellendorffii]
+PaEq_edfa37f0b63a62b7	MA_9965g0020	MA_9965g0020	XP_006368362.1 probable calcium-binding protein CML11 [Populus trichocarpa]
+PaEq_ee1fbceb3634dd6b	MA_10436796g0010	MA_10436796g0010	
+PaEq_ee5fa843e9bdec24	MA_10436426g0010	MA_10436426g0010	
+PaEq_ee636eab4cba5e3e	MA_10427577g0010	MA_10427577g0010	
+PaEq_ee8310034b18f4fe	MA_10428947g0010	MA_10428947g0010	XP_023528170.1 xyloglucan 6-xylosyltransferase 2 [Cucurbita pepo subsp. pepo]
+PaEq_ee931b632c62f022	MA_10435911g0010	MA_10435911g0010	
+PaEq_eec45f6859a0d1d7	MA_2193g0010	MA_2193g0010	
+PaEq_eeda641c7b86a843	MA_760150g0010	MA_760150g0010	XP_023543391.1 cytochrome P450 CYP736A12-like isoform X1 [Cucurbita pepo subsp. pepo]
+PaEq_f13dc8bd339e0f12	MA_981701g0010	MA_981701g0010	
+PaEq_f274a9fdffbe0fcc	MA_10433791g0010	MA_10433791g0010	
+PaEq_f4f532e99ab851fb	MA_6528664g0010	MA_6528664g0010	
+PaEq_f556457f07171bcc	MA_178742g0010	MA_178742g0010	XP_010279467.1 PREDICTED: GEM-like protein 4 [Nelumbo nucifera]
+PaEq_f5a9b59d8e3f5783	MA_9917294g0010	MA_9917294g0010	XP_006843717.1 U-box domain-containing protein 16 [Amborella trichopoda]
+PaEq_f6ea20f46c829d9d	MA_354589g0010	MA_354589g0010	
+PaEq_f7e473da40b9d00d	MA_3177563g0010	MA_3177563g0010	
+PaEq_f844fb1fb028d01b	MA_25345g0010	MA_25345g0010	XP_022886776.1 RING-H2 finger protein ATL78-like [Olea europaea var. sylvestris]
+PaEq_f86d6a0521837a25	MA_18738g0010	MA_18738g0010	
+PaEq_f8e44427cc222d6b	MA_269802g0010	MA_269802g0010	XP_010261769.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Nelumbo nucifera]
+PaEq_f96d95e9b4920d9a	MA_616616g0010	MA_616616g0010	XP_004228711.1 probable calcium-binding protein CML25 [Solanum lycopersicum]
+PaEq_f98b2256b760f432	MA_9388679g0010	MA_9388679g0010	
+PaEq_f9c6115c5c62134b	MA_10432086g0010	MA_10432086g0010	XP_012574185.1 probable xyloglucan endotransglucosylase/hydrolase protein 23 [Cicer arietinum]
+PaEq_fa984cb74036c63a	MA_46136g0010	MA_46136g0010	XP_030927025.1 probable serine/threonine-protein kinase PBL7 [Quercus lobata]
+PaEq_fad67fb881ad06f0	MA_92948g0010	MA_92948g0010	XP_021600971.1 protein EXORDIUM-like 2 [Manihot esculenta]
+PaEq_fbb1840a231a4b58	MA_120531g0010	MA_120531g0010	NP_001312182.1 ethylene-responsive transcription factor 4 [Nicotiana tabacum]
+PaEq_fbe9913b3a16c677	MA_495935g0010	MA_495935g0010	XP_008812675.2 DEAD-box ATP-dependent RNA helicase 47A [Phoenix dactylifera]
+PaEq_fcf5e45b8247dad3	MA_10433683g0010	MA_10433683g0010	XP_006830193.1 NDR1/HIN1-like protein 2 [Amborella trichopoda]
+PaEq_fe4eeb5a61565dbd	MA_10430484g0010	MA_10430484g0010	XP_011101363.1 uncharacterized protein LOC105179443 [Sesamum indicum]
+PaEq_ff6b24333f6d699e	MA_84154g0010	MA_84154g0010	XP_024369723.1 E3 ubiquitin-protein ligase PUB23-like [Physcomitrella patens]
+PaEq_ff8397a19b31b843	MA_944861g0010	MA_944861g0010	XP_029128849.1 heavy metal-associated isoprenylated plant protein 39 [Cajanus cajan]

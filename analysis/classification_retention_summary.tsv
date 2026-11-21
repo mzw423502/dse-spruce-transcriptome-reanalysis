@@ -1,0 +1,4 @@
+route	original_n	present	finite	same_P0	same_P1	same_I	same_original_pattern	opposite_points	q_gate	uncertainty_gate	supported_opposite	supported_original_pattern	missing	finite_pattern_changed
+allN	391	389	389	389	389	389	389	389	373	381	373	373	2	0
+competition	391	391	391	391	391	391	391	391	391	391	391	391	0	0
+edgeR_QL	391	391	391	391	391	391	391	391	132	339	132	132	0	0

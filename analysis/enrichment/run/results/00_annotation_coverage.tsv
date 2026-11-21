@@ -1,0 +1,17 @@
+metric	value
+nominal_nonrisk_universe	41139
+bp_annotated_testable_universe_U	25482
+overall391_nominal	391
+overall391_in_U	213
+directionA_nominal	348
+directionA_in_U	184
+directionB_nominal	43
+directionB_in_U	29
+strict127_nominal	127
+strict127_in_U	79
+strictA_nominal	106
+strictA_in_U	67
+strictB_nominal	21
+strictB_in_U	12
+bp_terms_before_size_filter	100
+bp_terms_eligible_size_filter	29

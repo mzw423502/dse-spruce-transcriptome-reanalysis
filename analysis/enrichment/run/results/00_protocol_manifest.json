@@ -1,0 +1,22 @@
+{
+  "script": "run_go_statistics.R",
+  "seed": 20261110,
+  "n_perm": 10000,
+  "direction_A": "P0up_P1down",
+  "direction_B": "P0down_P1up",
+  "direct_BP_only": true,
+  "go_ancestor_propagation": false,
+  "frozen_term_exclusion_file": "term_exclusions.tsv",
+  "source_protein_GO_used": false,
+  "candidate_domain_GO_used": false,
+  "testable_background": "unique non-risk universe units with >=1 direct, non-root legacy host BP label",
+  "term_filter": "background membership >=5 and <=95% of U",
+  "primary_A": "one-sided Fisher: overall391 vs U",
+  "primary_B": "two-sided Fisher: direction A vs B within annotated overall391",
+  "primary_q": "BH over all eligible A and B tests combined; q_combined is the sole main-text decision q",
+  "strict_sensitivity": "nested only; all-term output, no new discovery call",
+  "permutation_A": "term-wise conditional hypergeometric Monte Carlo within length quintile x baseMean quintile; preserve selected overall391 count per stratum",
+  "permutation_B": "term-wise conditional hypergeometric Monte Carlo within annotated overall391 strata; exchange A/B labels preserving A count per stratum; two-sided deviations centered on analytic conditional expectation",
+  "permutation_q": "BH across all available A+B empirical term p-values (q_perm_combined); sensitivity only, separate from Fisher q_combined",
+  "caveat": "GO membership enrichment is not process activity, expression direction, or causal function"
+}

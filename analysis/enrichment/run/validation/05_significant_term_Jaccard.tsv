@@ -1,0 +1,7 @@
+scope	term_1	term_1_name	term_2	term_2_name	intersection_n	union_n	jaccard
+U	GO:0023052	signaling	GO:0050896	response to stimulus	2705	9715	0.2784354091610911
+overall391	GO:0023052	signaling	GO:0050896	response to stimulus	49	114	0.4298245614035088
+U	GO:0023052	signaling	GO:0065007	biological regulation	2709	7680	0.352734375
+overall391	GO:0023052	signaling	GO:0065007	biological regulation	49	86	0.5697674418604651
+U	GO:0050896	response to stimulus	GO:0065007	biological regulation	4788	12543	0.3817268596029658
+overall391	GO:0050896	response to stimulus	GO:0065007	biological regulation	64	136	0.47058823529411764

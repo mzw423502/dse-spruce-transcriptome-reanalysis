@@ -1,0 +1,56 @@
+{
+  "created_bjt": "2026-11-11T00:11:53.332158+08:00",
+  "status": "FROZEN_BEFORE_ENRICHMENT_OUTCOMES",
+  "scope": "Exploratory extension after original RNA results; not prospective study registration or independent validation.",
+  "background_start": 41139,
+  "annotation": "Frozen EnTAP GO-BP exact shared unit memberships. Resolve exact alt_ids using frozen GO 2026-07-26; discard roots and obsolete terms without replacement. No source GO transfer or ancestor propagation.",
+  "semantic_exclusions": "All reviewed terms explicitly describing animal-only structures/cells, physiology, receptor pathways or JUN kinase branch are excluded by definitions before results; this is a semantic applicability screen, not an exhaustive formal taxon-constraint audit.",
+  "background_for_tests": "Unique nonrisk eligible units with at least one remaining valid direct legacy BP label. Include valid labels with <5 units when defining annotated U.",
+  "term_size_rule": {
+    "min_units": 5,
+    "max_fraction_U": 0.95,
+    "no_outcome_based_filter": true
+  },
+  "primary_A": "One-sided Fisher over-representation in annotated members of the frozen 391 set versus the rest of annotated U; two-sided exact OR CI.",
+  "primary_B": "Two-sided Fisher term-composition difference between P0up_P1down and P0down_P1up within annotated 391; require >=10 annotated units in smaller group; OR numerator is P0up_P1down.",
+  "multiple_testing": "BH across all term tests in A and B combined; separate family BH also exported but not used to select main claims.",
+  "reportable_rule": "combined q<0.05; A OR>1, B either sign; at least 2 hits in enriched class. Report all tests, not just significant terms.",
+  "nested_sensitivity": "127 overall and 106 vs21 same universe and eligible terms; all output retained, not new discoveries or independent replication.",
+  "bias_sensitivity": {
+    "seed": 20261110,
+    "draws": 10000,
+    "strata": "rank-average quintiles of unique CDS length x frozen DESeq2 baseMean in annotated U",
+    "A": "term-wise sum of stratum hypergeometric counts conditional on observed 391 count per stratum",
+    "B": "conditional hypergeometric direction allocation within selected391, preserving stratum A/B sizes; double-sided absolute deviation from analytical conditional mean",
+    "q": "BH over A/B empirical p combined",
+    "interpretation": "Main biological emphasis requires concordant Fisher and bias-adjusted support, not pathway activation."
+  },
+  "visual_policy": "If supported terms exist, display complete significant terms or deterministic representative clusters (member Jaccard>=0.5, choose smaller background set then GO ID) with full table. If absent, no significant-enrichment bubble plot. Coverage and transparent negative results may be supplemental.",
+  "nonclaims": [
+    "pathway activation or inhibition",
+    "defense-to-antioxidant metabolic switch",
+    "orthology or enzyme function",
+    "independent validation",
+    "cell-level transcription separate from tissue mixture"
+  ],
+  "input_hashes": {
+    "excluded_memberships.tsv": "1a0d5fdec40e34feb79c661bc26a48938c078557a0f0cccc0e958faf38c8201e",
+    "memberships.tsv": "676281945812198e46bfcbcb5acb0c339b18f4d200787aec853100375ef3517d",
+    "selected_five_contrasts.tsv": "e21a9ed75c637f6d399f649c0ddf6d25582faf4774b823516d62ebef9997961a",
+    "selected_identity.tsv": "b910c361f2c2d9a9efeddef330b56236750390cca6346671f5944ae2442ce424",
+    "term_exclusions.tsv": "05aca65d176c5fd8e467bda8fb02782af6edd1f0c293ebbef74e7a6f7eb1b40b",
+    "terms.tsv": "e492872cc9526b51bec8853dac0e34fa9109a37d411baf597a829a1da4cc3b87",
+    "universe.tsv": "ed695c5c0df110860922ae16b3a7e2291d691f5efcf8ea4bc69cf6ef98502f69"
+  },
+  "script_hashes": {
+    "execute_go.py": "f00715b291090f84e1d5d979b30f2003402ae96a158759271fca9ec8df428d01",
+    "freeze_enrichment_protocol.py": "80f6d4986c7b4c81d1b5c2d9e08a351f557bb8683ae9a4dfadba4d629482f890",
+    "prepare_go_inputs.py": "2d8692ec05ca66eeddb19771f20e94fa8afb0b0cef8883a56e2101d400406dd8",
+    "run_go_statistics.R": "370a49f3e4b386326af7b5f79508cb059e9dd104d47967312eb69cfa93941c2d"
+  },
+  "references": [
+    "https://geneontology.org/docs/go-enrichment-analysis/",
+    "https://geneontology.org/docs/ontology-documentation/",
+    "https://doi.org/10.1186/gb-2010-11-2-r14"
+  ]
+}

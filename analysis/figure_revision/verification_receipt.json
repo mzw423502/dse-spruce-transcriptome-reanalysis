@@ -1,0 +1,100 @@
+{
+  "status": "COMPLETE",
+  "started_bjt": "2026-11-11T11:10:31.345777+08:00",
+  "finished_bjt": "2026-11-11T11:10:37.666389+08:00",
+  "exit_code": 0,
+  "remote_project_root": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110",
+  "remote_output_dir": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110/figure_revision_20261111",
+  "remote_replay_dir": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110/figure_revision_20261111/replay_validation",
+  "command": [
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/rnaseq/bin/Rscript",
+    "--vanilla",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110/scripts/plot_figure3_enrichment_candidates_portable.R",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110/figure_revision_20261111/replay_validation"
+  ],
+  "input_sha_before": {
+    "run/results/02_primary_all_terms.tsv": "d00f303a004ba7fe376d91fb993370209a8bf757073f46f66fe708e5f9a1476d",
+    "run/validation/06_six_candidate_significant_term_membership.tsv": "99592e1dfa198bbcfae087e5c6992b155623803739eaa499b28c3a5b94196c96",
+    "scripts/plot_figure3_enrichment_candidates_portable.R": "856d7b6843692fbabacf1f8c2d85e1af0deb5f95e65ffe634e991bd9474067db"
+  },
+  "input_sha_after": {
+    "run/results/02_primary_all_terms.tsv": "d00f303a004ba7fe376d91fb993370209a8bf757073f46f66fe708e5f9a1476d",
+    "run/validation/06_six_candidate_significant_term_membership.tsv": "99592e1dfa198bbcfae087e5c6992b155623803739eaa499b28c3a5b94196c96",
+    "scripts/plot_figure3_enrichment_candidates_portable.R": "856d7b6843692fbabacf1f8c2d85e1af0deb5f95e65ffe634e991bd9474067db"
+  },
+  "input_unchanged": true,
+  "output_file_hashes": {
+    "Figure3_revision_source_panel_a.tsv": "f05996fffe775c5c9dc94b38902407350a9000bc1de2362772d7b2980541a236",
+    "Figure3_revision_source_panel_b.tsv": "8a2971aca7660c20daeb40b8d175e455676194fb6c1f7f6cea41bf61c064d91d",
+    "Figure3_GO_enrichment_candidates.png": "3591d50613ebb90946899f11dd043c732387a59ca25a628791d22341a8525b35",
+    "Figure3_GO_enrichment_candidates.svg": "b6d2c440722f5ba00d0b2f88e1b5662db74a88201fb533e8f6797a9d613efbc4",
+    "Figure3_GO_enrichment_candidates.pdf": "fc5ec52d25527bfae403a3be38d5c5343860af6ac2264f0c0642134ddc155fc1",
+    "Figure3_revision_QA.txt": "409b6fb607c8c4f77785619b483541df664e1029fd1a17044e8480d52b9dc46c"
+  },
+  "replay_output_comparison": [
+    {
+      "file": "Figure3_revision_source_panel_a.tsv",
+      "original_sha256": "f05996fffe775c5c9dc94b38902407350a9000bc1de2362772d7b2980541a236",
+      "replay_sha256": "f05996fffe775c5c9dc94b38902407350a9000bc1de2362772d7b2980541a236",
+      "hash_match": true
+    },
+    {
+      "file": "Figure3_revision_source_panel_b.tsv",
+      "original_sha256": "8a2971aca7660c20daeb40b8d175e455676194fb6c1f7f6cea41bf61c064d91d",
+      "replay_sha256": "8a2971aca7660c20daeb40b8d175e455676194fb6c1f7f6cea41bf61c064d91d",
+      "hash_match": true
+    },
+    {
+      "file": "Figure3_GO_enrichment_candidates.png",
+      "original_sha256": "3591d50613ebb90946899f11dd043c732387a59ca25a628791d22341a8525b35",
+      "replay_sha256": "3591d50613ebb90946899f11dd043c732387a59ca25a628791d22341a8525b35",
+      "hash_match": true
+    },
+    {
+      "file": "Figure3_GO_enrichment_candidates.svg",
+      "original_sha256": "b6d2c440722f5ba00d0b2f88e1b5662db74a88201fb533e8f6797a9d613efbc4",
+      "replay_sha256": "b6d2c440722f5ba00d0b2f88e1b5662db74a88201fb533e8f6797a9d613efbc4",
+      "hash_match": true
+    },
+    {
+      "file": "Figure3_GO_enrichment_candidates.pdf",
+      "original_sha256": "fc5ec52d25527bfae403a3be38d5c5343860af6ac2264f0c0642134ddc155fc1",
+      "replay_sha256": "40e6793d99eccdef61e6fa0a66e832ca625643e60771661a492079c5d27f4fd7",
+      "hash_match": false
+    },
+    {
+      "file": "Figure3_revision_QA.txt",
+      "original_sha256": "409b6fb607c8c4f77785619b483541df664e1029fd1a17044e8480d52b9dc46c",
+      "replay_sha256": "409b6fb607c8c4f77785619b483541df664e1029fd1a17044e8480d52b9dc46c",
+      "hash_match": true
+    }
+  ],
+  "png_replay": {
+    "original_size": [
+      2007,
+      1240
+    ],
+    "replay_size": [
+      2007,
+      1240
+    ],
+    "pixel_equal": true,
+    "max_channel_difference": 0
+  },
+  "svg_replay_hash_match": true,
+  "pdf_replay_pixel_validation": {
+    "original_size": [
+      1003,
+      619
+    ],
+    "replay_size": [
+      1003,
+      619
+    ],
+    "pixel_equal": true,
+    "max_channel_difference": 0
+  },
+  "pdf_note": "PDF byte hash may differ because of writer metadata; first-page 150-dpi render is the visual comparison.",
+  "stderr_bytes": 0
+}

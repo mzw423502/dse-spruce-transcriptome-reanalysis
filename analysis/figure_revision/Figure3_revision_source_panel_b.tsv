@@ -1,0 +1,19 @@
+panel	term_id	name	candidate	recorded
+b_candidate_membership	GO:0023052	signaling	ERF017-like	TRUE
+b_candidate_membership	GO:0050896	response to stimulus	ERF017-like	TRUE
+b_candidate_membership	GO:0065007	biological regulation	ERF017-like	TRUE
+b_candidate_membership	GO:0023052	signaling	NHL13-like	FALSE
+b_candidate_membership	GO:0050896	response to stimulus	NHL13-like	FALSE
+b_candidate_membership	GO:0065007	biological regulation	NHL13-like	FALSE
+b_candidate_membership	GO:0023052	signaling	CSLD3-like	FALSE
+b_candidate_membership	GO:0050896	response to stimulus	CSLD3-like	TRUE
+b_candidate_membership	GO:0065007	biological regulation	CSLD3-like	FALSE
+b_candidate_membership	GO:0023052	signaling	GST-like	FALSE
+b_candidate_membership	GO:0050896	response to stimulus	GST-like	TRUE
+b_candidate_membership	GO:0065007	biological regulation	GST-like	TRUE
+b_candidate_membership	GO:0023052	signaling	XTH23-like	FALSE
+b_candidate_membership	GO:0050896	response to stimulus	XTH23-like	TRUE
+b_candidate_membership	GO:0065007	biological regulation	XTH23-like	FALSE
+b_candidate_membership	GO:0023052	signaling	CHS4-like	FALSE
+b_candidate_membership	GO:0050896	response to stimulus	CHS4-like	TRUE
+b_candidate_membership	GO:0065007	biological regulation	CHS4-like	TRUE

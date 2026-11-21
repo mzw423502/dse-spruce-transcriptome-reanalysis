@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "created_bjt": "2026-10-30",
+  "purpose": "Supplementary provenance record for the historical reference assets used by the DSE Norway-spruce RNA-seq reanalysis. This record only consolidates existing receipts and read-only build records; it does not rerun a download, build, or checksum calculation.",
+  "project_stage": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z",
+  "primary_host_reference": {
+    "organism": "Picea abies",
+    "release_label": "Paab v1.0b / Picea_v1.0b",
+    "original_asset": {
+      "filename": "Paab.1_0b.cds.fa.gz",
+      "url": "https://treegenesdb.org/FTP/Genomes/Paab/v1.0b/annotation/Paab.1_0b.cds.fa.gz",
+      "download_receipt": "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/02_transcriptomes/reference_v3_receipts.json",
+      "download_http_status": 200,
+      "downloaded_bytes": 14730713,
+      "sha256_recorded_at_download": "6acf20abc088da2691f5834a85f8c4a35e80984802d5838e1ffa60be9e2b2eb6",
+      "official_md5": null,
+      "official_md5_status": "No official MD5 value for this TreeGenes-hosted CDS file was located in the preserved receipts/build records. The SHA-256 above is the historical local download receipt, not an asserted publisher checksum."
+    },
+    "derived_quantification_asset": {
+      "filename": "host_primary_nfree_eq.fa",
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/host_primary_nfree_eq.fa",
+      "construction": "Exclude any original CDS containing N, then collapse exact CDS sequences into sequence-equivalence units; counts were not expanded back to individual genes.",
+      "targets": 64238,
+      "source_gene_ids": 64801,
+      "sha256_existing_ready_record": "5552baf719d6b1498ad83243143ad59078aea12ba75a4fee6becd71d581d6596",
+      "checksum_scope": "Derived uncompressed quantification FASTA, not the original compressed TreeGenes download. The value was taken from quantification_ready.json/reference artifact manifest; it was not recomputed in this supplementary-record step."
+    },
+    "build_evidence": [
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/10_logs/ref_build_host.log",
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/reference_config.json",
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/quantification_ready.json",
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/reference_artifact_manifest.tsv",
+      "D:\\dse\\formal_RNA_20261017\\final_research_delivery_20261028_1310\\reproducibility\\inputs\\external_assets_closure_v3.json"
+    ]
+  },
+  "near_species_fungal_proxy": {
+    "role": "Competition/host-attribution sensitivity only; it is not an exact P. sphaeroides reference, fungal quantification, or independent validation.",
+    "working_project_label": "P. scopiformis CDS proxy",
+    "assembly_accession": "GCA_001500285.1",
+    "paired_refseq_accession": "GCF_001500285.1",
+    "assembly_name": "Phisc1",
+    "ncbi_current_organism_label_in_saved_report": "Mollisia scopiformis",
+    "taxid_in_saved_report": 149040,
+    "strain": "CBS 120377",
+    "historical_name_evidence_in_saved_report": "The saved NCBI report gives the BioProject/sample title as 'Phialocephala scopiformis CBS 120377'. Project reference_config.json labels the assembly 'Mollisia scopiformis formerly Phialocephala scopiformis'. This record does not independently verify nomenclatural synonymy beyond those preserved records.",
+    "source_asset": {
+      "filename": "GCA_001500285.1_Phisc1_cds_from_genomic.fna.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/500/285/GCA_001500285.1_Phisc1/GCA_001500285.1_Phisc1_cds_from_genomic.fna.gz",
+      "downloaded_as": "pscop_cds.fna.gz",
+      "download_http_status": 200,
+      "downloaded_bytes": 8635306,
+      "sha256_recorded_at_download": "eef04efec40876f70ef460b53b1963923c7379d0b1d97702f846b81f4af779da",
+      "official_md5_from_downloaded_ncbi_md5checksums": "e4ed22be65a6f5656f0b8efc833f6410",
+      "official_md5_verification_in_build_record": "The reference-preparation script records a successful local MD5 comparison against the downloaded NCBI md5checksums.txt before constructing the competition FASTA. This supplementary-record step did not redo the checksum."
+    },
+    "derived_competition_asset": {
+      "filename": "host_plus_mscop_proxy_nfree_eq.fa",
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/host_plus_mscop_proxy_nfree_eq.fa",
+      "total_targets": 82800,
+      "sha256_existing_ready_record": "1c88fa7ccf443dc10f409169a2d6c617597ac4448f47eeb7bb57a50f9a668d6f",
+      "checksum_scope": "Derived combined FASTA; not the original NCBI compressed CDS asset."
+    },
+    "source_evidence": [
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/evidence/pscop_assembly.json",
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/evidence/ref_fungi_download_receipts.json",
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/evidence/pscop_md5checksums.txt",
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/reference_config.json",
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/reference_sources.tsv",
+      "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/quantification_ready.json"
+    ]
+  },
+  "unresolved_or_explicitly_not_claimed": [
+    "No publisher-provided MD5 for Paab.1_0b.cds.fa.gz was recovered from the preserved metadata; do not convert its receipt SHA-256 into an official checksum claim.",
+    "The primary derived FASTA hash and competition derived FASTA hash identify the built artifacts, not the original upstream compressed source files.",
+    "No exact P. sphaeroides assembly/CDS reference was present in frozen reference evidence. A separate historical NCBI query receipt for the species returned a 2-byte response and is not a usable reference asset.",
+    "The current NCBI organism label at GCA_001500285.1 is Mollisia scopiformis. Any use of the historical P. scopiformis name should retain the accession and label it as a historical/project-record designation unless an independent taxonomic authority is supplied."
+  ],
+  "read_only_audit_note": "Remote inspection was restricted to existing continuation, metadata, reference-build and receipt records. No computation, installation, indexing, download, or task launch was performed."
+}

@@ -1,0 +1,250 @@
+term_id	term_name	unit_id	direction	strict127	baseMean	length	representative_gene	annotation_description
+GO:0023052	signaling	PaEq_00643aa7afabfc58	P0up_P1down	0	272.136060896689	1005	MA_10426697g0020	XP_020677531.1 probable protein phosphatase 2C 25 [Dendrobium catenatum]
+GO:0023052	signaling	PaEq_07abb2323c60ded5	P0up_P1down	1	359.103309328008	480	MA_10434734g0010	
+GO:0023052	signaling	PaEq_0cefae8dda7dc39e	P0up_P1down	0	242.609749649471	807	MA_10433310g0010	XP_006358390.1 PREDICTED: ethylene-responsive transcription factor ERF027-like [Solanum tuberosum]
+GO:0023052	signaling	PaEq_0fa61c6a63df7366	P0up_P1down	1	185.465091465582	1140	MA_525082g0010	
+GO:0023052	signaling	PaEq_1149801b51972b1b	P0down_P1up	1	3289.5994642637	1751	MA_10433230g0010	XP_009393994.1 PREDICTED: arogenate dehydratase/prephenate dehydratase 2, chloroplastic-like [Musa acuminata subsp. malaccensis]
+GO:0023052	signaling	PaEq_15d555a9eb2a6f04	P0up_P1down	0	10.4765955243033	400	MA_948744g0010	
+GO:0023052	signaling	PaEq_1aaaa8c9bba2a754	P0up_P1down	0	654.693416007657	612	MA_959784g0010	NP_001238500.1 dehydration-responsive element binding protein 3 [Glycine max]
+GO:0023052	signaling	PaEq_1c27fb1a35e816b3	P0up_P1down	0	45.2191112994988	1158	MA_177086g0010	XP_028091657.1 probable protein phosphatase 2C 25 [Camellia sinensis]
+GO:0023052	signaling	PaEq_1e16dd162f580396	P0up_P1down	1	3357.0335694338	792	MA_92070g0010	
+GO:0023052	signaling	PaEq_2b231a50233bc07e	P0up_P1down	0	2753.15172149083	4962	MA_10437104g0020	
+GO:0023052	signaling	PaEq_2b36d2cc3fafcff0	P0up_P1down	1	392.996096697413	522	MA_10426697g0010	XP_022556295.1 probable protein phosphatase 2C 25 [Brassica napus]
+GO:0023052	signaling	PaEq_3b41f4e549313d54	P0up_P1down	0	690.838189778444	1899	MA_69735g0010	
+GO:0023052	signaling	PaEq_3fed6f014cc2f7b3	P0down_P1up	1	1189.58152399808	585	MA_95364g0010	XP_015867681.1 auxin-responsive protein SAUR65-like [Ziziphus jujuba]
+GO:0023052	signaling	PaEq_424c4c63fbdebb18	P0up_P1down	1	291.423410924446	1578	MA_100374g0010	XP_023553605.1 xyloglucan galactosyltransferase MUR3-like [Cucurbita pepo subsp. pepo]
+GO:0023052	signaling	PaEq_4a396275891b845b	P0up_P1down	1	2532.01806937305	1050	MA_8552524g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0023052	signaling	PaEq_4ad9ee4f4ef7693b	P0up_P1down	0	1381.96188110359	1730	MA_63611g0010	XP_008775443.1 receptor-like protein kinase THESEUS 1 [Phoenix dactylifera]
+GO:0023052	signaling	PaEq_4c0a16832e41a9d3	P0up_P1down	0	3402.18077770154	1257	MA_89683g0010	
+GO:0023052	signaling	PaEq_4c81b39ca8daef28	P0up_P1down	0	111.420076189485	1221	MA_10429333g0010	XP_023903696.1 probable protein phosphatase 2C 25 isoform X1 [Quercus suber]
+GO:0023052	signaling	PaEq_5645511f25f7391f	P0up_P1down	0	30.9181019362613	540	MA_45733g0020	XP_022730929.1 ethylene-responsive transcription factor ERF017-like [Durio zibethinus]
+GO:0023052	signaling	PaEq_5768e7c227927981	P0up_P1down	1	1590.27771549339	888	MA_3405g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0023052	signaling	PaEq_580ac2786bc8baca	P0up_P1down	0	4124.51374762436	366	MA_462270g0010	XP_006840509.1 protein RALF-like 33 [Amborella trichopoda]
+GO:0023052	signaling	PaEq_583bce3945378f10	P0up_P1down	1	496.643955453733	444	MA_6305g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+GO:0023052	signaling	PaEq_5dca74028b0cb180	P0up_P1down	0	59.4997384041775	1818	MA_19420g0020	XP_031499475.1 AP2/ERF and B3 domain-containing transcription factor RAV1-like [Nymphaea colorata]
+GO:0023052	signaling	PaEq_612da4a8675e23bb	P0up_P1down	0	138.561515008299	888	MA_6447416g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0023052	signaling	PaEq_626cbf795a39d320	P0up_P1down	1	1696.59136785383	966	MA_10435156g0020	XP_031278008.1 putative clathrin assembly protein At4g40080 [Pistacia vera]
+GO:0023052	signaling	PaEq_647b7c35b06f8458	P0up_P1down	0	225.577624696418	1991	MA_383300g0010	XP_028751294.1 TMV resistance protein N-like [Prosopis alba]
+GO:0023052	signaling	PaEq_661096105f9ab399	P0up_P1down	1	2534.68522300053	840	MA_79751g0010	XP_031504208.1 CBL-interacting protein kinase 5-like [Nymphaea colorata]
+GO:0023052	signaling	PaEq_679ab21d31d9f63b	P0up_P1down	0	82.5034377191787	633	MA_113446g0010	XP_012077091.1 ethylene-responsive transcription factor ERF017 [Jatropha curcas]
+GO:0023052	signaling	PaEq_70373a08c5257a0c	P0up_P1down	1	1011.8830471767	1662	MA_178646g0010	XP_006843763.2 AP2/ERF and B3 domain-containing transcription repressor RAV2 [Amborella trichopoda]
+GO:0023052	signaling	PaEq_772c64831abd9fa4	P0up_P1down	0	701.312900170254	1206	MA_10432464g0020	XP_021910045.1 probable protein phosphatase 2C 25 [Carica papaya]
+GO:0023052	signaling	PaEq_78499ed24b14dc01	P0up_P1down	0	159.451729900671	489	MA_937278g0010	XP_019435434.1 PREDICTED: ABC transporter B family member 15-like [Lupinus angustifolius]
+GO:0023052	signaling	PaEq_8492a9ad4187df58	P0up_P1down	1	552.199659774092	1122	MA_6860639g0010	
+GO:0023052	signaling	PaEq_8709e77b93dea3b7	P0up_P1down	0	8612.69593815381	1480	MA_121581g0010	XP_019177314.1 PREDICTED: ethylene-responsive transcription factor RAP2-4-like [Ipomoea nil]
+GO:0023052	signaling	PaEq_960a1016a6ff6475	P0up_P1down	1	1440.92872641918	606	MA_81979g0010	XP_016682358.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Gossypium hirsutum]
+GO:0023052	signaling	PaEq_9a56ad8dbf534385	P0up_P1down	0	81.9251099502027	817	MA_10365511g0010	XP_018835605.1 PREDICTED: probable protein phosphatase 2C 25 [Juglans regia]
+GO:0023052	signaling	PaEq_a155ab7655a709dd	P0up_P1down	0	112.267356404907	552	MA_10370681g0010	XP_017647700.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Gossypium arboreum]
+GO:0023052	signaling	PaEq_a21b4f28f3e79b9a	P0up_P1down	1	626.981877827627	561	MA_9785986g0010	XP_024182624.1 ethylene-responsive transcription factor ERF017 [Rosa chinensis]
+GO:0023052	signaling	PaEq_a4b034607a94884a	P0up_P1down	0	1546.91249351949	1239	MA_84518g0010	XP_013687246.2 copper-transporting ATPase RAN1-like [Brassica napus]
+GO:0023052	signaling	PaEq_a6622b8bcac8bfa7	P0up_P1down	0	170.442256879716	532	MA_10431706g0010	XP_006452450.1 ethylene-responsive transcription factor 3 [Citrus clementina]
+GO:0023052	signaling	PaEq_ab3fb6209ef1e943	P0up_P1down	0	129.207847769144	1959	MA_140243g0010	XP_026407817.1 AP2/ERF and B3 domain-containing transcription factor RAV1-like [Papaver somniferum]
+GO:0023052	signaling	PaEq_afb454e30c7b04d4	P0up_P1down	1	1535.16483243053	582	MA_493100g0010	XP_022880917.1 ethylene-responsive transcription factor ERF017-like [Olea europaea var. sylvestris]
+GO:0023052	signaling	PaEq_babd88678416da14	P0up_P1down	0	198.950257171453	228	MA_818265g0010	
+GO:0023052	signaling	PaEq_cce51b8bbdc367f0	P0up_P1down	1	293.611470477666	299	MA_8182812g0010	XP_023910623.1 probable protein phosphatase 2C 25, partial [Quercus suber]
+GO:0023052	signaling	PaEq_ce81ede054912d6e	P0up_P1down	1	194.999388604493	573	MA_5280013g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+GO:0023052	signaling	PaEq_ddf67ab34cdbfb3e	P0up_P1down	0	160.919616507094	336	MA_540404g0010	
+GO:0023052	signaling	PaEq_de1ba0e820a3a720	P0up_P1down	1	5582.65363471094	2247	MA_10431083g0010	XP_020890438.1 trifunctional UDP-glucose 4,6-dehydratase/UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase/UDP-4-keto-L-rhamnose-reductase RHM1 [Arabidopsis lyrata subsp. lyrata]
+GO:0023052	signaling	PaEq_ea3ea0648441da8a	P0up_P1down	1	1039.43156433327	369	MA_205329g0010	XP_002273386.1 PREDICTED: protein RALF-like 33 [Vitis vinifera]
+GO:0023052	signaling	PaEq_ee636eab4cba5e3e	P0up_P1down	1	621.010857426032	1632	MA_10427577g0010	
+GO:0023052	signaling	PaEq_fbb1840a231a4b58	P0up_P1down	0	869.158630572907	906	MA_120531g0010	NP_001312182.1 ethylene-responsive transcription factor 4 [Nicotiana tabacum]
+GO:0050896	response to stimulus	PaEq_00643aa7afabfc58	P0up_P1down	0	272.136060896689	1005	MA_10426697g0020	XP_020677531.1 probable protein phosphatase 2C 25 [Dendrobium catenatum]
+GO:0050896	response to stimulus	PaEq_019525d2de66bad6	P0down_P1up	0	272.021994033078	374	MA_10042865g0010	
+GO:0050896	response to stimulus	PaEq_07abb2323c60ded5	P0up_P1down	1	359.103309328008	480	MA_10434734g0010	
+GO:0050896	response to stimulus	PaEq_08520baa32e624b8	P0up_P1down	0	983.745439869012	1392	MA_83739g0020	XP_031271628.1 U-box domain-containing protein 26-like isoform X1 [Pistacia vera]
+GO:0050896	response to stimulus	PaEq_09da252750503f06	P0up_P1down	0	362.939803086309	1125	MA_10430220g0010	XP_031251569.1 transcription factor MYB4 [Pistacia vera]
+GO:0050896	response to stimulus	PaEq_0ae4234af705c08f	P0down_P1up	1	23714.6332208417	1779	MA_118702g0010	XP_023512863.1 trans-cinnamate 4-monooxygenase-like [Cucurbita pepo subsp. pepo]
+GO:0050896	response to stimulus	PaEq_0cefae8dda7dc39e	P0up_P1down	0	242.609749649471	807	MA_10433310g0010	XP_006358390.1 PREDICTED: ethylene-responsive transcription factor ERF027-like [Solanum tuberosum]
+GO:0050896	response to stimulus	PaEq_0f5517217b766e08	P0up_P1down	0	56.1299681945541	1206	MA_566408g0010	XP_031498583.1 12-oxophytodienoate reductase 3 [Nymphaea colorata]
+GO:0050896	response to stimulus	PaEq_0fa61c6a63df7366	P0up_P1down	1	185.465091465582	1140	MA_525082g0010	
+GO:0050896	response to stimulus	PaEq_1149801b51972b1b	P0down_P1up	1	3289.5994642637	1751	MA_10433230g0010	XP_009393994.1 PREDICTED: arogenate dehydratase/prephenate dehydratase 2, chloroplastic-like [Musa acuminata subsp. malaccensis]
+GO:0050896	response to stimulus	PaEq_15d555a9eb2a6f04	P0up_P1down	0	10.4765955243033	400	MA_948744g0010	
+GO:0050896	response to stimulus	PaEq_1aaaa8c9bba2a754	P0up_P1down	0	654.693416007657	612	MA_959784g0010	NP_001238500.1 dehydration-responsive element binding protein 3 [Glycine max]
+GO:0050896	response to stimulus	PaEq_1b15eda3d8e76d8e	P0up_P1down	0	12484.7475822098	1458	MA_10426094g0010	XP_031126808.1 GDP-L-galactose phosphorylase 1-like [Ipomoea triloba]
+GO:0050896	response to stimulus	PaEq_1c0d5299ab724f64	P0down_P1up	0	7207.31181566688	651	MA_8673616g0010	
+GO:0050896	response to stimulus	PaEq_1c27fb1a35e816b3	P0up_P1down	0	45.2191112994988	1158	MA_177086g0010	XP_028091657.1 probable protein phosphatase 2C 25 [Camellia sinensis]
+GO:0050896	response to stimulus	PaEq_1e16dd162f580396	P0up_P1down	1	3357.0335694338	792	MA_92070g0010	
+GO:0050896	response to stimulus	PaEq_256c6fd03072190c	P0up_P1down	0	166.223919553641	828	MA_10106144g0010	XP_006828605.1 RING-H2 finger protein ATL2 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_29fa078cdd59040a	P0up_P1down	0	1890.03681518083	969	MA_17466g0010	XP_027080204.1 transcription factor KUA1 [Coffea arabica]
+GO:0050896	response to stimulus	PaEq_2b231a50233bc07e	P0up_P1down	0	2753.15172149083	4962	MA_10437104g0020	
+GO:0050896	response to stimulus	PaEq_2b36d2cc3fafcff0	P0up_P1down	1	392.996096697413	522	MA_10426697g0010	XP_022556295.1 probable protein phosphatase 2C 25 [Brassica napus]
+GO:0050896	response to stimulus	PaEq_2ba6044e5911309e	P0up_P1down	0	906.216414272916	1017	MA_11043g0030	XP_023925310.1 linoleate 9S-lipoxygenase 5-like, partial [Quercus suber]
+GO:0050896	response to stimulus	PaEq_304abd43e3da363f	P0down_P1up	0	1350.35950249639	2799	MA_16984g0010	XP_008218194.1 PREDICTED: probable serine/threonine-protein kinase WNK9 isoform X1 [Prunus mume]
+GO:0050896	response to stimulus	PaEq_30e1e1cce690ad0d	P0down_P1up	0	68.6955645795084	654	MA_169487g0010	
+GO:0050896	response to stimulus	PaEq_341b652852b29099	P0up_P1down	0	272.649634071117	360	MA_10261788g0010	
+GO:0050896	response to stimulus	PaEq_368abda3c36363ab	P0up_P1down	0	647.862152053715	348	MA_10168324g0010	XP_031498086.1 calcium-binding protein KIC-like [Nymphaea colorata]
+GO:0050896	response to stimulus	PaEq_3b41f4e549313d54	P0up_P1down	0	690.838189778444	1899	MA_69735g0010	
+GO:0050896	response to stimulus	PaEq_3fed6f014cc2f7b3	P0down_P1up	1	1189.58152399808	585	MA_95364g0010	XP_015867681.1 auxin-responsive protein SAUR65-like [Ziziphus jujuba]
+GO:0050896	response to stimulus	PaEq_3ffae5d0db2cbb8f	P0up_P1down	0	537.181610189596	345	MA_10428902g0010	XP_006840483.1 late embryogenesis abundant protein Lea5 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_41e95eb163cd374b	P0up_P1down	1	109.066665107238	337	MA_569551g0010	
+GO:0050896	response to stimulus	PaEq_424c4c63fbdebb18	P0up_P1down	1	291.423410924446	1578	MA_100374g0010	XP_023553605.1 xyloglucan galactosyltransferase MUR3-like [Cucurbita pepo subsp. pepo]
+GO:0050896	response to stimulus	PaEq_454f459a2a244ef5	P0up_P1down	0	102.544380739958	342	MA_1999194g0010	XP_028057949.1 calcium-binding protein PBP1-like [Camellia sinensis]
+GO:0050896	response to stimulus	PaEq_4a396275891b845b	P0up_P1down	1	2532.01806937305	1050	MA_8552524g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0050896	response to stimulus	PaEq_4ad9ee4f4ef7693b	P0up_P1down	0	1381.96188110359	1730	MA_63611g0010	XP_008775443.1 receptor-like protein kinase THESEUS 1 [Phoenix dactylifera]
+GO:0050896	response to stimulus	PaEq_4c0a16832e41a9d3	P0up_P1down	0	3402.18077770154	1257	MA_89683g0010	
+GO:0050896	response to stimulus	PaEq_4c81b39ca8daef28	P0up_P1down	0	111.420076189485	1221	MA_10429333g0010	XP_023903696.1 probable protein phosphatase 2C 25 isoform X1 [Quercus suber]
+GO:0050896	response to stimulus	PaEq_534c154a3834c4d4	P0up_P1down	1	3702.75344299955	3420	MA_595526g0010	XP_022718576.1 cellulose synthase-like protein D3 [Durio zibethinus]
+GO:0050896	response to stimulus	PaEq_53c5f26cb706ea6d	P0up_P1down	0	307.999326025183	1925	MA_83g0010	XP_020592690.1 probable disease resistance protein At4g33300 isoform X1 [Phalaenopsis equestris]
+GO:0050896	response to stimulus	PaEq_5645511f25f7391f	P0up_P1down	0	30.9181019362613	540	MA_45733g0020	XP_022730929.1 ethylene-responsive transcription factor ERF017-like [Durio zibethinus]
+GO:0050896	response to stimulus	PaEq_56e2a01df00a0fca	P0down_P1up	1	411.761260096257	516	MA_711804g0010	XP_006829206.2 E3 ubiquitin-protein ligase RHA1B [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_5709e841f359b9b1	P0up_P1down	1	181.752550542967	1062	MA_9973360g0010	
+GO:0050896	response to stimulus	PaEq_5768e7c227927981	P0up_P1down	1	1590.27771549339	888	MA_3405g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0050896	response to stimulus	PaEq_580ac2786bc8baca	P0up_P1down	0	4124.51374762436	366	MA_462270g0010	XP_006840509.1 protein RALF-like 33 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_583bce3945378f10	P0up_P1down	1	496.643955453733	444	MA_6305g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+GO:0050896	response to stimulus	PaEq_5a65a1def05cec52	P0up_P1down	1	4723.62728073845	1413	MA_10429454g0010	XP_024376106.1 nematode resistance protein-like HSPRO2 [Physcomitrella patens]
+GO:0050896	response to stimulus	PaEq_5b2281571ea410af	P0up_P1down	1	142.538946121393	1254	MA_33190g0010	XP_002323382.1 E3 ubiquitin-protein ligase PUB22 [Populus trichocarpa]
+GO:0050896	response to stimulus	PaEq_5c802628a2facad4	P0up_P1down	1	170.938045106398	878	MA_10432600g0010	XP_031284875.1 protein EXORDIUM-like [Pistacia vera]
+GO:0050896	response to stimulus	PaEq_5cac76305ed9265d	P0up_P1down	0	469.24243488654	1500	MA_10429720g0010	XP_006853946.1 12-oxophytodienoate reductase 7 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_5dca74028b0cb180	P0up_P1down	0	59.4997384041775	1818	MA_19420g0020	XP_031499475.1 AP2/ERF and B3 domain-containing transcription factor RAV1-like [Nymphaea colorata]
+GO:0050896	response to stimulus	PaEq_5e3aaf20db8942de	P0up_P1down	1	7799.71102661042	2625	MA_88585g0010	XP_021285367.1 probable disease resistance protein At4g33300 [Herrania umbratica]
+GO:0050896	response to stimulus	PaEq_612da4a8675e23bb	P0up_P1down	0	138.561515008299	888	MA_6447416g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0050896	response to stimulus	PaEq_626cbf795a39d320	P0up_P1down	1	1696.59136785383	966	MA_10435156g0020	XP_031278008.1 putative clathrin assembly protein At4g40080 [Pistacia vera]
+GO:0050896	response to stimulus	PaEq_63b025200270dd70	P0up_P1down	0	294.920921885211	1068	MA_26001g0020	XP_006828605.1 RING-H2 finger protein ATL2 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_647b7c35b06f8458	P0up_P1down	0	225.577624696418	1991	MA_383300g0010	XP_028751294.1 TMV resistance protein N-like [Prosopis alba]
+GO:0050896	response to stimulus	PaEq_661096105f9ab399	P0up_P1down	1	2534.68522300053	840	MA_79751g0010	XP_031504208.1 CBL-interacting protein kinase 5-like [Nymphaea colorata]
+GO:0050896	response to stimulus	PaEq_677b669fe07c2753	P0up_P1down	0	2903.57830378372	1962	MA_10431583g0020	XP_006853194.2 probable pectin methyltransferase QUA2 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_679ab21d31d9f63b	P0up_P1down	0	82.5034377191787	633	MA_113446g0010	XP_012077091.1 ethylene-responsive transcription factor ERF017 [Jatropha curcas]
+GO:0050896	response to stimulus	PaEq_67a62c0e96fc329c	P0up_P1down	0	142.769472783231	359	MA_10120109g0010	XP_008778752.1 probable glutathione S-transferase parA [Phoenix dactylifera]
+GO:0050896	response to stimulus	PaEq_6c314d0bda685b5e	P0down_P1up	1	719.531866327832	531	MA_10426104g0010	XP_010923805.1 probable glutathione S-transferase [Elaeis guineensis]
+GO:0050896	response to stimulus	PaEq_70373a08c5257a0c	P0up_P1down	1	1011.8830471767	1662	MA_178646g0010	XP_006843763.2 AP2/ERF and B3 domain-containing transcription repressor RAV2 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_71fb621e99f0d609	P0up_P1down	0	192.195761361364	1008	MA_345246g0010	
+GO:0050896	response to stimulus	PaEq_74d58256c80458cd	P0up_P1down	0	47.6489953529339	534	MA_394431g0010	
+GO:0050896	response to stimulus	PaEq_772c64831abd9fa4	P0up_P1down	0	701.312900170254	1206	MA_10432464g0020	XP_021910045.1 probable protein phosphatase 2C 25 [Carica papaya]
+GO:0050896	response to stimulus	PaEq_77392d2ebc09593b	P0up_P1down	0	132.702111640913	906	MA_10436650g0010	XP_006828605.1 RING-H2 finger protein ATL2 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_78499ed24b14dc01	P0up_P1down	0	159.451729900671	489	MA_937278g0010	XP_019435434.1 PREDICTED: ABC transporter B family member 15-like [Lupinus angustifolius]
+GO:0050896	response to stimulus	PaEq_7a2884efb7266f53	P0up_P1down	0	2285.24151137879	4242	MA_10432894g0010	
+GO:0050896	response to stimulus	PaEq_7a6e3e10e5e0fd31	P0up_P1down	0	35.3494696088762	1245	MA_17715g0010	XP_007224745.1 U-box domain-containing protein 21 [Prunus persica]
+GO:0050896	response to stimulus	PaEq_7b1bed067a74adef	P0down_P1up	0	1305.37517568384	1371	MA_10425895g0020	XP_023553829.1 scopoletin glucosyltransferase-like [Cucurbita pepo subsp. pepo]
+GO:0050896	response to stimulus	PaEq_810de31f029e6906	P0up_P1down	0	277.204923201083	375	MA_10436609g0010	XP_002889758.1 germin-like protein subfamily 2 member 1 [Arabidopsis lyrata subsp. lyrata]
+GO:0050896	response to stimulus	PaEq_8492a9ad4187df58	P0up_P1down	1	552.199659774092	1122	MA_6860639g0010	
+GO:0050896	response to stimulus	PaEq_86fede9ac0e73e5d	P0down_P1up	0	2107.70725350339	1470	MA_45692g0010	XP_011620772.1 protein DETOXIFICATION 41 isoform X1 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_8709e77b93dea3b7	P0up_P1down	0	8612.69593815381	1480	MA_121581g0010	XP_019177314.1 PREDICTED: ethylene-responsive transcription factor RAP2-4-like [Ipomoea nil]
+GO:0050896	response to stimulus	PaEq_8a467b99f1b66767	P0up_P1down	0	820.66211258906	1407	MA_10265639g0010	
+GO:0050896	response to stimulus	PaEq_8ea27b5fea910683	P0up_P1down	0	715.562730297919	909	MA_10426833g0010	XP_006419811.2 basic 7S globulin [Citrus clementina]
+GO:0050896	response to stimulus	PaEq_8f9eb76262f8eede	P0up_P1down	0	49.9413484155831	263	MA_10433606g0010	XP_006840483.1 late embryogenesis abundant protein Lea5 [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_8fd572a9dcc750ed	P0up_P1down	1	1049.43111730858	645	MA_10308226g0010	XP_024439607.1 germin-like protein subfamily 1 member 16 [Populus trichocarpa]
+GO:0050896	response to stimulus	PaEq_960a1016a6ff6475	P0up_P1down	1	1440.92872641918	606	MA_81979g0010	XP_016682358.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Gossypium hirsutum]
+GO:0050896	response to stimulus	PaEq_99dd8cc0f5930a2c	P0up_P1down	0	3031.61838049202	2595	MA_332109g0010	XP_020592690.1 probable disease resistance protein At4g33300 isoform X1 [Phalaenopsis equestris]
+GO:0050896	response to stimulus	PaEq_9a56ad8dbf534385	P0up_P1down	0	81.9251099502027	817	MA_10365511g0010	XP_018835605.1 PREDICTED: probable protein phosphatase 2C 25 [Juglans regia]
+GO:0050896	response to stimulus	PaEq_9c6ff41aeb6200e8	P0up_P1down	0	10517.5003073296	441	MA_60383g0010	XP_030951831.1 abscisic stress-ripening protein 2-like [Quercus lobata]
+GO:0050896	response to stimulus	PaEq_a155ab7655a709dd	P0up_P1down	0	112.267356404907	552	MA_10370681g0010	XP_017647700.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Gossypium arboreum]
+GO:0050896	response to stimulus	PaEq_a21b4f28f3e79b9a	P0up_P1down	1	626.981877827627	561	MA_9785986g0010	XP_024182624.1 ethylene-responsive transcription factor ERF017 [Rosa chinensis]
+GO:0050896	response to stimulus	PaEq_a4b034607a94884a	P0up_P1down	0	1546.91249351949	1239	MA_84518g0010	XP_013687246.2 copper-transporting ATPase RAN1-like [Brassica napus]
+GO:0050896	response to stimulus	PaEq_a6622b8bcac8bfa7	P0up_P1down	0	170.442256879716	532	MA_10431706g0010	XP_006452450.1 ethylene-responsive transcription factor 3 [Citrus clementina]
+GO:0050896	response to stimulus	PaEq_ab3fb6209ef1e943	P0up_P1down	0	129.207847769144	1959	MA_140243g0010	XP_026407817.1 AP2/ERF and B3 domain-containing transcription factor RAV1-like [Papaver somniferum]
+GO:0050896	response to stimulus	PaEq_aebe05a520da428e	P0up_P1down	1	77.1638774933823	372	MA_10432474g0020	
+GO:0050896	response to stimulus	PaEq_afb454e30c7b04d4	P0up_P1down	1	1535.16483243053	582	MA_493100g0010	XP_022880917.1 ethylene-responsive transcription factor ERF017-like [Olea europaea var. sylvestris]
+GO:0050896	response to stimulus	PaEq_b007c38d128b7559	P0up_P1down	0	323.001977728043	870	MA_10436846g0020	XP_006370444.1 disease resistance protein At4g27190 [Populus trichocarpa]
+GO:0050896	response to stimulus	PaEq_b53d8ff9dc7b0b3e	P0down_P1up	1	3060.96469793154	1515	MA_170670g0010	XP_026378932.1 sugar transport protein MST6-like isoform X1 [Papaver somniferum]
+GO:0050896	response to stimulus	PaEq_b60a1e64cf13797e	P0up_P1down	0	363.146124936782	738	MA_51891g0010	XP_011655449.1 probable calcium-binding protein CML25 [Cucumis sativus]
+GO:0050896	response to stimulus	PaEq_b91d994dafa010c2	P0up_P1down	1	310.844200508943	1362	MA_498957g0010	XP_027166643.1 basic 7S globulin-like [Coffea eugenioides]
+GO:0050896	response to stimulus	PaEq_babd88678416da14	P0up_P1down	0	198.950257171453	228	MA_818265g0010	
+GO:0050896	response to stimulus	PaEq_bcb39648ae1b1bbb	P0up_P1down	1	382.99610469122	1827	MA_10427750g0010	XP_030934282.1 probably inactive leucine-rich repeat receptor-like protein kinase At5g48380 [Quercus lobata]
+GO:0050896	response to stimulus	PaEq_be0355e1fa5e8578	P0up_P1down	1	79.6572826388503	369	MA_90878g0010	XP_023885570.1 germin-like protein subfamily 2 member 1 [Quercus suber]
+GO:0050896	response to stimulus	PaEq_c045621d823d76f0	P0down_P1up	0	22062.5030668274	1002	MA_5735g0010	XP_027350008.1 chalcone synthase 4-like [Abrus precatorius]
+GO:0050896	response to stimulus	PaEq_c171694f79d59dfb	P0up_P1down	0	1311.67186975109	327	MA_6713093g0010	XP_015386824.1 ubiquitin-like, partial [Citrus sinensis]
+GO:0050896	response to stimulus	PaEq_cad04b659c5bf402	P0up_P1down	0	491.328968207148	2391	MA_451961g0010	XP_015875990.1 probable disease resistance protein At4g27220 isoform X1 [Ziziphus jujuba]
+GO:0050896	response to stimulus	PaEq_cce51b8bbdc367f0	P0up_P1down	1	293.611470477666	299	MA_8182812g0010	XP_023910623.1 probable protein phosphatase 2C 25, partial [Quercus suber]
+GO:0050896	response to stimulus	PaEq_ce81ede054912d6e	P0up_P1down	1	194.999388604493	573	MA_5280013g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+GO:0050896	response to stimulus	PaEq_cf8ea71fb1392094	P0up_P1down	0	15.2778633378748	348	MA_10430659g0010	
+GO:0050896	response to stimulus	PaEq_d0098607cb11159c	P0up_P1down	1	267.768905420976	291	MA_1456119g0010	
+GO:0050896	response to stimulus	PaEq_d7196893a00f8b28	P0up_P1down	1	1348.93094840968	1158	MA_10434066g0020	
+GO:0050896	response to stimulus	PaEq_db210a8917df5cc9	P0up_P1down	0	5317.66324592479	3942	MA_10425791g0020	XP_026425699.1 pleiotropic drug resistance protein 1-like [Papaver somniferum]
+GO:0050896	response to stimulus	PaEq_db540e3fac4d3dc2	P0down_P1up	1	3969.67264784637	603	MA_10038541g0010	XP_006841540.1 arogenate dehydratase/prephenate dehydratase 6, chloroplastic [Amborella trichopoda]
+GO:0050896	response to stimulus	PaEq_ddf67ab34cdbfb3e	P0up_P1down	0	160.919616507094	336	MA_540404g0010	
+GO:0050896	response to stimulus	PaEq_de1ba0e820a3a720	P0up_P1down	1	5582.65363471094	2247	MA_10431083g0010	XP_020890438.1 trifunctional UDP-glucose 4,6-dehydratase/UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase/UDP-4-keto-L-rhamnose-reductase RHM1 [Arabidopsis lyrata subsp. lyrata]
+GO:0050896	response to stimulus	PaEq_ea3ea0648441da8a	P0up_P1down	1	1039.43156433327	369	MA_205329g0010	XP_002273386.1 PREDICTED: protein RALF-like 33 [Vitis vinifera]
+GO:0050896	response to stimulus	PaEq_eb72e75ca3460104	P0up_P1down	1	2429.64384568485	2421	MA_231706g0010	XP_008792596.1 putative disease resistance protein At5g47280 [Phoenix dactylifera]
+GO:0050896	response to stimulus	PaEq_ee636eab4cba5e3e	P0up_P1down	1	621.010857426032	1632	MA_10427577g0010	
+GO:0050896	response to stimulus	PaEq_f7e473da40b9d00d	P0up_P1down	0	331.369440576633	434	MA_3177563g0010	
+GO:0050896	response to stimulus	PaEq_f96d95e9b4920d9a	P0up_P1down	0	74.8568905912486	300	MA_616616g0010	XP_004228711.1 probable calcium-binding protein CML25 [Solanum lycopersicum]
+GO:0050896	response to stimulus	PaEq_f98b2256b760f432	P0up_P1down	0	98.4489795723133	507	MA_9388679g0010	
+GO:0050896	response to stimulus	PaEq_f9c6115c5c62134b	P0up_P1down	0	12804.1322024397	822	MA_10432086g0010	XP_012574185.1 probable xyloglucan endotransglucosylase/hydrolase protein 23 [Cicer arietinum]
+GO:0050896	response to stimulus	PaEq_fbb1840a231a4b58	P0up_P1down	0	869.158630572907	906	MA_120531g0010	NP_001312182.1 ethylene-responsive transcription factor 4 [Nicotiana tabacum]
+GO:0050896	response to stimulus	PaEq_ff6b24333f6d699e	P0up_P1down	1	266.272880144146	1233	MA_84154g0010	XP_024369723.1 E3 ubiquitin-protein ligase PUB23-like [Physcomitrella patens]
+GO:0065007	biological regulation	PaEq_00643aa7afabfc58	P0up_P1down	0	272.136060896689	1005	MA_10426697g0020	XP_020677531.1 probable protein phosphatase 2C 25 [Dendrobium catenatum]
+GO:0065007	biological regulation	PaEq_07abb2323c60ded5	P0up_P1down	1	359.103309328008	480	MA_10434734g0010	
+GO:0065007	biological regulation	PaEq_08b4d5798680cb08	P0down_P1up	0	102.501304359469	927	MA_10048467g0010	XP_030928003.1 transcription repressor MYB5-like [Quercus lobata]
+GO:0065007	biological regulation	PaEq_09da252750503f06	P0up_P1down	0	362.939803086309	1125	MA_10430220g0010	XP_031251569.1 transcription factor MYB4 [Pistacia vera]
+GO:0065007	biological regulation	PaEq_0cefae8dda7dc39e	P0up_P1down	0	242.609749649471	807	MA_10433310g0010	XP_006358390.1 PREDICTED: ethylene-responsive transcription factor ERF027-like [Solanum tuberosum]
+GO:0065007	biological regulation	PaEq_0fa61c6a63df7366	P0up_P1down	1	185.465091465582	1140	MA_525082g0010	
+GO:0065007	biological regulation	PaEq_1149801b51972b1b	P0down_P1up	1	3289.5994642637	1751	MA_10433230g0010	XP_009393994.1 PREDICTED: arogenate dehydratase/prephenate dehydratase 2, chloroplastic-like [Musa acuminata subsp. malaccensis]
+GO:0065007	biological regulation	PaEq_15d555a9eb2a6f04	P0up_P1down	0	10.4765955243033	400	MA_948744g0010	
+GO:0065007	biological regulation	PaEq_19f2d22db6e1b95d	P0up_P1down	0	139.93198250305	185	MA_3387414g0010	
+GO:0065007	biological regulation	PaEq_1aaaa8c9bba2a754	P0up_P1down	0	654.693416007657	612	MA_959784g0010	NP_001238500.1 dehydration-responsive element binding protein 3 [Glycine max]
+GO:0065007	biological regulation	PaEq_1b15eda3d8e76d8e	P0up_P1down	0	12484.7475822098	1458	MA_10426094g0010	XP_031126808.1 GDP-L-galactose phosphorylase 1-like [Ipomoea triloba]
+GO:0065007	biological regulation	PaEq_1c0d5299ab724f64	P0down_P1up	0	7207.31181566688	651	MA_8673616g0010	
+GO:0065007	biological regulation	PaEq_1c27fb1a35e816b3	P0up_P1down	0	45.2191112994988	1158	MA_177086g0010	XP_028091657.1 probable protein phosphatase 2C 25 [Camellia sinensis]
+GO:0065007	biological regulation	PaEq_1e16dd162f580396	P0up_P1down	1	3357.0335694338	792	MA_92070g0010	
+GO:0065007	biological regulation	PaEq_1e2f03eb4f073d67	P0up_P1down	1	3042.66992647542	690	MA_4032g0010	
+GO:0065007	biological regulation	PaEq_20978ffac26733c4	P0up_P1down	0	458.457815573816	552	MA_10433187g0010	XP_022146227.1 subtilisin-like protease SBT1.6 [Momordica charantia]
+GO:0065007	biological regulation	PaEq_23372bbff09fac8b	P0up_P1down	1	340.276518379424	663	MA_214532g0010	XP_006843906.1 ethylene-responsive transcription factor ERF017 [Amborella trichopoda]
+GO:0065007	biological regulation	PaEq_29fa078cdd59040a	P0up_P1down	0	1890.03681518083	969	MA_17466g0010	XP_027080204.1 transcription factor KUA1 [Coffea arabica]
+GO:0065007	biological regulation	PaEq_2b231a50233bc07e	P0up_P1down	0	2753.15172149083	4962	MA_10437104g0020	
+GO:0065007	biological regulation	PaEq_2b36d2cc3fafcff0	P0up_P1down	1	392.996096697413	522	MA_10426697g0010	XP_022556295.1 probable protein phosphatase 2C 25 [Brassica napus]
+GO:0065007	biological regulation	PaEq_2ba6044e5911309e	P0up_P1down	0	906.216414272916	1017	MA_11043g0030	XP_023925310.1 linoleate 9S-lipoxygenase 5-like, partial [Quercus suber]
+GO:0065007	biological regulation	PaEq_2bf946817ae07d67	P0up_P1down	1	636.072451034808	579	MA_108992g0010	XP_006843906.1 ethylene-responsive transcription factor ERF017 [Amborella trichopoda]
+GO:0065007	biological regulation	PaEq_30e1e1cce690ad0d	P0down_P1up	0	68.6955645795084	654	MA_169487g0010	
+GO:0065007	biological regulation	PaEq_341b652852b29099	P0up_P1down	0	272.649634071117	360	MA_10261788g0010	
+GO:0065007	biological regulation	PaEq_3b41f4e549313d54	P0up_P1down	0	690.838189778444	1899	MA_69735g0010	
+GO:0065007	biological regulation	PaEq_3c9985b31789478f	P0up_P1down	0	30.8125150394523	1380	MA_70029g0010	XP_021611445.1 B3 domain-containing transcription factor NGA1-like isoform X1 [Manihot esculenta]
+GO:0065007	biological regulation	PaEq_3fed6f014cc2f7b3	P0down_P1up	1	1189.58152399808	585	MA_95364g0010	XP_015867681.1 auxin-responsive protein SAUR65-like [Ziziphus jujuba]
+GO:0065007	biological regulation	PaEq_424c4c63fbdebb18	P0up_P1down	1	291.423410924446	1578	MA_100374g0010	XP_023553605.1 xyloglucan galactosyltransferase MUR3-like [Cucurbita pepo subsp. pepo]
+GO:0065007	biological regulation	PaEq_4a396275891b845b	P0up_P1down	1	2532.01806937305	1050	MA_8552524g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0065007	biological regulation	PaEq_4ad9ee4f4ef7693b	P0up_P1down	0	1381.96188110359	1730	MA_63611g0010	XP_008775443.1 receptor-like protein kinase THESEUS 1 [Phoenix dactylifera]
+GO:0065007	biological regulation	PaEq_4c0a16832e41a9d3	P0up_P1down	0	3402.18077770154	1257	MA_89683g0010	
+GO:0065007	biological regulation	PaEq_4c81b39ca8daef28	P0up_P1down	0	111.420076189485	1221	MA_10429333g0010	XP_023903696.1 probable protein phosphatase 2C 25 isoform X1 [Quercus suber]
+GO:0065007	biological regulation	PaEq_5645511f25f7391f	P0up_P1down	0	30.9181019362613	540	MA_45733g0020	XP_022730929.1 ethylene-responsive transcription factor ERF017-like [Durio zibethinus]
+GO:0065007	biological regulation	PaEq_5768e7c227927981	P0up_P1down	1	1590.27771549339	888	MA_3405g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0065007	biological regulation	PaEq_580ac2786bc8baca	P0up_P1down	0	4124.51374762436	366	MA_462270g0010	XP_006840509.1 protein RALF-like 33 [Amborella trichopoda]
+GO:0065007	biological regulation	PaEq_583bce3945378f10	P0up_P1down	1	496.643955453733	444	MA_6305g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+GO:0065007	biological regulation	PaEq_5dca74028b0cb180	P0up_P1down	0	59.4997384041775	1818	MA_19420g0020	XP_031499475.1 AP2/ERF and B3 domain-containing transcription factor RAV1-like [Nymphaea colorata]
+GO:0065007	biological regulation	PaEq_612da4a8675e23bb	P0up_P1down	0	138.561515008299	888	MA_6447416g0010	XP_026415277.1 ethylene-responsive transcription factor 1A-like [Papaver somniferum]
+GO:0065007	biological regulation	PaEq_622617349040df35	P0up_P1down	0	412.696719489581	299	MA_5937864g0010	XP_022031880.1 probable CCR4-associated factor 1 homolog 7, partial [Helianthus annuus]
+GO:0065007	biological regulation	PaEq_626cbf795a39d320	P0up_P1down	1	1696.59136785383	966	MA_10435156g0020	XP_031278008.1 putative clathrin assembly protein At4g40080 [Pistacia vera]
+GO:0065007	biological regulation	PaEq_62b157a327d1e765	P0up_P1down	1	1438.38427713393	1491	MA_17801g0020	XP_006878598.1 sugar transporter ERD6-like 6 isoform X1 [Amborella trichopoda]
+GO:0065007	biological regulation	PaEq_647b7c35b06f8458	P0up_P1down	0	225.577624696418	1991	MA_383300g0010	XP_028751294.1 TMV resistance protein N-like [Prosopis alba]
+GO:0065007	biological regulation	PaEq_64a065d91ec36926	P0up_P1down	0	11.8684831832114	654	MA_92019g0010	XP_002876566.1 cyclin-U2-2 [Arabidopsis lyrata subsp. lyrata]
+GO:0065007	biological regulation	PaEq_661096105f9ab399	P0up_P1down	1	2534.68522300053	840	MA_79751g0010	XP_031504208.1 CBL-interacting protein kinase 5-like [Nymphaea colorata]
+GO:0065007	biological regulation	PaEq_679ab21d31d9f63b	P0up_P1down	0	82.5034377191787	633	MA_113446g0010	XP_012077091.1 ethylene-responsive transcription factor ERF017 [Jatropha curcas]
+GO:0065007	biological regulation	PaEq_67a62c0e96fc329c	P0up_P1down	0	142.769472783231	359	MA_10120109g0010	XP_008778752.1 probable glutathione S-transferase parA [Phoenix dactylifera]
+GO:0065007	biological regulation	PaEq_6c314d0bda685b5e	P0down_P1up	1	719.531866327832	531	MA_10426104g0010	XP_010923805.1 probable glutathione S-transferase [Elaeis guineensis]
+GO:0065007	biological regulation	PaEq_70373a08c5257a0c	P0up_P1down	1	1011.8830471767	1662	MA_178646g0010	XP_006843763.2 AP2/ERF and B3 domain-containing transcription repressor RAV2 [Amborella trichopoda]
+GO:0065007	biological regulation	PaEq_71fb621e99f0d609	P0up_P1down	0	192.195761361364	1008	MA_345246g0010	
+GO:0065007	biological regulation	PaEq_74501b22f863f9fc	P0up_P1down	1	426.435027059471	576	MA_10427089g0010	
+GO:0065007	biological regulation	PaEq_772c64831abd9fa4	P0up_P1down	0	701.312900170254	1206	MA_10432464g0020	XP_021910045.1 probable protein phosphatase 2C 25 [Carica papaya]
+GO:0065007	biological regulation	PaEq_78499ed24b14dc01	P0up_P1down	0	159.451729900671	489	MA_937278g0010	XP_019435434.1 PREDICTED: ABC transporter B family member 15-like [Lupinus angustifolius]
+GO:0065007	biological regulation	PaEq_81087bc5c3a086af	P0up_P1down	1	2854.92469009951	2358	MA_734639g0010	XP_004142884.1 subtilisin-like protease SBT1.7 [Cucumis sativus]
+GO:0065007	biological regulation	PaEq_810de31f029e6906	P0up_P1down	0	277.204923201083	375	MA_10436609g0010	XP_002889758.1 germin-like protein subfamily 2 member 1 [Arabidopsis lyrata subsp. lyrata]
+GO:0065007	biological regulation	PaEq_8492a9ad4187df58	P0up_P1down	1	552.199659774092	1122	MA_6860639g0010	
+GO:0065007	biological regulation	PaEq_8709e77b93dea3b7	P0up_P1down	0	8612.69593815381	1480	MA_121581g0010	XP_019177314.1 PREDICTED: ethylene-responsive transcription factor RAP2-4-like [Ipomoea nil]
+GO:0065007	biological regulation	PaEq_8867a131d9585165	P0down_P1up	0	82.9551965211026	1401	MA_13869g0010	XP_021283580.1 transcription factor MYB61-like [Herrania umbratica]
+GO:0065007	biological regulation	PaEq_8953ecfd47906e67	P0up_P1down	1	917.079473125516	1172	MA_52474g0010	XP_010943974.1 dof zinc finger protein DOF1.4 [Elaeis guineensis]
+GO:0065007	biological regulation	PaEq_8a95064ef9a9dd5e	P0up_P1down	1	552.566439008399	1800	MA_70076g0010	XP_010258926.1 PREDICTED: zinc finger protein ZAT9-like [Nelumbo nucifera]
+GO:0065007	biological regulation	PaEq_9283276d79c008e5	P0up_P1down	0	57.4593371173741	573	MA_10062104g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+GO:0065007	biological regulation	PaEq_9403eca44ad6c48e	P0up_P1down	0	26.3123576425354	1554	MA_113618g0010	XP_002516133.1 cytokinin dehydrogenase 7 [Ricinus communis]
+GO:0065007	biological regulation	PaEq_960a1016a6ff6475	P0up_P1down	1	1440.92872641918	606	MA_81979g0010	XP_016682358.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Gossypium hirsutum]
+GO:0065007	biological regulation	PaEq_9a56ad8dbf534385	P0up_P1down	0	81.9251099502027	817	MA_10365511g0010	XP_018835605.1 PREDICTED: probable protein phosphatase 2C 25 [Juglans regia]
+GO:0065007	biological regulation	PaEq_a155ab7655a709dd	P0up_P1down	0	112.267356404907	552	MA_10370681g0010	XP_017647700.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Gossypium arboreum]
+GO:0065007	biological regulation	PaEq_a21b4f28f3e79b9a	P0up_P1down	1	626.981877827627	561	MA_9785986g0010	XP_024182624.1 ethylene-responsive transcription factor ERF017 [Rosa chinensis]
+GO:0065007	biological regulation	PaEq_a4b034607a94884a	P0up_P1down	0	1546.91249351949	1239	MA_84518g0010	XP_013687246.2 copper-transporting ATPase RAN1-like [Brassica napus]
+GO:0065007	biological regulation	PaEq_a6622b8bcac8bfa7	P0up_P1down	0	170.442256879716	532	MA_10431706g0010	XP_006452450.1 ethylene-responsive transcription factor 3 [Citrus clementina]
+GO:0065007	biological regulation	PaEq_ab3fb6209ef1e943	P0up_P1down	0	129.207847769144	1959	MA_140243g0010	XP_026407817.1 AP2/ERF and B3 domain-containing transcription factor RAV1-like [Papaver somniferum]
+GO:0065007	biological regulation	PaEq_afb454e30c7b04d4	P0up_P1down	1	1535.16483243053	582	MA_493100g0010	XP_022880917.1 ethylene-responsive transcription factor ERF017-like [Olea europaea var. sylvestris]
+GO:0065007	biological regulation	PaEq_b6e61de0b8f9c64c	P0up_P1down	0	362.935877970704	825	MA_10337771g0010	XP_006857184.1 probable CCR4-associated factor 1 homolog 7 [Amborella trichopoda]
+GO:0065007	biological regulation	PaEq_babd88678416da14	P0up_P1down	0	198.950257171453	228	MA_818265g0010	
+GO:0065007	biological regulation	PaEq_bb8bfe7d479caf1a	P0up_P1down	0	1599.92396492032	1296	MA_20283g0010	XP_006858900.1 pollen-specific protein SF21 isoform X2 [Amborella trichopoda]
+GO:0065007	biological regulation	PaEq_bcb39648ae1b1bbb	P0up_P1down	1	382.99610469122	1827	MA_10427750g0010	XP_030934282.1 probably inactive leucine-rich repeat receptor-like protein kinase At5g48380 [Quercus lobata]
+GO:0065007	biological regulation	PaEq_be0355e1fa5e8578	P0up_P1down	1	79.6572826388503	369	MA_90878g0010	XP_023885570.1 germin-like protein subfamily 2 member 1 [Quercus suber]
+GO:0065007	biological regulation	PaEq_c045621d823d76f0	P0down_P1up	0	22062.5030668274	1002	MA_5735g0010	XP_027350008.1 chalcone synthase 4-like [Abrus precatorius]
+GO:0065007	biological regulation	PaEq_cce51b8bbdc367f0	P0up_P1down	1	293.611470477666	299	MA_8182812g0010	XP_023910623.1 probable protein phosphatase 2C 25, partial [Quercus suber]
+GO:0065007	biological regulation	PaEq_ce81ede054912d6e	P0up_P1down	1	194.999388604493	573	MA_5280013g0010	XP_031500997.1 ethylene-responsive transcription factor ERF017-like [Nymphaea colorata]
+GO:0065007	biological regulation	PaEq_d5818ded39e62988	P0up_P1down	0	157.480880393233	1410	MA_6793g0020	XP_024377942.1 protein CDC73 homolog [Physcomitrella patens]
+GO:0065007	biological regulation	PaEq_d7196893a00f8b28	P0up_P1down	1	1348.93094840968	1158	MA_10434066g0020	
+GO:0065007	biological regulation	PaEq_ddf67ab34cdbfb3e	P0up_P1down	0	160.919616507094	336	MA_540404g0010	
+GO:0065007	biological regulation	PaEq_de1ba0e820a3a720	P0up_P1down	1	5582.65363471094	2247	MA_10431083g0010	XP_020890438.1 trifunctional UDP-glucose 4,6-dehydratase/UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase/UDP-4-keto-L-rhamnose-reductase RHM1 [Arabidopsis lyrata subsp. lyrata]
+GO:0065007	biological regulation	PaEq_ea3ea0648441da8a	P0up_P1down	1	1039.43156433327	369	MA_205329g0010	XP_002273386.1 PREDICTED: protein RALF-like 33 [Vitis vinifera]
+GO:0065007	biological regulation	PaEq_edfa37f0b63a62b7	P0up_P1down	0	396.727163055831	480	MA_9965g0020	XP_006368362.1 probable calcium-binding protein CML11 [Populus trichocarpa]
+GO:0065007	biological regulation	PaEq_ee636eab4cba5e3e	P0up_P1down	1	621.010857426032	1632	MA_10427577g0010	
+GO:0065007	biological regulation	PaEq_f8e44427cc222d6b	P0up_P1down	0	28.1515453330642	540	MA_269802g0010	XP_010261769.1 PREDICTED: ethylene-responsive transcription factor ERF017-like [Nelumbo nucifera]
+GO:0065007	biological regulation	PaEq_fbb1840a231a4b58	P0up_P1down	0	869.158630572907	906	MA_120531g0010	NP_001312182.1 ethylene-responsive transcription factor 4 [Nicotiana tabacum]

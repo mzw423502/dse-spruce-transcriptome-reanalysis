@@ -1,0 +1,45 @@
+{
+  "started_bjt": "2026-11-11T00:11:54.276249+08:00",
+  "host": "kylin11",
+  "pid": 3893709,
+  "command": [
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/rnaseq/bin/Rscript",
+    "--vanilla",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110/scripts/run_go_statistics.R",
+    "--input-dir",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110/input",
+    "--output-dir",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/enrichment_extension_20261110/run/results",
+    "--n-perm",
+    "10000",
+    "--seed",
+    "20261110"
+  ],
+  "protocol_sha256": "743242f3acaa4404be19d520f4d5c305c9ae022fbca0266544cfb1724d4ce713",
+  "Rscript_sha256": "7d94377b7ccffc26e9333caa813c809c32964475f48fe3fbccdfc7cea6064fd3",
+  "status": "COMPLETE",
+  "input_hashes": {
+    "excluded_memberships.tsv": "1a0d5fdec40e34feb79c661bc26a48938c078557a0f0cccc0e958faf38c8201e",
+    "memberships.tsv": "676281945812198e46bfcbcb5acb0c339b18f4d200787aec853100375ef3517d",
+    "selected_five_contrasts.tsv": "e21a9ed75c637f6d399f649c0ddf6d25582faf4774b823516d62ebef9997961a",
+    "selected_identity.tsv": "b910c361f2c2d9a9efeddef330b56236750390cca6346671f5944ae2442ce424",
+    "term_exclusions.tsv": "05aca65d176c5fd8e467bda8fb02782af6edd1f0c293ebbef74e7a6f7eb1b40b",
+    "terms.tsv": "e492872cc9526b51bec8853dac0e34fa9109a37d411baf597a829a1da4cc3b87",
+    "universe.tsv": "ed695c5c0df110860922ae16b3a7e2291d691f5efcf8ea4bc69cf6ef98502f69"
+  },
+  "finished_bjt": "2026-11-11T00:12:00.329785+08:00",
+  "exit_code": 0,
+  "outputs": {
+    "05_permutation_B_all_terms.tsv": "9ed8cb560f3bed9a5a6a37d85b11ba984aa3cbd44383087e36b14aa1b07880b7",
+    "06_permutation_A_all_terms.tsv": "30bb2a3d805251a7443fda8d9ed0b536635110653d0d5f4e6d4cf7789c775726",
+    "00_protocol_manifest.json": "07bc16c20a4f8e7b065c7a716365903a39296de7353c717f1c6a2d7219a78ee8",
+    "03_sensitivity_strict127_all_terms.tsv": "2f5fbc29dd8c8b6bdec53c42ff51aefe510f772bbbef30080c5e12dc00d888c8",
+    "07_bias_strata_audit.tsv": "9c7df722d8c9fbbe907d548fcbd3efe375323f5466674ca21da3ee577eb7413c",
+    "02_primary_all_terms.tsv": "d00f303a004ba7fe376d91fb993370209a8bf757073f46f66fe708e5f9a1476d",
+    "01b_term_exclusions_applied.tsv": "8cff7b76a0c9f21042fa1b1fb86a9114e3cb6e98d4ca15b1c20182ebb8c65a57",
+    "01_bp_term_audit.tsv": "da3e0dfd6967d1394692d66b62a9db31bddfdf73717b6def0cc4c6188a759ff1",
+    "04_sensitivity_strictA_vs_strictB_all_terms.tsv": "1042c94e785dcb5e7d87d5b5749ac1e09648f9c813e6943a9293c1f5894e2390",
+    "00_annotation_coverage.tsv": "4511716b3b1995d6160ba2da9cd357c1e123cf0b178caf23570125030a3a05f7"
+  },
+  "inputs_unchanged": true
+}

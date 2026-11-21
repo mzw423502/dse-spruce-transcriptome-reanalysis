@@ -1,0 +1,7 @@
+# Generated local products
+*.tmp
+*.log
+__pycache__/
+.DS_Store
+# Release assets are distributed separately because GitHub rejects files over 100 MB
+/release-assets/

@@ -1,0 +1,30 @@
+term_id	analysis	selected_n	selected_term_n	background_n	background_term_n	odds_ratio	ci_low	ci_high	p_value	q_within_analysis	decision_family	name	U_term_n	eligible
+GO:0000447	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	10	TRUE
+GO:0000461	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	9	TRUE
+GO:0001906	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	cell killing	30	TRUE
+GO:0002098	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	tRNA wobble uridine modification	16	TRUE
+GO:0002376	S2_strictA_vs_strictB_within127	67	5	79	5	Inf	0.156800063687184	Inf	1	1	FALSE	immune system process	845	TRUE
+GO:0007035	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	vacuolar acidification	7	TRUE
+GO:0007094	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	mitotic spindle assembly checkpoint signaling	29	TRUE
+GO:0007610	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	behavior	66	TRUE
+GO:0008152	S2_strictA_vs_strictB_within127	67	52	79	60	1.72005270054871	0.332518876105683	7.57577566448449	0.468513342102362	1	FALSE	metabolic process	20797	TRUE
+GO:0009987	S2_strictA_vs_strictB_within127	67	49	79	56	1.92667250465176	0.4252124481471	8.13804840743642	0.316454977073668	1	FALSE	cellular process	19061	TRUE
+GO:0023052	S2_strictA_vs_strictB_within127	67	20	79	22	2.10989735574477	0.395000859802447	21.5273932019853	0.493416888281094	1	FALSE	signaling	2739	TRUE
+GO:0031145	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	anaphase-promoting complex-dependent catabolic process	11	TRUE
+GO:0031146	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	23	TRUE
+GO:0032436	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	5	TRUE
+GO:0032501	S2_strictA_vs_strictB_within127	67	11	79	12	2.14363181275462	0.257836210777664	101.300400734946	0.680379577037225	1	FALSE	multicellular organismal process	4731	TRUE
+GO:0032502	S2_strictA_vs_strictB_within127	67	11	79	12	2.14363181275462	0.257836210777664	101.300400734946	0.680379577037225	1	FALSE	developmental process	4802	TRUE
+GO:0032968	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	positive regulation of transcription elongation by RNA polymerase II	5	TRUE
+GO:0035278	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	miRNA-mediated gene silencing by inhibition of translation	5	TRUE
+GO:0040007	S2_strictA_vs_strictB_within127	67	2	79	3	0.344876688375102	0.0165803673759106	21.7657946625207	0.394213381555154	1	FALSE	growth	908	TRUE
+GO:0040011	S2_strictA_vs_strictB_within127	67	1	79	1	Inf	0.00460797574626866	Inf	1	1	FALSE	locomotion	193	TRUE
+GO:0048511	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	rhythmic process	175	TRUE
+GO:0050896	S2_strictA_vs_strictB_within127	67	36	79	43	0.831446534127877	0.187936912911804	3.4008277479631	1	1	FALSE	response to stimulus	9681	TRUE
+GO:0051127	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	positive regulation of actin nucleation	6	TRUE
+GO:0051179	S2_strictA_vs_strictB_within127	67	11	79	13	0.982367110663482	0.1706782588265	10.4462628015517	1	1	FALSE	localization	4436	TRUE
+GO:0051452	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	intracellular pH reduction	9	TRUE
+GO:0060003	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	copper ion export	19	TRUE
+GO:0065007	S2_strictA_vs_strictB_within127	67	31	79	34	2.55449768183004	0.570670851889796	15.9572013407455	0.215957008540383	1	FALSE	biological regulation	7650	TRUE
+GO:0070936	S2_strictA_vs_strictB_within127	67	0	79	0	0	0	Inf	1	1	FALSE	protein K48-linked ubiquitination	5	TRUE
+GO:0071840	S2_strictA_vs_strictB_within127	67	5	79	5	Inf	0.156800063687184	Inf	1	1	FALSE	cellular component organization or biogenesis	3732	TRUE

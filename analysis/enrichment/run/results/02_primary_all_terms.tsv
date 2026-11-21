@@ -1,0 +1,59 @@
+term_id	analysis	selected_n	selected_term_n	background_n	background_term_n	odds_ratio	ci_low	ci_high	p_value	q_within_analysis	decision_family	q_combined	enriched_class	enriched_class_term_n	reportable_under_fixed_rule	name	U_term_n	eligible	p_empirical	q_perm_combined
+GO:0000447	A_overall391_vs_annotated_background	213	0	25482	10	0	0	53.2695845250991	1	1	TRUE	1	overall391	0	FALSE	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	10	TRUE	1	1
+GO:0000447	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	10	TRUE	1	1
+GO:0000461	A_overall391_vs_annotated_background	213	0	25482	9	0	0	60.5317011286907	1	1	TRUE	1	overall391	0	FALSE	endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	9	TRUE	1	1
+GO:0000461	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	9	TRUE	1	1
+GO:0001906	A_overall391_vs_annotated_background	213	0	25482	30	0	0	15.6267073164216	1	1	TRUE	1	overall391	0	FALSE	cell killing	30	TRUE	1	1
+GO:0001906	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	cell killing	30	TRUE	1	1
+GO:0002098	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	tRNA wobble uridine modification	16	TRUE	1	1
+GO:0002098	A_overall391_vs_annotated_background	213	0	25482	16	0	0	30.9756476712011	1	1	TRUE	1	overall391	0	FALSE	tRNA wobble uridine modification	16	TRUE	1	1
+GO:0002376	B_directionA_vs_directionB_within391	184	10	213	10	Inf	0.351111646665804	Inf	0.364238548674714	1	TRUE	1	directionA	10	FALSE	immune system process	845	TRUE	0.199080091990801	1
+GO:0002376	A_overall391_vs_annotated_background	213	10	25482	845	1.44144414222817	0.678344756787076	2.71931121632742	0.171715933028526	0.995952411565454	TRUE	1	overall391	10	FALSE	immune system process	845	TRUE	0.147985201479852	1
+GO:0007035	A_overall391_vs_annotated_background	213	0	25482	7	0	0	82.6730695553913	1	1	TRUE	1	overall391	0	FALSE	vacuolar acidification	7	TRUE	1	1
+GO:0007035	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	vacuolar acidification	7	TRUE	1	1
+GO:0007094	A_overall391_vs_annotated_background	213	0	25482	29	0	0	16.2012543277395	1	1	TRUE	1	overall391	0	FALSE	mitotic spindle assembly checkpoint signaling	29	TRUE	1	1
+GO:0007094	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	mitotic spindle assembly checkpoint signaling	29	TRUE	1	1
+GO:0007610	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	behavior	66	TRUE	1	1
+GO:0007610	A_overall391_vs_annotated_background	213	0	25482	66	0	0	6.85921755778865	1	1	TRUE	1	overall391	0	FALSE	behavior	66	TRUE	1	1
+GO:0008152	B_directionA_vs_directionB_within391	184	150	213	173	1.15007920402038	0.355371738769605	3.20679485668575	0.799079341443603	1	TRUE	1	directionA	150	FALSE	metabolic process	20797	TRUE	0.373762623737626	1
+GO:0008152	A_overall391_vs_annotated_background	213	173	25482	20797	0.974088503905711	0.686150745775538	1.41275668707087	0.600671473876857	1	TRUE	1	overall391	173	FALSE	metabolic process	20797	TRUE	0.654634536546345	1
+GO:0009987	A_overall391_vs_annotated_background	213	165	25482	19061	1.15934635959293	0.834902585827538	1.63625145428183	0.207411003926202	1	TRUE	1	overall391	165	FALSE	cellular process	19061	TRUE	0.327067293270673	1
+GO:0009987	B_directionA_vs_directionB_within391	184	145	213	165	1.66860953074201	0.618208981905995	4.20996392216366	0.23930246108552	1	TRUE	1	directionA	145	FALSE	cellular process	19061	TRUE	0.142685731426857	1
+GO:0023052	A_overall391_vs_annotated_background	213	49	25482	2739	2.50775744648523	1.77956465663905	3.47917664108957	1.96474221010495e-07	5.69775240930436e-06	TRUE	1.13955048186087e-05	overall391	49	TRUE	signaling	2739	TRUE	9.99900009999e-05	0.0028997100289971
+GO:0023052	B_directionA_vs_directionB_within391	184	47	213	49	4.60746112541929	1.08654900031495	41.5045343454562	0.030853106884382	0.65675618444502	TRUE	0.447370049823539	directionA	47	FALSE	signaling	2739	TRUE	0.0142985701429857	0.207329267073293
+GO:0031145	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	anaphase-promoting complex-dependent catabolic process	11	TRUE	1	1
+GO:0031145	A_overall391_vs_annotated_background	213	0	25482	11	0	0	47.5812214699148	1	1	TRUE	1	overall391	0	FALSE	anaphase-promoting complex-dependent catabolic process	11	TRUE	1	1
+GO:0031146	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	23	TRUE	1	1
+GO:0031146	A_overall391_vs_annotated_background	213	0	25482	23	0	0	20.7807268829805	1	1	TRUE	1	overall391	0	FALSE	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	23	TRUE	1	1
+GO:0032436	A_overall391_vs_annotated_background	213	0	25482	5	0	0	129.606479782212	1	1	TRUE	1	overall391	0	FALSE	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	5	TRUE	1	1
+GO:0032436	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	5	TRUE	1	1
+GO:0032501	A_overall391_vs_annotated_background	213	34	25482	4731	0.831927013312352	0.558015708701961	1.20755419152631	0.858408455254961	1	TRUE	1	overall391	34	FALSE	multicellular organismal process	4731	TRUE	0.9002099790021	1
+GO:0032501	B_directionA_vs_directionB_within391	184	29	213	34	0.8985140860134	0.301431416673581	3.26127543849894	0.788957940493967	1	TRUE	1	directionB	5	FALSE	multicellular organismal process	4731	TRUE	0.79022097790221	1
+GO:0032502	A_overall391_vs_annotated_background	213	33	25482	4802	0.788084168212765	0.525750596179287	1.14889347167437	0.913196439784835	1	TRUE	1	overall391	33	FALSE	developmental process	4802	TRUE	0.938206179382062	1
+GO:0032502	B_directionA_vs_directionB_within391	184	28	213	33	0.862140066011279	0.288308755971049	3.13623717474412	0.783751969386607	1	TRUE	1	directionB	5	FALSE	developmental process	4802	TRUE	1	1
+GO:0032968	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	positive regulation of transcription elongation by RNA polymerase II	5	TRUE	1	1
+GO:0032968	A_overall391_vs_annotated_background	213	0	25482	5	0	0	129.606479782212	1	1	TRUE	1	overall391	0	FALSE	positive regulation of transcription elongation by RNA polymerase II	5	TRUE	1	1
+GO:0035278	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	miRNA-mediated gene silencing by inhibition of translation	5	TRUE	1	1
+GO:0035278	A_overall391_vs_annotated_background	213	0	25482	5	0	0	129.606479782212	1	1	TRUE	1	overall391	0	FALSE	miRNA-mediated gene silencing by inhibition of translation	5	TRUE	1	1
+GO:0040007	A_overall391_vs_annotated_background	213	8	25482	908	1.05667598748446	0.448714963224777	2.1307782891274	0.490378961293367	1	TRUE	1	overall391	8	FALSE	growth	908	TRUE	0.515248475152485	1
+GO:0040007	B_directionA_vs_directionB_within391	184	7	213	8	1.10686956445465	0.133665548796948	51.6667056500773	1	1	TRUE	1	directionA	7	FALSE	growth	908	TRUE	1	1
+GO:0040011	A_overall391_vs_annotated_background	213	1	25482	193	0.616091125992078	0.0154460667811572	3.51128362598445	0.803323854631761	1	TRUE	1	overall391	1	FALSE	locomotion	193	TRUE	0.755924407559244	1
+GO:0040011	B_directionA_vs_directionB_within391	184	1	213	1	Inf	0.00405681046195653	Inf	1	1	TRUE	1	directionA	1	FALSE	locomotion	193	TRUE	1	1
+GO:0048511	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	rhythmic process	175	TRUE	1	1
+GO:0048511	A_overall391_vs_annotated_background	213	0	25482	175	0	0	2.53154734807255	1	1	TRUE	1	overall391	0	FALSE	rhythmic process	175	TRUE	1	1
+GO:0050896	B_directionA_vs_directionB_within391	184	100	213	114	1.27403848365261	0.538800707223079	3.03012927107018	0.555055861255998	1	TRUE	1	directionA	100	FALSE	response to stimulus	9681	TRUE	0.533646635336466	1
+GO:0050896	A_overall391_vs_annotated_background	213	114	25482	9681	1.88994576579306	1.42926747051861	2.50258834102973	2.7614012218229e-06	4.0040317716432e-05	TRUE	8.00806354328641e-05	overall391	114	TRUE	response to stimulus	9681	TRUE	9.99900009999e-05	0.0028997100289971
+GO:0051127	A_overall391_vs_annotated_background	213	0	25482	6	0	0	101.448853235765	1	1	TRUE	1	overall391	0	FALSE	positive regulation of actin nucleation	6	TRUE	1	1
+GO:0051127	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	positive regulation of actin nucleation	6	TRUE	1	1
+GO:0051179	A_overall391_vs_annotated_background	213	31	25482	4436	0.806762738619843	0.531811862124237	1.18734816567161	0.885641702004571	1	TRUE	1	overall391	31	FALSE	localization	4436	TRUE	0.891710828917108	1
+GO:0051179	B_directionA_vs_directionB_within391	184	23	213	31	0.377190975488942	0.139250955765661	1.10198811180305	0.0452935299617255	0.65675618444502	TRUE	0.525404947556016	directionB	8	FALSE	localization	4436	TRUE	0.0804919508049195	0.933706629337066
+GO:0051452	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	intracellular pH reduction	9	TRUE	1	1
+GO:0051452	A_overall391_vs_annotated_background	213	0	25482	9	0	0	60.5317011286907	1	1	TRUE	1	overall391	0	FALSE	intracellular pH reduction	9	TRUE	1	1
+GO:0060003	B_directionA_vs_directionB_within391	184	1	213	1	Inf	0.00405681046195653	Inf	1	1	TRUE	1	directionA	1	FALSE	copper ion export	19	TRUE	1	1
+GO:0060003	A_overall391_vs_annotated_background	213	1	25482	19	6.61568063297065	0.158083119760075	42.3265110228987	0.147465901117616	0.995952411565454	TRUE	1	overall391	1	FALSE	copper ion export	19	TRUE	0.167483251674833	1
+GO:0065007	A_overall391_vs_annotated_background	213	86	25482	7650	1.58500483274949	1.1895741981479	2.10344923625011	0.000789516185136892	0.00763198978965662	TRUE	0.0152639795793132	overall391	86	TRUE	biological regulation	7650	TRUE	0.001999800019998	0.038662800386628
+GO:0065007	B_directionA_vs_directionB_within391	184	78	213	86	1.92597010764896	0.769746369181755	5.3019578404063	0.156451115385016	1	TRUE	1	directionA	78	FALSE	biological regulation	7650	TRUE	0.204679532046795	1
+GO:0070936	A_overall391_vs_annotated_background	213	0	25482	5	0	0	129.606479782212	1	1	TRUE	1	overall391	0	FALSE	protein K48-linked ubiquitination	5	TRUE	1	1
+GO:0070936	B_directionA_vs_directionB_within391	184	0	213	0	0	0	Inf	1	1	TRUE	1	directionB	0	FALSE	protein K48-linked ubiquitination	5	TRUE	1	1
+GO:0071840	A_overall391_vs_annotated_background	213	21	25482	3732	0.635393968977902	0.383924583029092	1.00083631918581	0.985105110804778	1	TRUE	1	overall391	21	FALSE	cellular component organization or biogenesis	3732	TRUE	0.991500849915009	1
+GO:0071840	B_directionA_vs_directionB_within391	184	18	213	21	0.940028229610785	0.247904132050104	5.32528929703911	1	1	TRUE	1	directionB	3	FALSE	cellular component organization or biogenesis	3732	TRUE	0.770522947705229	1

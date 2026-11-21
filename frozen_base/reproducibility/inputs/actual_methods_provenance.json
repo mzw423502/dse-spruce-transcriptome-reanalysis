@@ -1,0 +1,162 @@
+{
+  "status": "ACTUAL_METHODS_PROVENANCE_RECEIPT_ONLY",
+  "created_bjt": "2026-10-28T11:16:31.621389+08:00",
+  "scope": "Receipt-based methods provenance. No command was rerun; no FASTQ or abundance file was rehashed in this step.",
+  "source_files_sha256": {
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/quantification_ready.json": "68528f04bf1590d145053647b449b67fed850a65dafdde77141be2b7438a2e06",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/environment_ready.json": "718845659501d39dfa228d851148cf811c4f2a2293ffb8fc3d13d251cc607d8a",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/protocol/statistical_specification.md": "826466fc92b57fbbc641db05aa895ab1fb9428d2dfb3dce4735b62ba9251358c",
+    "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/11_progress/heartbeat_20261028_0859/statistics_import_fix_v1/stat_primary_dropInfReps.R": "7372abfcfd511d4c06c180191af1162974e59b5653be968bb044b8729a112a8d"
+  },
+  "read_preprocessing": {
+    "layout": "paired-end; raw validation shows 150 nt min=max for both mates in every library",
+    "libraries": 12,
+    "all_raw_clean_qc_complete": true,
+    "full_pair_structure_and_crc_all": true,
+    "fastp_version": "1.4.0",
+    "fastp_command_contract": "-i/-I paired inputs; -o/-O paired outputs; --thread 2; --compression 2; --detect_adapter_for_pe; --trim_poly_g --poly_g_min_len 10; Q15; unqualified-percent limit40; N limit5; length-required50; dup_calc_accuracy1; --dont_overwrite",
+    "fastp_command_consistency": {
+      "unique_commands_with_paths_normalized": 1,
+      "protocol_sha256_values": [
+        "906ea638b012949b9a2beed87ee9636b376d2d9db2c318f144be7f7f3f89c3a7"
+      ],
+      "all_exit0": true
+    },
+    "representative_library": "SRR14729033 / PaPs3",
+    "representative_counts": {
+      "raw_pairs": 48463654,
+      "retained_pairs": 48182388
+    }
+  },
+  "quantification": {
+    "tool": "kallisto 0.51.1",
+    "library_type": "unstranded (validated pilot; no strand flag in actual commands)",
+    "threads": 2,
+    "seed": "271828",
+    "kmer_length": 31,
+    "routes": {
+      "primary": {
+        "reference": "Picea_v1.0b N-free exact CDS sequence-equivalence units",
+        "targets": 64238,
+        "bootstrap": 30,
+        "index_sha256": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e"
+      },
+      "allN": {
+        "reference": "all exact units including original-N models; annotation/reference sensitivity",
+        "targets": 66069,
+        "bootstrap": 0,
+        "index_sha256": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82"
+      },
+      "competition": {
+        "reference": "primary host targets plus Phialocephala scopiformis CDS proxy; host-attribution sensitivity only",
+        "targets": 82800,
+        "bootstrap": 0,
+        "index_sha256": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+        "proxy_identity_and_limit": "Exact P. sphaeroides reference was unavailable in frozen reference evidence; P. scopiformis is a near-species proxy. Shared-31mer diagnostics identify attribution risk but do not prove contamination/origin."
+      }
+    },
+    "all_12_receipt_check": {
+      "primary": {
+        "completed": 12,
+        "all_status_complete": true,
+        "all_exit0": true,
+        "processed_equals_clean_pairs_all": true,
+        "unique_target_counts": [
+          64238
+        ],
+        "unique_bootstraps": [
+          30
+        ],
+        "unique_kallisto_versions": [
+          "0.51.1"
+        ],
+        "unique_seed": [
+          "271828"
+        ],
+        "unique_threads": [
+          "2"
+        ]
+      },
+      "allN": {
+        "completed": 12,
+        "all_status_complete": true,
+        "all_exit0": true,
+        "processed_equals_clean_pairs_all": true,
+        "unique_target_counts": [
+          66069
+        ],
+        "unique_bootstraps": [
+          0
+        ],
+        "unique_kallisto_versions": [
+          "0.51.1"
+        ],
+        "unique_seed": [
+          "271828"
+        ],
+        "unique_threads": [
+          "2"
+        ]
+      },
+      "competition": {
+        "completed": 12,
+        "all_status_complete": true,
+        "all_exit0": true,
+        "processed_equals_clean_pairs_all": true,
+        "unique_target_counts": [
+          82800
+        ],
+        "unique_bootstraps": [
+          0
+        ],
+        "unique_kallisto_versions": [
+          "0.51.1"
+        ],
+        "unique_seed": [
+          "271828"
+        ],
+        "unique_threads": [
+          "2"
+        ]
+      }
+    }
+  },
+  "statistical_models": {
+    "units": "CDS sequence-equivalence units, not verified one-gene-per-row entities",
+    "samples": "12 independent biological pooled samples; ~DSE*pathogen",
+    "primary_import": "tximport kallisto, countsFromAbundance=no, then DESeqDataSetFromTximport so tximport average effective-length information contributes normalization factors",
+    "primary_fit": "DESeq2 1.46.0; betaPrior=FALSE; fitType=parametric; parallel=FALSE; minReplicatesForReplace=Inf; eligible when estimated fragments >=10 in at least 3 samples",
+    "edgeR_sensitivity": "tximport countsFromAbundance=lengthScaledTPM; edgeR 4.4.0 TMM (calcNormFactors), robust=TRUE dispersion and QL fit; no separate length offset; same design/fixed eligible universe",
+    "families": "interaction BH over eligible units; all four simple effects jointly BH over 4*m. The five contrast vectors are stored in each route analysis_metadata.json.",
+    "implementation_note": "dropInfReps=TRUE was the isolated import-only repair to avoid an unavailable HDF5 inference-replicate dependency; it preserves abundance.h5 and does not change counts/abundance/length used by the model."
+  },
+  "versions": {
+    "DESeq2": "1.46.0",
+    "tximport": "1.34.0",
+    "edgeR": "4.4.0",
+    "limma": "3.62.1",
+    "ggplot2": "4.0.3",
+    "pheatmap": "1.0.13",
+    "jsonlite": "2.0.0",
+    "data.table": "1.18.6.1",
+    "statmod": "1.5.2",
+    "svglite": "2.2.2",
+    "ggrepel": "0.9.8",
+    "R": "4.4.3",
+    "fastp": "1.4.0",
+    "GenomeInfoDbData": "1.2.13"
+  },
+  "representative_receipt_paths": {
+    "qc": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729033/qc_complete.json",
+    "primary": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729033/quant_complete.json",
+    "allN": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729033/quant_complete.json",
+    "competition": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729033/quant_complete.json",
+    "formal_metadata": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/11_progress/heartbeat_20261028_0859/statistics_import_fix_v1/results/primary/analysis_metadata.json",
+    "session_info": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/11_progress/heartbeat_20261028_0859/statistics_import_fix_v1/results/primary/sessionInfo.txt"
+  },
+  "caveats": [
+    "competition is an attribution sensitivity with P. scopiformis proxy, not a P. sphaeroides quantification or independent validation.",
+    "All sensitivity routes/methods reuse the same 12 libraries.",
+    "Receipt consistency supports reproducibility of the implemented workflow; it does not itself establish biological interpretation or final publication readiness."
+  ]
+}

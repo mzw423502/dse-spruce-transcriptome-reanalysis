@@ -1,0 +1,43 @@
+{
+  "validator": "independent_python_exact_conditional_v1",
+  "nominal_counts": {
+    "U": 25482,
+    "overall391_annotated": 213,
+    "A_annotated": 184,
+    "B_annotated": 29,
+    "strict127_annotated": 79,
+    "strictA_annotated": 67,
+    "strictB_annotated": 12
+  },
+  "tested_terms": 29,
+  "primary_rows": 58,
+  "fisher_max_abs_p_difference": 3.5332736736393144e-11,
+  "fisher_max_abs_BH_difference": 4.397385233723128e-13,
+  "all_contingency_counts_match": true,
+  "conditional_exact_vs_MC_q05_disagreements": 0,
+  "significant_A_terms": [
+    "GO:0023052",
+    "GO:0050896",
+    "GO:0065007"
+  ],
+  "significant_A_term_names": [
+    "signaling",
+    "response to stimulus",
+    "biological regulation"
+  ],
+  "hashes": {
+    "inputs": {
+      "universe.tsv": "ed695c5c0df110860922ae16b3a7e2291d691f5efcf8ea4bc69cf6ef98502f69",
+      "memberships.tsv": "676281945812198e46bfcbcb5acb0c339b18f4d200787aec853100375ef3517d",
+      "terms.tsv": "e492872cc9526b51bec8853dac0e34fa9109a37d411baf597a829a1da4cc3b87",
+      "term_exclusions.tsv": "05aca65d176c5fd8e467bda8fb02782af6edd1f0c293ebbef74e7a6f7eb1b40b",
+      "selected_identity.tsv": "b910c361f2c2d9a9efeddef330b56236750390cca6346671f5944ae2442ce424"
+    },
+    "primary_output": "d00f303a004ba7fe376d91fb993370209a8bf757073f46f66fe708e5f9a1476d"
+  },
+  "notes": [
+    "Exact conditional QA uses the same fixed 5x5 rank strata and selection sets, but deterministic finite hypergeometric convolution rather than the frozen 10,000-draw Monte Carlo.",
+    "No RNA model was refit; no frozen R result or protocol file was modified.",
+    "B rows with background_term_n=0 have no informative odds ratio; original output remains untouched and downstream interpretation should render OR as NA for those rows."
+  ]
+}

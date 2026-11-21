@@ -1,0 +1,32 @@
+{
+  "validated": true,
+  "utc": "2026-10-17T04:44:09.067886+00:00",
+  "kallisto": "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+  "strandedness": "unstranded",
+  "pilot_evidence": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/11_progress/permission_probe_20261017T042501Z/reference_resume/summary.json",
+  "routes": {
+    "primary": {
+      "index": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+      "sha256": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "targets": 64238,
+      "fasta_sha256": "5552baf719d6b1498ad83243143ad59078aea12ba75a4fee6becd71d581d6596",
+      "bytes": 76627497
+    },
+    "allN": {
+      "index": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+      "sha256": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "targets": 66069,
+      "fasta_sha256": "1f885ac64883ab5f301cc63890f5efdb0e04b7c4640aa3b2cf2d089e71396dd5",
+      "bytes": 80625763
+    },
+    "competition": {
+      "index": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+      "sha256": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "targets": 82800,
+      "fasta_sha256": "1c88fa7ccf443dc10f409169a2d6c617597ac4448f47eeb7bb57a50f9a668d6f",
+      "bytes": 90911505
+    }
+  },
+  "resume_plan_sha256": "48a24900b8316f3bac6bb5298ceeca31970234064f80ce3a384ef82dee30206a",
+  "wrapper_sha256": "ccbdb772d50bfa7f9b53222a399a1288e2e447b4e5f6c5a2815b704c9b58d92e"
+}

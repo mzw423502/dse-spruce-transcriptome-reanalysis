@@ -1,0 +1,1758 @@
+{
+  "created_utc": "2026-10-28T05:45:16.613345+00:00",
+  "scope": "36 quantification receipt closure; no abundance or FASTQ rehash in v2",
+  "rows": [
+    {
+      "route": "primary",
+      "run": "SRR14729029",
+      "library": "PaPsHp1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729029/quant_complete.json",
+      "quant_receipt_sha256_current": "7a3d68da82d0d9df390d16465304513ba553a350c62c4805b8280ba92876b094",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "8f617c9a37b0a303fb2080d9781fc823194b1f7136ca308df40b2fd253da8e82",
+      "clean_sha256_existing_receipt": [
+        "db7132b5419dab9b86eb1eca1f03f32fc0979f64b36e67aa3ea12d0743be2f83",
+        "938244ff0fb4c78afd7aa2d6ceff92082bb5f86970a75a5d1f56a374f38e806a"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729029",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729029/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729029/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729029/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2859116,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729029/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6107899,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729029/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729030",
+      "library": "PaHp3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729030/quant_complete.json",
+      "quant_receipt_sha256_current": "2249f15644a941fc1d924714130d41cd2a91265528fc6a5311447fbcdad43e3a",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "c40f42df6efd4651762222ee51a06881371f339126f1cb2c4b888cd1e2c320b1",
+      "clean_sha256_existing_receipt": [
+        "9f245080e7fe56d8de91ef9e38dfda8fba4ef52c5a645042a261d74d30dadb25",
+        "d88064960a890a6edfe13ff92cbbca0b606d6d3b7c7be3a0d347c83a27d15c95"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729030",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729030/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729030/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729030/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2864612,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729030/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6262221,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729030/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729031",
+      "library": "PaHp2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729031/quant_complete.json",
+      "quant_receipt_sha256_current": "cb51e4a0959552e7e52b0141819b05e3f552d5cbc01ceaef359b4844ee703879",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "13651176da694db10bd4536cf6bac92bee2703d6bb8cb79113948ecd21c50c71",
+      "clean_sha256_existing_receipt": [
+        "af8ffadb5288c3c23ce7c4300bcdab6d3cbf6b27aa4fe90434dd23cb2db26a47",
+        "4a4eb199ad00cdb716322caa04796e5b5f119b164da60ed9525fa0226dfebe81"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729031",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729031/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729031/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729031/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2856789,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729031/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6085611,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729031/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729032",
+      "library": "PaHp1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729032/quant_complete.json",
+      "quant_receipt_sha256_current": "7b42278e70b49b0b688f377c7d8fa572722923fdc41cac7628e0e7f3a7225fd4",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "f62ac307aadb74a88d5bd72a808e89765c2785ebf77f70ba9cf14536038adf32",
+      "clean_sha256_existing_receipt": [
+        "8fcd8c850b2499bf6c0ff33edd3917807cfecb69153e692171701c69a9d491d2",
+        "5b953acb3e40a07c7076203b0db6bdc700a62da6f0d4d9e9e0cf25cdbc048d26"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729032",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729032/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729032/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729032/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2861070,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729032/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6173170,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729032/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729033",
+      "library": "PaPs3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729033/quant_complete.json",
+      "quant_receipt_sha256_current": "5f3c31f085c1b24e549ed579a22e88c320a02556aba1a4e85dce03644b394b42",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "9a8128e30140e5a5feda209cf673ab1a2482cf669fbb763969e6b40716154341",
+      "clean_sha256_existing_receipt": [
+        "15cfad361fefc8320a4197e1b916684d65ee811da11491238706c545dfc8ea43",
+        "de962940dd3b995db5a51b9da5657b19c82708c0f0abeef697d25355f31b667d"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729033",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729033/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729033/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729033/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2852859,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729033/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6229888,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729033/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729034",
+      "library": "PaPs2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729034/quant_complete.json",
+      "quant_receipt_sha256_current": "6c7d913e305cc99fb1297b830d709bd3b3868538d1d9384938001c4bd6e38951",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "8837d454b52ed50ea23e92292c7173f78cd9a95fe45457775e2f002d4c686c7a",
+      "clean_sha256_existing_receipt": [
+        "534fd9367a7c0c87602e87c37ae73207ed4c71d87e1fa219a34a74e0128346c4",
+        "4707f2582066e416e27e55343317a68c47c3893a4dee7a458bd515dee6bb2621"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729034",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729034/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729034/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729034/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2842285,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729034/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6196654,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729034/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729035",
+      "library": "PaPs1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729035/quant_complete.json",
+      "quant_receipt_sha256_current": "a416ddcc59fbf1eaf510e2e94209864bed315f442532f5580a0e27801724823b",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "986128b0ac2d2e189755ccf93c4df5f65217057153b3c7fb67846e7044340a6f",
+      "clean_sha256_existing_receipt": [
+        "c4591580eabf08a10a33e454ad0e1e94d434d34055d8d5b436dbcfbabdfe33c1",
+        "b944da81737e6d4244efe480bab45aeadc687b020cd7d59a51f9e1cc82950d3c"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729035",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729035/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729035/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729035/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2866992,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729035/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6431939,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729035/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729036",
+      "library": "Pa3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729036/quant_complete.json",
+      "quant_receipt_sha256_current": "940971008e8c37b6ccadc974ddbd7a26fb5aeaae9032c768ef0a3bf91f737a06",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "6b631bc60fb0b3ee312e2a1da5ec70264d2f367196d64be619769d356f24888e",
+      "clean_sha256_existing_receipt": [
+        "c8f991c3210b037931743682457ad3fe9ab71ff45db4e3740737fc8d670c63ef",
+        "5512893a5182c5add3a028dd8633af2138da470cd6ef82d3ac3ddd81ccb66b13"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729036",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729036/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729036/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729036/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2849532,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729036/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6010782,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729036/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729037",
+      "library": "PaPsHp3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729037/quant_complete.json",
+      "quant_receipt_sha256_current": "f91bd56105497b044353955f7dd88206172497ea20a514b9be325e4bbb0c4ae3",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "18580ecc30a5376892f359dc930bad5370f698d23c13970cd2039c860f8de7b3",
+      "clean_sha256_existing_receipt": [
+        "80fd7a77494dfb07ddf90430d3c2b71ff63a7d4c88140681bf9ae15b43fef3c5",
+        "24abdae5cdab23e6cb85c38b4ad81a785dbf630d8e70ac9eccfee13c7c0975a2"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729037",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729037/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729037/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729037/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2850657,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729037/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 5986694,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729037/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729038",
+      "library": "PaPsHp2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729038/quant_complete.json",
+      "quant_receipt_sha256_current": "08fbcaae74d1e727632a5e58a5c8c8eba6f89b0a807d24c8c61de063de41f5b8",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "24380aa6528fbb7c36bc56fdc27ecdaf242a52f714c51a8ca3c7e11dff388e97",
+      "clean_sha256_existing_receipt": [
+        "38aaf2b40707230099ed35f74a74a60550dbac5002d4a901296b67658a143894",
+        "6e8fb5c363efe2dce308acf984014d11d2371fc780c45a8d7b0bda7e76b05657"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729038",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729038/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729038/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729038/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2862213,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729038/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6228802,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729038/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729039",
+      "library": "Pa2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729039/quant_complete.json",
+      "quant_receipt_sha256_current": "5942934830aa97ad73707b47f3024ed75e6f638e50c7457f31c5599e443ac801",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "4b4221d7b4cb91751403ec5dcd58dab0febaff7e6dc18e7209837f3767a4efb2",
+      "clean_sha256_existing_receipt": [
+        "9d0b1decfa153ddda72bf229efa3a56f22320867de51865b1efff25524d5f94d",
+        "cb77ec6cc8ef427df4c7fa54b4cb3b72a454e0fd5cabf26f020e07a3f9d06e30"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729039",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729039/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729039/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729039/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2852017,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729039/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 6070553,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729039/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "primary",
+      "run": "SRR14729040",
+      "library": "Pa1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729040/quant_complete.json",
+      "quant_receipt_sha256_current": "d3ecf2c91f969dbb0a86decfe3d3737839ab1370994bf5aea9e5d1fb068516ea",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "a817540dd97672d9279d5235403076da40277b7df36afd67e48a2cb44ba5bb8e",
+      "abundance_sha256_existing_receipt": "2cc14661906a7e86c79bad43e9c47b6e5b0470b379790aebdb4683f0391dba0d",
+      "clean_sha256_existing_receipt": [
+        "a128919cd3e235445728ea7315414bcb70d5c220008c83a1f5d0b72aab5ffc7d",
+        "829a31f7945ada7012a3cb11771434ad929d8b039957c75b6c8571442700aa3d"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_primary.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729040",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "-b",
+        "30",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729040/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729040/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729040/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2832019,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729040/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 5817212,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/primary/SRR14729040/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729029",
+      "library": "PaPsHp1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729029/quant_complete.json",
+      "quant_receipt_sha256_current": "5058bb0350260ce1c47057ac7ec03932fcada855625bb49491c4e2fb61271a67",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "eb80e10302c2dcb377e06ac52628ca1838a416eaef0f28501246bf6402418469",
+      "clean_sha256_existing_receipt": [
+        "db7132b5419dab9b86eb1eca1f03f32fc0979f64b36e67aa3ea12d0743be2f83",
+        "938244ff0fb4c78afd7aa2d6ceff92082bb5f86970a75a5d1f56a374f38e806a"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729029",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729029/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729029/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729029/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2938361,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729029/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1107045,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729029/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729030",
+      "library": "PaHp3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729030/quant_complete.json",
+      "quant_receipt_sha256_current": "7c4e37dcc5a37d060d9767375f124998e9e25154059bc232ba1a544349f88838",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "ae7296d575cc4c98a846e2b6eb79ccd3e078bcaaf7937e8ab4c436b1c0c07178",
+      "clean_sha256_existing_receipt": [
+        "9f245080e7fe56d8de91ef9e38dfda8fba4ef52c5a645042a261d74d30dadb25",
+        "d88064960a890a6edfe13ff92cbbca0b606d6d3b7c7be3a0d347c83a27d15c95"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729030",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729030/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729030/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729030/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2932739,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729030/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1110751,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729030/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729031",
+      "library": "PaHp2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729031/quant_complete.json",
+      "quant_receipt_sha256_current": "a8c86f7a2f44b9d8e680f70e715cc22de02ac9f59828451639cfd430cdcf47d1",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "302a8289a058fd1d90d620a7e19e90eed0a504e216da7f002333810cb91eedaf",
+      "clean_sha256_existing_receipt": [
+        "af8ffadb5288c3c23ce7c4300bcdab6d3cbf6b27aa4fe90434dd23cb2db26a47",
+        "4a4eb199ad00cdb716322caa04796e5b5f119b164da60ed9525fa0226dfebe81"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729031",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729031/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729031/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729031/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2934867,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729031/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1105870,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729031/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729032",
+      "library": "PaHp1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729032/quant_complete.json",
+      "quant_receipt_sha256_current": "b9708acf4ae69909515fc8ad5650e1924d449766f7d2f530e080b25852b8c76c",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "9a34544d231dc9dfa59ee25191eac4c16d19b1da15cb89c20486e4e31124d328",
+      "clean_sha256_existing_receipt": [
+        "8fcd8c850b2499bf6c0ff33edd3917807cfecb69153e692171701c69a9d491d2",
+        "5b953acb3e40a07c7076203b0db6bdc700a62da6f0d4d9e9e0cf25cdbc048d26"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729032",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729032/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729032/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729032/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2937162,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729032/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1108936,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729032/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729033",
+      "library": "PaPs3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729033/quant_complete.json",
+      "quant_receipt_sha256_current": "35ee8a90979778bea9403cba632c4051273ec6e154da9caa7fbe74298eee11cd",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "ab7907e5429f6c651551bc462c6abcd7e4fdc6f9c7dcefc12d66c0522e949c2d",
+      "clean_sha256_existing_receipt": [
+        "15cfad361fefc8320a4197e1b916684d65ee811da11491238706c545dfc8ea43",
+        "de962940dd3b995db5a51b9da5657b19c82708c0f0abeef697d25355f31b667d"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729033",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729033/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729033/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729033/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2942394,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729033/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1111181,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729033/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729034",
+      "library": "PaPs2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729034/quant_complete.json",
+      "quant_receipt_sha256_current": "eb7481099fa4bf0fe52b8d581eb0e1168774bf6083cec3b9e5b0dfe543015aa2",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "a6f1d6299248bbd20277e4a9c91e3989f94c0e2f017c3e53220409de85512128",
+      "clean_sha256_existing_receipt": [
+        "534fd9367a7c0c87602e87c37ae73207ed4c71d87e1fa219a34a74e0128346c4",
+        "4707f2582066e416e27e55343317a68c47c3893a4dee7a458bd515dee6bb2621"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729034",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729034/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729034/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729034/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2939784,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729034/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1109995,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729034/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729035",
+      "library": "PaPs1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729035/quant_complete.json",
+      "quant_receipt_sha256_current": "139683d8e25d7602d61740a59839e88bdbae200d82a493e2901a6753f07cd97e",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "a62b49cd20773f17e4f94e34fe77452f9e41aebccb837f16111fa56814e5c67d",
+      "clean_sha256_existing_receipt": [
+        "c4591580eabf08a10a33e454ad0e1e94d434d34055d8d5b436dbcfbabdfe33c1",
+        "b944da81737e6d4244efe480bab45aeadc687b020cd7d59a51f9e1cc82950d3c"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729035",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729035/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729035/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729035/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2953127,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729035/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1118103,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729035/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729036",
+      "library": "Pa3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729036/quant_complete.json",
+      "quant_receipt_sha256_current": "93b95f9d1b6ca887c6552cf9810631c4f0f1211334875512cbb141e29178675d",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "0f1b442c7c29c775da1595544a6ed77844cb9ecb76bd9f3f49b1275ea14e76cf",
+      "clean_sha256_existing_receipt": [
+        "c8f991c3210b037931743682457ad3fe9ab71ff45db4e3740737fc8d670c63ef",
+        "5512893a5182c5add3a028dd8633af2138da470cd6ef82d3ac3ddd81ccb66b13"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729036",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729036/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729036/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729036/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2927864,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729036/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1102861,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729036/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729037",
+      "library": "PaPsHp3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729037/quant_complete.json",
+      "quant_receipt_sha256_current": "d610c7ca900365cf9daa088b17e1c5499e41065061ac81af5d769db3fec32e5c",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "644841003d61c2b37fc48456919ddccf4aeae3526b8300e1208e8c5aca1feaeb",
+      "clean_sha256_existing_receipt": [
+        "80fd7a77494dfb07ddf90430d3c2b71ff63a7d4c88140681bf9ae15b43fef3c5",
+        "24abdae5cdab23e6cb85c38b4ad81a785dbf630d8e70ac9eccfee13c7c0975a2"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729037",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729037/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729037/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729037/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2932178,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729037/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1102718,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729037/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729038",
+      "library": "PaPsHp2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729038/quant_complete.json",
+      "quant_receipt_sha256_current": "7e2c5817bb76969ad32531c4ac9fcd6598537d252d3c7617853f70b8a2a3c163",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "d13a22cfd9327faa2da27a55d1578aef91cee8d09f8b1cac7c0328cccb9748ce",
+      "clean_sha256_existing_receipt": [
+        "38aaf2b40707230099ed35f74a74a60550dbac5002d4a901296b67658a143894",
+        "6e8fb5c363efe2dce308acf984014d11d2371fc780c45a8d7b0bda7e76b05657"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729038",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729038/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729038/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729038/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2943005,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729038/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1110798,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729038/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729039",
+      "library": "Pa2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729039/quant_complete.json",
+      "quant_receipt_sha256_current": "6854dfba05e6e509ed18ecfb67e3178a05c99b2b6eb3fd19dda1be0094d940e3",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "481894b9cd706462d5af18b933a2832940e5acafe878789fd2c3f5cca4c409ec",
+      "clean_sha256_existing_receipt": [
+        "9d0b1decfa153ddda72bf229efa3a56f22320867de51865b1efff25524d5f94d",
+        "cb77ec6cc8ef427df4c7fa54b4cb3b72a454e0fd5cabf26f020e07a3f9d06e30"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729039",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729039/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729039/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729039/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2925836,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729039/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1105256,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729039/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "allN",
+      "run": "SRR14729040",
+      "library": "Pa1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729040/quant_complete.json",
+      "quant_receipt_sha256_current": "c35ddbac8ca1fe993d228c14901f451145a51181203ccdac8f1ff5b372d01445",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "ed36b06069349a285ae1e606560b77db93cd2fe249894060161c7144f309aa82",
+      "abundance_sha256_existing_receipt": "dcbc79da0a05b758e7019733adabed4a9f68b91ae5e0a03929bf52956815ec2b",
+      "clean_sha256_existing_receipt": [
+        "a128919cd3e235445728ea7315414bcb70d5c220008c83a1f5d0b72aab5ffc7d",
+        "829a31f7945ada7012a3cb11771434ad929d8b039957c75b6c8571442700aa3d"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_allN.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729040",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729040/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729040/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729040/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 2918283,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729040/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1095969,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/allN/SRR14729040/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 871,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729029",
+      "library": "PaPsHp1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729029/quant_complete.json",
+      "quant_receipt_sha256_current": "75609c97c81ce10b001ae8fd44926c73e63068cf0bf9410b0ebb6b957203c214",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "07d94efe5d277c2f746e10c1d6ec0ee1928c26d814d5ae24535a1ed89371bd2d",
+      "clean_sha256_existing_receipt": [
+        "db7132b5419dab9b86eb1eca1f03f32fc0979f64b36e67aa3ea12d0743be2f83",
+        "938244ff0fb4c78afd7aa2d6ceff92082bb5f86970a75a5d1f56a374f38e806a"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729029",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729029/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729029/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729029/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3605080,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729029/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1347777,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729029/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729030",
+      "library": "PaHp3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729030/quant_complete.json",
+      "quant_receipt_sha256_current": "0ba16d40adf99a6ea910fff37200d3e9522c9ebcea2fcd97935b858649c7e67e",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "219e312ec8d9a2c19ea9c75a0932266de254efefaf5bad529aa2dad820247bde",
+      "clean_sha256_existing_receipt": [
+        "9f245080e7fe56d8de91ef9e38dfda8fba4ef52c5a645042a261d74d30dadb25",
+        "d88064960a890a6edfe13ff92cbbca0b606d6d3b7c7be3a0d347c83a27d15c95"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729030",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729030/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729030/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729030/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3592471,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729030/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1342650,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729030/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729031",
+      "library": "PaHp2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729031/quant_complete.json",
+      "quant_receipt_sha256_current": "95f1f25293f25db1f430c910792c0297f1f673696590451edeb3c4e91ef15dbb",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "98eff9236b2ea8d1acfff34f82f7fbba432f0e024678480764b52ac6f3ef8e85",
+      "clean_sha256_existing_receipt": [
+        "af8ffadb5288c3c23ce7c4300bcdab6d3cbf6b27aa4fe90434dd23cb2db26a47",
+        "4a4eb199ad00cdb716322caa04796e5b5f119b164da60ed9525fa0226dfebe81"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729031",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729031/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729031/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729031/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3589519,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729031/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1336771,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729031/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729032",
+      "library": "PaHp1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729032/quant_complete.json",
+      "quant_receipt_sha256_current": "614694d6bf561aec1a3933ee2c4b70fb9ebf5db773e8fe311b6a10923bca01ee",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "44ad8b5639d3c947f62fddaee04f0b9c000d3a35317a251b54b54537d9d5f3d6",
+      "clean_sha256_existing_receipt": [
+        "8fcd8c850b2499bf6c0ff33edd3917807cfecb69153e692171701c69a9d491d2",
+        "5b953acb3e40a07c7076203b0db6bdc700a62da6f0d4d9e9e0cf25cdbc048d26"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729032",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729032/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729032/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729032/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3593454,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729032/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1341773,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729032/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729033",
+      "library": "PaPs3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729033/quant_complete.json",
+      "quant_receipt_sha256_current": "b014ddbffb1ba0a240ec7b42a148e38edb619ace41a411d71137167cbb42c1fb",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "2193ca429226f06cea552506ccb9a69bbca1f32df5f9a6626e869e89041ab945",
+      "clean_sha256_existing_receipt": [
+        "15cfad361fefc8320a4197e1b916684d65ee811da11491238706c545dfc8ea43",
+        "de962940dd3b995db5a51b9da5657b19c82708c0f0abeef697d25355f31b667d"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729033",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729033/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729033/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729033/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3621693,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729033/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1350461,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729033/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729034",
+      "library": "PaPs2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729034/quant_complete.json",
+      "quant_receipt_sha256_current": "c2cd21af751ee8a52109a934a762a5928b4f77b0f560283e8abdc7b6007e5de5",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "d9f84976078effc8d040849e5a709faf987bec80009c9189a670cb03168a82e5",
+      "clean_sha256_existing_receipt": [
+        "534fd9367a7c0c87602e87c37ae73207ed4c71d87e1fa219a34a74e0128346c4",
+        "4707f2582066e416e27e55343317a68c47c3893a4dee7a458bd515dee6bb2621"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729034",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729034/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729034/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729034/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3613226,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729034/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1349227,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729034/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729035",
+      "library": "PaPs1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729035/quant_complete.json",
+      "quant_receipt_sha256_current": "f2bdd4827e39c0188997f4b8269dfec206546f09f6cf12da6da3ecbee270d0d2",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "d3fbe080157933377ba2cea90f95f03a1b5275f289603072fbeccad222178bb7",
+      "clean_sha256_existing_receipt": [
+        "c4591580eabf08a10a33e454ad0e1e94d434d34055d8d5b436dbcfbabdfe33c1",
+        "b944da81737e6d4244efe480bab45aeadc687b020cd7d59a51f9e1cc82950d3c"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729035",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729035/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729035/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729035/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3633988,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729035/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1357156,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729035/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729036",
+      "library": "Pa3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729036/quant_complete.json",
+      "quant_receipt_sha256_current": "a72d7b1080236e5c9d07335b34533089beec0df115d32613406b979d4ec8c2ea",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "61db59188afa1b22b400c9ec443bb57b20250e50790bc27eb524b6cb7dd33179",
+      "clean_sha256_existing_receipt": [
+        "c8f991c3210b037931743682457ad3fe9ab71ff45db4e3740737fc8d670c63ef",
+        "5512893a5182c5add3a028dd8633af2138da470cd6ef82d3ac3ddd81ccb66b13"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729036",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729036/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729036/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729036/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3583925,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729036/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1334894,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729036/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729037",
+      "library": "PaPsHp3",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729037/quant_complete.json",
+      "quant_receipt_sha256_current": "a55c5349ecc49bd6f08ae44ae291b55c54544f47b662b983b7364caafc71b72b",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "78222434b4d6e5e50423d3590ab353906b40c745813f1964058a575956a82a9e",
+      "clean_sha256_existing_receipt": [
+        "80fd7a77494dfb07ddf90430d3c2b71ff63a7d4c88140681bf9ae15b43fef3c5",
+        "24abdae5cdab23e6cb85c38b4ad81a785dbf630d8e70ac9eccfee13c7c0975a2"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729037",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729037/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729037/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729037/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3598585,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729037/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1341062,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729037/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729038",
+      "library": "PaPsHp2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729038/quant_complete.json",
+      "quant_receipt_sha256_current": "2b941ef2386fee8df9f2febfbdd3f439fbe215e5b0be4856de803a0aaf23a957",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "12f9a30fd9d6fe7ad084d9cc7b0da9351eeef677af4ffef7734698b39208c790",
+      "clean_sha256_existing_receipt": [
+        "38aaf2b40707230099ed35f74a74a60550dbac5002d4a901296b67658a143894",
+        "6e8fb5c363efe2dce308acf984014d11d2371fc780c45a8d7b0bda7e76b05657"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729038",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729038/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729038/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729038/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3623242,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729038/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1350143,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729038/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729039",
+      "library": "Pa2",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729039/quant_complete.json",
+      "quant_receipt_sha256_current": "d1b6638adc1950da9e8e78d227de6b2f0215f7a0092331096bb5b6dfad53c357",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "4a1e345f38e4e1d0c343c07cb004f745f4a92705c3496754bf4c40fd4c1a1b0b",
+      "clean_sha256_existing_receipt": [
+        "9d0b1decfa153ddda72bf229efa3a56f22320867de51865b1efff25524d5f94d",
+        "cb77ec6cc8ef427df4c7fa54b4cb3b72a454e0fd5cabf26f020e07a3f9d06e30"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729039",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729039/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729039/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729039/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3539818,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729039/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1335948,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729039/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    },
+    {
+      "route": "competition",
+      "run": "SRR14729040",
+      "library": "Pa1",
+      "quant_receipt_path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729040/quant_complete.json",
+      "quant_receipt_sha256_current": "2c6f1491aec9bea7baba88c61f158b0cb4bd27659c0b87cc8040dd3047806a68",
+      "receipt_exit": 0,
+      "index_sha256_existing_receipt": "9ff9efa6bad5e3b5e3aae1378101c49acfafd0329ae2508d8dee0624c7c4ce0f",
+      "abundance_sha256_existing_receipt": "9007c89e5f35e897a60fc3b3aeaa8724a77838a33254dbabe22ec73c836e3ab1",
+      "clean_sha256_existing_receipt": [
+        "a128919cd3e235445728ea7315414bcb70d5c220008c83a1f5d0b72aab5ffc7d",
+        "829a31f7945ada7012a3cb11771434ad929d8b039957c75b6c8571442700aa3d"
+      ],
+      "command": [
+        "/home/11/dse_audit_20261016T1226Z/11_CN_core_audit_20261016T1555Z/04_tests/tools/kallisto/kallisto",
+        "quant",
+        "-i",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/indices/host_plus_mscop.idx",
+        "-o",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729040",
+        "-t",
+        "2",
+        "--seed",
+        "271828",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729040/fastp_full/clean_1.fastq.gz",
+        "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/qc/SRR14729040/fastp_full/clean_2.fastq.gz"
+      ],
+      "artifacts_current_stat_only": [
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729040/abundance.tsv",
+          "exists": true,
+          "current_stat_bytes": 3572839,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729040/abundance.h5",
+          "exists": true,
+          "current_stat_bytes": 1328131,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        },
+        {
+          "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/competition/SRR14729040/run_info.json",
+          "exists": true,
+          "current_stat_bytes": 884,
+          "checksum_source": "quant_complete.json existing record; large artifact was not rehashed in v2"
+        }
+      ]
+    }
+  ]
+}

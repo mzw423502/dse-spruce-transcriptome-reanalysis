@@ -1,0 +1,101 @@
+term_id	name	namespace
+GO:0000389	mRNA 3'-splice site recognition	biological_process
+GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose	biological_process
+GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	biological_process
+GO:0000448	cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	biological_process
+GO:0000461	endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	biological_process
+GO:0001906	cell killing	biological_process
+GO:0002016	regulation of blood volume by renin-angiotensin	biological_process
+GO:0002035	brain renin-angiotensin system	biological_process
+GO:0002098	tRNA wobble uridine modification	biological_process
+GO:0002100	tRNA wobble adenosine to inosine editing	biological_process
+GO:0002143	tRNA wobble position uridine thiolation	biological_process
+GO:0002376	immune system process	biological_process
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	biological_process
+GO:0002756	MyD88-independent toll-like receptor signaling pathway	biological_process
+GO:0007035	vacuolar acidification	biological_process
+GO:0007042	lysosomal lumen acidification	biological_process
+GO:0007094	mitotic spindle assembly checkpoint signaling	biological_process
+GO:0007204	positive regulation of cytosolic calcium ion concentration	biological_process
+GO:0007610	behavior	biological_process
+GO:0008152	metabolic process	biological_process
+GO:0009987	cellular process	biological_process
+GO:0010666	positive regulation of cardiac muscle cell apoptotic process	biological_process
+GO:0010976	positive regulation of neuron projection development	biological_process
+GO:0023052	signaling	biological_process
+GO:0030516	regulation of axon extension	biological_process
+GO:0031145	anaphase-promoting complex-dependent catabolic process	biological_process
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	biological_process
+GO:0031578	mitotic spindle orientation checkpoint signaling	biological_process
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	biological_process
+GO:0032501	multicellular organismal process	biological_process
+GO:0032502	developmental process	biological_process
+GO:0032968	positive regulation of transcription elongation by RNA polymerase II	biological_process
+GO:0033212	iron import into cell	biological_process
+GO:0034122	negative regulation of toll-like receptor signaling pathway	biological_process
+GO:0034130	toll-like receptor 1 signaling pathway	biological_process
+GO:0034134	toll-like receptor 2 signaling pathway	biological_process
+GO:0034138	toll-like receptor 3 signaling pathway	biological_process
+GO:0034142	toll-like receptor 4 signaling pathway	biological_process
+GO:0034146	toll-like receptor 5 signaling pathway	biological_process
+GO:0034154	toll-like receptor 7 signaling pathway	biological_process
+GO:0034755	iron ion transmembrane transport	biological_process
+GO:0035278	miRNA-mediated gene silencing by inhibition of translation	biological_process
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	biological_process
+GO:0035681	toll-like receptor 15 signaling pathway	biological_process
+GO:0035682	toll-like receptor 21 signaling pathway	biological_process
+GO:0040007	growth	biological_process
+GO:0040011	locomotion	biological_process
+GO:0042478	regulation of eye photoreceptor cell development	biological_process
+GO:0042777	proton motive force-driven plasma membrane ATP synthesis	biological_process
+GO:0043507	positive regulation of JUN kinase activity	biological_process
+GO:0043508	negative regulation of JUN kinase activity	biological_process
+GO:0045059	positive thymic T cell selection	biological_process
+GO:0045060	negative thymic T cell selection	biological_process
+GO:0045773	positive regulation of axon extension	biological_process
+GO:0046533	negative regulation of photoreceptor cell differentiation	biological_process
+GO:0048511	rhythmic process	biological_process
+GO:0048670	regulation of collateral sprouting	biological_process
+GO:0048671	negative regulation of collateral sprouting	biological_process
+GO:0048679	regulation of axon regeneration	biological_process
+GO:0048680	positive regulation of axon regeneration	biological_process
+GO:0048814	regulation of dendrite morphogenesis	biological_process
+GO:0050770	regulation of axonogenesis	biological_process
+GO:0050771	negative regulation of axonogenesis	biological_process
+GO:0050772	positive regulation of axonogenesis	biological_process
+GO:0050773	regulation of dendrite development	biological_process
+GO:0050774	negative regulation of dendrite morphogenesis	biological_process
+GO:0050775	positive regulation of dendrite morphogenesis	biological_process
+GO:0050896	response to stimulus	biological_process
+GO:0051127	positive regulation of actin nucleation	biological_process
+GO:0051179	localization	biological_process
+GO:0051417	microtubule nucleation by spindle pole body	biological_process
+GO:0051452	intracellular pH reduction	biological_process
+GO:0051454	intracellular pH elevation	biological_process
+GO:0051481	negative regulation of cytosolic calcium ion concentration	biological_process
+GO:0051638	barbed-end actin filament uncapping	biological_process
+GO:0051966	regulation of synaptic transmission, glutamatergic	biological_process
+GO:0051967	negative regulation of synaptic transmission, glutamatergic	biological_process
+GO:0051968	positive regulation of synaptic transmission, glutamatergic	biological_process
+GO:0060003	copper ion export	biological_process
+GO:0060963	positive regulation of ribosomal protein gene transcription by RNA polymerase II	biological_process
+GO:0060998	regulation of dendritic spine development	biological_process
+GO:0060999	positive regulation of dendritic spine development	biological_process
+GO:0061001	regulation of dendritic spine morphogenesis	biological_process
+GO:0065007	biological regulation	biological_process
+GO:0070534	protein K63-linked ubiquitination	biological_process
+GO:0070570	regulation of neuron projection regeneration	biological_process
+GO:0070572	positive regulation of neuron projection regeneration	biological_process
+GO:0070791	cleistothecium development	biological_process
+GO:0070936	protein K48-linked ubiquitination	biological_process
+GO:0071840	cellular component organization or biogenesis	biological_process
+GO:0071929	alpha-tubulin acetylation	biological_process
+GO:0071951	conversion of methionyl-tRNA to N-formyl-methionyl-tRNA	biological_process
+GO:0072236	metanephric loop of Henle development	biological_process
+GO:0072237	metanephric proximal tubule development	biological_process
+GO:0080178	5-carbamoylmethyl uridine residue modification	biological_process
+GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont	biological_process
+GO:0090383	phagosome acidification	biological_process
+GO:1901339	regulation of store-operated calcium channel activity	biological_process
+GO:1901668	regulation of superoxide dismutase activity	biological_process
+GO:1901671	positive regulation of superoxide dismutase activity	biological_process

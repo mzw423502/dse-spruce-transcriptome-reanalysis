@@ -1,0 +1,49 @@
+{
+  "validated": true,
+  "validated_utc": "2026-10-17T04:43:20.207463+00:00",
+  "paths": {
+    "fastp": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/rnaseq/bin/fastp",
+    "Rscript": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/rnaseq/bin/Rscript"
+  },
+  "versions": {
+    "DESeq2": "1.46.0",
+    "tximport": "1.34.0",
+    "edgeR": "4.4.0",
+    "limma": "3.62.1",
+    "ggplot2": "4.0.3",
+    "pheatmap": "1.0.13",
+    "jsonlite": "2.0.0",
+    "data.table": "1.18.6.1",
+    "statmod": "1.5.2",
+    "svglite": "2.2.2",
+    "ggrepel": "0.9.8",
+    "R": "4.4.3",
+    "fastp": "1.4.0",
+    "GenomeInfoDbData": "1.2.13"
+  },
+  "binary_sha256": {
+    "fastp": "65ef93e0f9e9e610ce796f9d321f5d3dcf737d5c4b13fbd12eb21a57110ec9a1",
+    "Rscript": "7d94377b7ccffc26e9333caa813c809c32964475f48fe3fbccdfc7cea6064fd3"
+  },
+  "R_QA": {
+    "directory": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/synthetic_QA/R_20261017T044000Z",
+    "result": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/synthetic_QA/R_20261017T044000Z/synthetic_R_QA.json",
+    "result_sha256": "146060c01fd49eb99d494a219b76bc4f571b4059e700d1f15d9ab7f5cbabc009",
+    "log": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/06_statistics/synthetic_QA/R_20261017T044000Z/run.log",
+    "exit": 0,
+    "visual_review": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/11_progress/permission_probe_20261017T042501Z/environment_functional_QA/plot_visual_review.json"
+  },
+  "fastp_QA": {
+    "protocol": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/05_quantification/preprocessing_protocol.json",
+    "protocol_sha256": "906ea638b012949b9a2beed87ee9636b376d2d9db2c318f144be7f7f3f89c3a7",
+    "samples": 2,
+    "pairs_per_sample": 50000,
+    "exit": 0
+  },
+  "environment_explicit": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/environment.explicit.env_export.txt",
+  "environment_explicit_sha256": "1f8e4774020809a309476ab9c84e1f99eb67bc3d4486a0f1161f1bfa650db8dd",
+  "resolved_yml": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/environment.resolved.yml",
+  "additional_data_package_repair": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/11_progress/permission_probe_20261017T042501Z/GenomeInfoDbData_repair/state.json",
+  "additional_data_package_repair_sha256": "490f2f0529fe11e3f26eb7580715f9568a24cdb23b61f3bec58155730638b534",
+  "scope": "Technical environment and pre-processing readiness only. No formal 12-library expression or biological result."
+}

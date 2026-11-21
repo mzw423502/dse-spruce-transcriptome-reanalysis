@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "DSE-dependent transcriptomic responses to a pathogen in Norway spruce"
+type: software
+authors:
+  - family-names: Ma
+    given-names: Zhongwu
+    orcid: https://orcid.org/0009-0006-3205-7695
+  - family-names: Liu
+    given-names: Zhe
+    orcid: https://orcid.org/0009-0008-5516-9889
+abstract: "Code, derived data, and provenance records for a two-factor transcriptomic reanalysis of PRJNA734471."
+repository-code: https://github.com/mzw423502/dse-spruce-transcriptome-reanalysis
