@@ -1,0 +1,2 @@
+# Preserve archived source-file bytes; do not apply platform line-ending conversion.
+* -text
