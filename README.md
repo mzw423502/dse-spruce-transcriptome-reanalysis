@@ -1,4 +1,4 @@
-# DSE-dependent transcriptomic responses to a pathogen in Norway spruce
+# Endophyte-dependent transcriptional responses to a pathogen in Norway spruce
 
 This repository accompanies the manuscript *Endophyte-dependent transcriptional responses to a pathogen in Norway spruce*. It contains the derived data tables, analysis scripts, sequence-domain inputs and models, and provenance records used for the reported two-factor transcriptomic reanalysis of BioProject PRJNA734471.
 
@@ -11,7 +11,11 @@ The archived materials support inspection and reproduction of the reported deriv
 - `data/`: electronic Supplementary Table S5 and derived candidate-level data.
 - `analysis/`: analysis results, scripts, enrichment records, domain-verification materials, and receipts.
 - `frozen_base/`: frozen input, provenance, numerical, and reproducibility records.
+- `reproducibility_inputs/`: archived model objects and inputs for the derived analyses.
+- `figures/`: figure-related outputs included in the original reproducibility package.
 - `work/`: supporting scripts used to produce or check archived derived outputs.
+
+Electronic Supplementary Table S5 is provided in editable tab-separated format: [candidate-level results](data/S5_candidates39_complete.tsv) and [source GO relations](data/S5_source_GO_relations.tsv). See the [S5 readme](data/README_ELECTRONIC_TABLE_S5_EN.txt) for field descriptions.
 
 ## Reproduction
 
@@ -23,4 +27,4 @@ The repository redistributes only files assembled for this study's reproducibili
 
 ## Citation
 
-Please cite the associated manuscript. A DOI is not assigned at the time of repository preparation; use `CITATION.cff` for the current citation metadata.
+Please cite the associated manuscript and this archived repository version: Ma, Z., and Liu, Z. (2026). *Endophyte-dependent transcriptional responses to a pathogen in Norway spruce: code and derived data*. Version 1.0.0. https://github.com/mzw423502/dse-spruce-transcriptome-reanalysis/tree/v1.0.0 . A DOI has not been assigned; use `CITATION.cff` for citation metadata.
