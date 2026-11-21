@@ -17,6 +17,12 @@ The archived materials support inspection and reproduction of the reported deriv
 
 Electronic Supplementary Table S5 is provided in editable tab-separated format: [candidate-level results](data/S5_candidates39_complete.tsv) and [source GO relations](data/S5_source_GO_relations.tsv). See the [S5 readme](data/README_ELECTRONIC_TABLE_S5_EN.txt) for field descriptions.
 
+## Alignment provenance
+
+Version 1.0.1 adds the historical alignment script (`align_current_pairs.py`), its frozen protocol (`all_fixed_pairs/protocol.json`), and the historical source-chain audit (`review/alignment_method_audit.md`). These records describe fixed host--source protein-pair alignment metrics; they do not represent a database search, orthology determination, or functional-equivalence analysis. Candidate-level local alignment values used in the manuscript are available in `data/S5_candidates39_complete.tsv`.
+
+The historical all-pairs alignment output is described in the audit record but is not included in this repository version. This release does not represent that full output as publicly retrieved or remotely verified. `ALIGNMENT_PROVENANCE_ADDITION.json` records the source-file hashes and scope of this addition.
+
 ## Reproduction
 
 The archived scripts retain the original analytical record and may contain historical absolute paths. Set local paths before executing them. Do not overwrite the supplied frozen results. Core workflows use R (including DESeq2 and jsonlite); Figure 3 additionally uses ggplot2, data.table, and grid. The domain-verification workflow uses Python with pyhmmer. See `analysis/README_REPRODUCE.txt` and `README_REPRODUCE_EN.txt` for the detailed workflow and input provenance.
@@ -27,4 +33,4 @@ The repository redistributes only files assembled for this study's reproducibili
 
 ## Citation
 
-Please cite the associated manuscript and this archived repository version: Ma, Z., and Liu, Z. (2026). *Endophyte-dependent transcriptional responses to a pathogen in Norway spruce: code and derived data*. Version 1.0.0. https://github.com/mzw423502/dse-spruce-transcriptome-reanalysis/tree/v1.0.0 . A DOI has not been assigned; use `CITATION.cff` for citation metadata.
+Please cite the associated manuscript and this archived repository version: Ma, Z., and Liu, Z. (2026). *Endophyte-dependent transcriptional responses to a pathogen in Norway spruce: code and derived data*. Version 1.0.1. https://github.com/mzw423502/dse-spruce-transcriptome-reanalysis/tree/v1.0.1 . A DOI has not been assigned; use `CITATION.cff` for citation metadata.

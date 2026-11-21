@@ -1,0 +1,117 @@
+{
+  "frozen_bjt": "2026-10-28T12:32:06.780743+08:00",
+  "stage": "ALL_FIXED_EXISTING_CANDIDATE_SEQUENCE_RELATION_AUDIT",
+  "inputs": [
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/unique_sequence_pair_manifest.tsv",
+      "bytes": 10513630,
+      "sha256": "0072c2edf27f9a2e0c69a69493d2ad9bec7c6e03b2517b7d193231547bca992e"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/host_units_current_peptides.faa",
+      "bytes": 16360325,
+      "sha256": "dcad9bda2d83b1bdb1dcc60508f261239d4e533baa2cbc1dbcd11aab404e57b0"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/source_accession_version_proteins.faa",
+      "bytes": 8983653,
+      "sha256": "932a67a9369d0066743c49e2027d5e614780467954404107fa76a0e701a6a771"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/11_progress/heartbeat_20261028_1212/pilot100_independent_audit.json",
+      "bytes": 2418,
+      "sha256": "4c0b3cd3aa6bfd98d8c31e63d6ae776ae8d396652d50226d606275f5b88ca06a"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/pilot100/alignments.jsonl",
+      "bytes": 608082,
+      "sha256": "171c8b4648ca2ebf4630da618c8249e44e8a18dbf5378ced816da6d5e72ee9e3"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/pilot100/protocol.json",
+      "bytes": 3825,
+      "sha256": "8e3630f3d23107fd9eb3505a8ac1e2cae03d4cd7dc79610de2e65cfa2ca91062"
+    },
+    {
+      "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/align_current_pairs.py",
+      "bytes": 12030,
+      "sha256": "86cfca9d994fc1f540c69cad10babab37006261b9db8df4971af2768fe552e1c"
+    }
+  ],
+  "pilot_method": {
+    "frozen_before_alignments_bjt": "2026-10-28T12:29:24.965376+08:00",
+    "input_files": [
+      {
+        "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/pilot100_fixed_pairs.tsv",
+        "bytes": 44842,
+        "sha256": "f4cf1fe9376b2e909b82bacc8544692bccc83bc0a722ff01501daa7cbcdeda80"
+      },
+      {
+        "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/host_units_current_peptides.faa",
+        "bytes": 16360325,
+        "sha256": "dcad9bda2d83b1bdb1dcc60508f261239d4e533baa2cbc1dbcd11aab404e57b0"
+      },
+      {
+        "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/03_reference/annotation_extension/current_sequence_evidence_20261028_1212/source_accession_version_proteins.faa",
+        "bytes": 8983653,
+        "sha256": "932a67a9369d0066743c49e2027d5e614780467954404107fa76a0e701a6a771"
+      },
+      {
+        "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/sequence_pairwise_20261028_1212/functional_QA.json",
+        "bytes": 2276,
+        "sha256": "d19d380066edec918fce79ff269cd471b2e16e44f5b12f114374f06d154de16b"
+      },
+      {
+        "path": "/home/11/dse_audit_20261016T1226Z/12_formal_RNA_20261016T1640Z/04_environment/sequence_pairwise_20261028_1212/installation_receipt.json",
+        "bytes": 1534,
+        "sha256": "08c62bf6e7791d0035cf7edbb7d026f75777c75e4d23332c54abaf9dd8b0aa3e"
+      }
+    ],
+    "scope": "Current existing legacy candidate pairs only, sequence evidence audit, no database search, no orthology/function equivalence or GO transfer.",
+    "Bio": "1.88",
+    "numpy": "1.24.2",
+    "python": "3.12.3 (main, Aug 27 2025, 06:55:13) [GCC 12.3.0]",
+    "matrix": "BLOSUM62",
+    "matrix_text_sha256": "49bd7b3932e7e620c8d3d06247edcb2a564f02323d5f9d7e0d17144711f49793",
+    "modes": [
+      "local",
+      "global"
+    ],
+    "gap_open": -11,
+    "gap_extend": -1,
+    "gap_formula": "open+(n-1)*extend for n>=1; terminal gaps use same scores as internal; all insertion/deletion sides identical.",
+    "epsilon": 1e-06,
+    "algorithms": {
+      "local": "Gotoh local alignment algorithm",
+      "global": "Gotoh global alignment algorithm"
+    },
+    "coordinates": "0-based half-open target=host, query=source",
+    "CIGAR": "= identical chars; X unequal nongap; D host residue/source gap; I host gap/source residue; no soft-clips in CIGAR, outside alignment recorded separately.",
+    "metrics": "Identity numerator literal char equality; separate canonical20-aa identity count excludes BZX*. Columns denominator includes gaps; paired denominator excludes gaps. Positive=BLOSUM62>0 among paired residues. Residue coverage=paired residues/full sequence length. Span coverage=(end-start)/full length and can be100% in global despite large gaps; must not substitute span for residue coverage.",
+    "terminal_metrics": "outside_alignment_left/right counts local excluded residues. unpaired_left_to_first_pair/right_from_last_pair counts all residues before first or after last actual paired residue, including terminal global gaps.",
+    "ties": "len(PairwiseAlignments) exact unless OverflowError; enumerate <=32 optimal outputs; choose lexicographically smallest flattened coordinates in that subset; capped is not canonical among all alignments and does not establish unique biological correspondence.",
+    "errors": "Empty or unsupported alphabet explicit status, no residue replacement. No positive local ->NO_LOCAL_ALIGNMENT. Each ALIGNED row must reconstruct both source substrings and hand-recompute gap/matrix score.",
+    "resources": {
+      "threads": 1,
+      "max_memory_GiB": 3,
+      "per_pair_max_DP_cells": 200000000,
+      "full_phase_max_wall_seconds": 3600
+    },
+    "functional_memberships_created": 0
+  },
+  "pilot_reuse": "All200 verified pilot rows retained byte-identical after key/sequence validation; no repeated pilot computation. Remaining sequence pairs exactly once in this unique phase.",
+  "ordered_universe": "All27711 unique(host SHA,source accession.version,source SHA) pairs, source-chain provenance retained across27745 units/27930 MA chains. Sequence availability is distinct from H-current-CDS linkage and functional transfer.",
+  "tool": {
+    "Bio": "1.88",
+    "numpy": "1.24.2"
+  },
+  "engine_unchanged_from_pilot": true,
+  "resource_limits": {
+    "threads": 1,
+    "max_memory_GiB": 3,
+    "max_wall_seconds": 3600,
+    "max_DP_cells_per_pair": 200000000
+  },
+  "host_GO_membership_created": 0,
+  "no_expression_inputs": true
+}

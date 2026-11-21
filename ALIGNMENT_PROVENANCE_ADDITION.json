@@ -1,0 +1,44 @@
+{
+  "addition_version": "1.0.1",
+  "purpose": "Record the provenance and scope of historical sequence-alignment materials added without rerunning analysis.",
+  "new_analysis_performed": false,
+  "source_files": [
+    {
+      "repository_path": "align_current_pairs.py",
+      "source_package_relative_path": "Forest_Pathology_submission_20261111/working/frozen_data/reproducibility/sequence_alignment/align_current_pairs.py",
+      "bytes": 12030,
+      "sha256": "86cfca9d994fc1f540c69cad10babab37006261b9db8df4971af2768fe552e1c",
+      "role": "Historical fixed-pair local and global protein-alignment script."
+    },
+    {
+      "repository_path": "all_fixed_pairs/protocol.json",
+      "source_package_relative_path": "Forest_Pathology_submission_20261111/working/frozen_data/reproducibility/sequence_alignment/protocol.json",
+      "bytes": 6930,
+      "sha256": "d68d226798df94fdbec6cb3e6abdadf18439583a79fecd1d90adca36a235c3dd",
+      "role": "Frozen protocol for the existing fixed-pair sequence-alignment audit."
+    },
+    {
+      "repository_path": "review/alignment_method_audit.md",
+      "source_package_relative_path": "manuscript_YNMZ_revision2_20261101/review/alignment_method_audit.md",
+      "bytes": 8292,
+      "sha256": "862729c396d6476d4a307e0ad13ee7636a7e7089249e5b8c7bf3506c8af950fb",
+      "role": "Historical method and source-chain audit record."
+    }
+  ],
+  "candidate_level_alignment_data": "data/S5_candidates39_complete.tsv",
+  "historical_all_pairs_output": {
+    "described_in": "review/alignment_method_audit.md",
+    "file_name": "all27745_current_unit_source_alignment_metrics.tsv",
+    "included_in_this_repository_version": false,
+    "retrieved_or_remotely_verified_for_this_release": false
+  },
+  "credential_scan": {
+    "private_key": 0,
+    "password_assignment": 0,
+    "api_key_assignment": 0,
+    "bearer_token": 0,
+    "github_pat": 0,
+    "aws_key": 0,
+    "authenticated_proxy_url": 0
+  }
+}
